@@ -1,6 +1,6 @@
 {
  "Finance Magnates": "ok (20 items)",
- "LeapRate": "ok (10 items)",
+ "LeapRate": "error: ParseError: not well-formed (invalid token): line 1, column 119",
  "FX News Group": "ok (10 items)",
  "Markets Media": "ok (10 items)",
  "Traders Magazine": "ok (10 items)",
@@ -16,5 +16,5 @@
  "Finextra": "ok (51 items)",
  "InvestmentNews": "error: HTTPError: HTTP Error 404: Not Found",
  "ThinkAdvisor": "error: HTTPError: HTTP Error 403: Forbidden",
- "AdvisorHub": "ok (10 items)"
+ "AdvisorHub": "error: HTTPError: HTTP Error 403: Forbidden"
 }
