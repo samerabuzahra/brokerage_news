@@ -1,5 +1,87 @@
 [
  {
+  "id": "5426f0841a92",
+  "title": "Congress Weighs Prediction Market Trading Ban Amid Insider…",
+  "link": "https://financefeeds.com/congress-weighs-prediction-market-trading-ban-amid-insider-trading-concerns/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-14T16:40:21Z",
+  "summary": "The U.S. House Oversight Committee has called for new restrictions on federal officials trading in prediction markets, including a possible outright ban, following an investigation that uncovered concerns about the use of confidential government information to profit from event…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/prediction-market-760x428.jpg",
+  "section": "digital",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "13646c574321",
+  "title": "Hyperliquid Overtakes Bybit, Kraken and OKX as Open…",
+  "link": "https://financefeeds.com/hyperliquid-overtakes-bybit-kraken-and-okx-as-open-interest-hits-16-8-billion/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-14T15:55:27Z",
+  "summary": "Hyperliquid ended the third quarter of 2026 with a record $16.8 billion in derivatives open interest, overtaking centralized exchanges Bybit, Kraken and OKX as trading activity recovered and demand for stock-linked perpetual futures accelerated.Open interest increased nearly 80%…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/NEAR-Storms-Into-Hyperliquid-as-Momentum-Builds-Fast-760x428.webp",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "b918d6c7270c",
+  "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+  "link": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-14T15:38:27Z",
+  "summary": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/f848ee6dd7e6ff1afdc488982529261469645ec0-6708x4472.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "c6edf19e65a2",
+  "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+  "link": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-14T15:00:00Z",
+  "summary": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/c3b2b5c1d4640f31fd55291b5060600217e305cb-1000x726.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe",
+   "Asia Pacific"
+  ]
+ },
+ {
   "id": "f6a7f3289b1f",
   "title": "OpenAI Enters AI Payments Race Against Google, Coinbase and…",
   "link": "https://financefeeds.com/openai-enters-ai-payments-race-against-google-coinbase-and-circle/",
