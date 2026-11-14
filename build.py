@@ -261,6 +261,45 @@ def child_text(el, *names) -> str | None:
     return None
 
 
+IMG_EXT = re.compile(r"\.(jpe?g|png|webp|gif)(\?|$)", re.I)
+IMG_TAG = re.compile(r"<img[^>]+src=[\"']([^\"']+)[\"']", re.I)
+
+
+def find_image(e) -> str:
+    """Best picture for a feed entry: media:content / media:thumbnail / enclosure / featured-image / first <img>."""
+    best, best_w = "", -1
+    for c in e.iter():
+        name = local(c.tag)
+        url = c.get("url") or c.get("href") or ""
+        if name in ("content", "thumbnail") and url and (c.get("medium") == "image" or (c.get("type") or "").startswith("image") or IMG_EXT.search(url) or name == "thumbnail"):
+            try:
+                w = int(c.get("width") or 0)
+            except ValueError:
+                w = 0
+            if w > best_w:
+                best, best_w = url, w
+        elif name == "enclosure" and url and ((c.get("type") or "").startswith("image") or IMG_EXT.search(url)):
+            if best_w < 0:
+                best, best_w = url, 0
+        elif name in ("featured-image", "image") and not best:
+            val = url or (c.text or "").strip()
+            if val.startswith("http"):
+                best = val
+    if not best:
+        for c in e:
+            if local(c.tag) in ("encoded", "description", "content", "summary") and c.text:
+                m = IMG_TAG.search(html.unescape(c.text) if "&lt;img" in c.text else c.text)
+                if m:
+                    best = m.group(1)
+                    break
+    best = html.unescape(best.strip())
+    if best.startswith("//"):
+        best = "https:" + best
+    if not best.startswith("https://") or re.search(r"(feedburner|pixel|tracking|1x1|gravatar|spacer)", best, re.I):
+        return ""
+    return best
+
+
 def parse_feed(xml_bytes: bytes) -> list[dict]:
     root = ET.fromstring(xml_bytes)
     items = []
@@ -281,6 +320,7 @@ def parse_feed(xml_bytes: bytes) -> list[dict]:
             "link": (link or "").strip(),
             "published": child_text(e, "pubdate", "published", "updated", "date", "issued"),
             "summary": clean_text(child_text(e, "description", "summary", "encoded", "content")),
+            "image": find_image(e),
         })
     return items
 
@@ -291,7 +331,8 @@ def fetch(feed: dict) -> tuple[dict, list[dict], str]:
         with urllib.request.urlopen(req, timeout=25) as r:
             body = r.read()
         items = parse_feed(body)
-        return feed, items, f"ok ({len(items)} items)"
+        pics = sum(1 for i in items if i.get("image"))
+        return feed, items, f"ok ({len(items)} items, {pics} with pictures)"
     except Exception as ex:  # noqa: BLE001 - a broken feed must never stop the build
         return feed, [], f"error: {type(ex).__name__}: {str(ex)[:120]}"
 
@@ -316,6 +357,7 @@ def make_article(raw: dict, feed: dict, now: datetime) -> dict | None:
         "source": feed["name"],
         "published": pub.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "summary": truncate(summary, SUMMARY_CHARS),
+        "image": raw.get("image", ""),
         **tags,
     }
 
@@ -338,6 +380,7 @@ def merge(existing: list[dict], new: list[dict], now: datetime) -> list[dict]:
         tk = title_key(a["title"])
         if a["id"] in by_id:
             a["published"] = by_id[a["id"]]["published"]  # keep first-seen date stable
+            a["image"] = a.get("image") or by_id[a["id"]].get("image", "")
             by_id[a["id"]] = a
         elif tk in seen_titles:
             continue  # same story syndicated elsewhere

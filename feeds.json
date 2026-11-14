@@ -44,18 +44,18 @@
    "enabled": true
   },
   {
-   "name": "The TRADE",
-   "url": "https://www.thetradenews.com/feed/",
-   "region": "UK & Europe",
-   "asset": "Equities",
-   "enabled": false,
-   "note": "Feed URL failed on 2026-11-14 (gone/blocked); find a replacement"
-  },
-  {
    "name": "Global Trading",
    "url": "https://www.globaltrading.net/feed/",
    "region": "Global",
    "asset": "Equities",
+   "enabled": true
+  },
+  {
+   "name": "WatersTechnology",
+   "url": "https://www.waterstechnology.com/feeds/rss",
+   "region": "Global",
+   "asset": "",
+   "section": "tech",
    "enabled": true
   },
   {
@@ -76,21 +76,34 @@
   },
   {
    "name": "InvestmentNews",
-   "url": "https://www.investmentnews.com/feed",
+   "url": "https://www.investmentnews.com/rss",
    "region": "Americas",
    "asset": "Wealth",
    "section": "wealth",
-   "enabled": false,
-   "note": "Feed URL failed on 2026-11-14 (gone/blocked); find a replacement"
+   "enabled": true
   },
   {
-   "name": "ThinkAdvisor",
-   "url": "https://www.thinkadvisor.com/feed/",
+   "name": "Financial Planning",
+   "url": "https://www.financial-planning.com/feed?rss=true",
    "region": "Americas",
    "asset": "Wealth",
    "section": "wealth",
-   "enabled": false,
-   "note": "Feed URL failed on 2026-11-14 (gone/blocked); find a replacement"
+   "enabled": true
+  },
+  {
+   "name": "Private Banker International",
+   "url": "https://www.privatebankerinternational.com/feed/",
+   "region": "Global",
+   "asset": "Wealth",
+   "section": "wealth",
+   "enabled": true
+  },
+  {
+   "name": "Investment Executive",
+   "url": "https://www.investmentexecutive.com/feed/",
+   "region": "Americas",
+   "asset": "Wealth",
+   "enabled": true
   },
   {
    "name": "AdvisorHub",
