@@ -11,6 +11,7 @@ Standard library only, so it runs on any Python 3.9+ (including GitHub Actions) 
 from __future__ import annotations
 
 import argparse
+import gzip
 import hashlib
 import html
 import json
@@ -330,6 +331,9 @@ def fetch(feed: dict) -> tuple[dict, list[dict], str]:
         req = urllib.request.Request(feed["url"], headers={"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"})
         with urllib.request.urlopen(req, timeout=25) as r:
             body = r.read()
+        if body[:2] == b"\x1f\x8b":
+            body = gzip.decompress(body)
+        body = body.lstrip(b"\xef\xbb\xbf \t\r\n")
         items = parse_feed(body)
         pics = sum(1 for i in items if i.get("image"))
         return feed, items, f"ok ({len(items)} items, {pics} with pictures)"
@@ -362,6 +366,46 @@ def make_article(raw: dict, feed: dict, now: datetime) -> dict | None:
     }
 
 
+OG_RX = [
+    re.compile(r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)(?::src)?["\'][^>]*content=["\']([^"\']+)', re.I),
+    re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]*(?:property|name)=["\'](?:og:image|twitter:image)', re.I),
+]
+PAGE_IMAGE_LIMIT = 60     # article pages checked per run for a picture when the feed has none
+NO_PAGE_IMAGES = {"SEC", "CFTC", "FCA"}
+
+
+def page_image(url: str) -> str:
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html"})
+        with urllib.request.urlopen(req, timeout=12) as r:
+            body = r.read(400_000)
+        if body[:2] == b"\x1f\x8b":
+            body = gzip.decompress(body)
+        text = body.decode("utf-8", "ignore")
+        for rx in OG_RX:
+            m = rx.search(text)
+            if m:
+                img = html.unescape(m.group(1).strip())
+                if img.startswith("//"):
+                    img = "https:" + img
+                if img.startswith("https://") and not re.search(r"(logo|default|placeholder|favicon)", img, re.I):
+                    return img
+    except Exception:  # noqa: BLE001
+        pass
+    return ""
+
+
+def add_page_images(articles: list[dict]) -> int:
+    """Look up the share picture on the article page for recent stories whose feed had none (once per story)."""
+    todo = [a for a in articles if not a.get("image") and not a.get("img_checked") and a["source"] not in NO_PAGE_IMAGES][:PAGE_IMAGE_LIMIT]
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        for a, img in zip(todo, pool.map(lambda a: page_image(a["link"]), todo)):
+            a["img_checked"] = True
+            if img:
+                a["image"] = img
+    return sum(1 for a in todo if a.get("image"))
+
+
 def title_key(t: str) -> str:
     return re.sub(r"[^a-z0-9]", "", t.lower())[:70]
 
@@ -381,6 +425,8 @@ def merge(existing: list[dict], new: list[dict], now: datetime) -> list[dict]:
         if a["id"] in by_id:
             a["published"] = by_id[a["id"]]["published"]  # keep first-seen date stable
             a["image"] = a.get("image") or by_id[a["id"]].get("image", "")
+            if by_id[a["id"]].get("img_checked"):
+                a["img_checked"] = True
             by_id[a["id"]] = a
         elif tk in seen_titles:
             continue  # same story syndicated elsewhere
@@ -444,6 +490,8 @@ def main() -> int:
                         new.append(art)
 
     articles = merge(existing, new, now)
+    if not args.no_fetch and not args.seed:
+        print(f"Pictures found on article pages: {add_page_images(articles)}")
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     DATA_FILE.write_text(json.dumps(articles, ensure_ascii=False, indent=1), encoding="utf-8")
     STATUS_FILE.write_text(json.dumps(status, indent=1), encoding="utf-8")

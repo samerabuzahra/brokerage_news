@@ -103,7 +103,8 @@
    "url": "https://www.investmentexecutive.com/feed/",
    "region": "Americas",
    "asset": "Wealth",
-   "enabled": true
+   "enabled": false,
+   "note": "403 from GitHub runners on 2026-11-14"
   },
   {
    "name": "AdvisorHub",
