@@ -1,5 +1,49 @@
 [
  {
+  "id": "ff5e3d5cca64",
+  "title": "Bitcoin ETFs Lose $2.35 Billion in Two Weeks as BlackRock…",
+  "link": "https://financefeeds.com/bitcoin-etfs-lose-2-35-billion-in-two-weeks-as-blackrock-leads-outflows/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-14T20:48:28Z",
+  "summary": "U.S. spot Bitcoin exchange-traded funds recorded $1.07 billion in net outflows during the week ending November 13, 2026, their second consecutive week of withdrawals exceeding $1 billion, according to SoSoValue data. The latest redemptions brought the two-week total to $2.35…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Bitcoin-ETF-Bleeds-1.28-Billion-in-a-Week-760x428.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "b64de8b6e9aa",
+  "title": "Kraken Parent Payward’s Q3 Profit Falls 66% Despite…",
+  "link": "https://financefeeds.com/kraken-parent-paywards-q3-profit-falls-66-despite-trading-recovery/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-14T19:13:52Z",
+  "summary": "Kraken parent Payward reported $60 million in adjusted EBITDA for the third quarter of 2026, down 66% from $178.6 million a year earlier, even as trading activity, customer accounts and platform margins improved from the previous quarter. The privately held company said on…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/xstocks_volume_checkpoints-760x428.png",
+  "section": "deals",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ]
+ },
+ {
   "id": "531273dac02e",
   "title": "CMC Markets Lets UK Clients Buy Options on Anthropic Before It Lists",
   "link": "https://www.financemagnates.com/forex/brokers/cmc-markets-lets-uk-clients-buy-options-on-anthropic-before-it-lists/",
@@ -22,6 +66,46 @@
    "UK & Europe"
   ],
   "img_checked": true
+ },
+ {
+  "id": "7e8f5ab7cd99",
+  "title": "CFTC’s Selig Warns States Over Criminal Charges Against…",
+  "link": "https://financefeeds.com/cftcs-selig-warns-states-over-criminal-charges-against-prediction-market-executives/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-14T18:32:46Z",
+  "summary": "Commodity Futures Trading Commission (CFTC) Chairman Michael Selig has criticized states pursuing criminal charges against prediction market executives, arguing that disputes over whether event contracts constitute gambling or federally regulated derivatives should be resolved…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/Better-Markets-Fires-at-the-CFTCs-Retail-Crypto-Push-678x428.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "b44a2bdd082c",
+  "title": "Coinbase Wins OCC Charter as Senate Presses Crypto Firms…",
+  "link": "https://financefeeds.com/coinbase-wins-occ-charter-as-senate-presses-crypto-firms-for-record/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-14T17:21:27Z",
+  "summary": "Coinbase has received final federal approval for its national trust company, giving its cryptocurrency custody business a new regulatory structure as U.S. lawmakers intensify scrutiny of crypto banking charters and demand records from Binance, Tether and businesses linked to…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/07/How-Coinbase-Supports-New-Token-Listings-760x428.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
  },
  {
   "id": "5426f0841a92",
