@@ -11,14 +11,11 @@
  "CoinDesk": "ok (25 items, 24 with pictures)",
  "FinanceAsia": "ok (10 items, 10 with pictures)",
  "FinanceFeeds": "ok (20 items, 20 with pictures)",
- "The TRADE": "error: HTTPError: HTTP Error 410: Gone",
  "Global Trading": "ok (10 items, 0 with pictures)",
  "Finextra": "ok (51 items, 0 with pictures)",
  "InvestmentNews": "ok (72 items, 72 with pictures)",
- "ThinkAdvisor": "error: HTTPError: HTTP Error 403: Forbidden",
  "AdvisorHub": "ok (10 items, 0 with pictures)",
  "WatersTechnology": "ok (50 items, 0 with pictures)",
  "Financial Planning": "ok (10 items, 10 with pictures)",
- "Private Banker International": "ok (10 items, 0 with pictures)",
- "Investment Executive": "error: HTTPError: HTTP Error 403: Forbidden"
+ "Private Banker International": "ok (10 items, 0 with pictures)"
 }

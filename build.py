@@ -334,7 +334,13 @@ def fetch(feed: dict) -> tuple[dict, list[dict], str]:
         if body[:2] == b"\x1f\x8b":
             body = gzip.decompress(body)
         body = body.lstrip(b"\xef\xbb\xbf \t\r\n")
-        items = parse_feed(body)
+        try:
+            items = parse_feed(body)
+        except ET.ParseError:
+            # Some feeds ship stray control characters or bare ampersands; clean them and retry once.
+            fixed = re.sub(rb"[\x00-\x08\x0b\x0c\x0e-\x1f]", b"", body)
+            fixed = re.sub(rb"&(?!(?:[a-zA-Z]+|#\d+|#x[0-9a-fA-F]+);)", b"&amp;", fixed)
+            items = parse_feed(fixed)
         pics = sum(1 for i in items if i.get("image"))
         return feed, items, f"ok ({len(items)} items, {pics} with pictures)"
     except Exception as ex:  # noqa: BLE001 - a broken feed must never stop the build
@@ -494,6 +500,7 @@ def main() -> int:
         print(f"Pictures found on article pages: {add_page_images(articles)}")
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     DATA_FILE.write_text(json.dumps(articles, ensure_ascii=False, indent=1), encoding="utf-8")
+    status = {k: v for k, v in status.items() if k in feed_by_name}
     STATUS_FILE.write_text(json.dumps(status, indent=1), encoding="utf-8")
     out = build_site(articles, feeds, status, now)
     counts = {}
