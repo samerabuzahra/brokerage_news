@@ -1,23 +1,144 @@
 {
-  "_comment": "News sources. 'region' and 'asset' are defaults used when a story gives no clearer signal. 'section' biases stories toward one section (optional). Set enabled:false to pause a feed.",
-  "feeds": [
-    {"name": "Finance Magnates", "url": "https://www.financemagnates.com/feed/", "region": "Global", "asset": "FX & CFD", "enabled": true},
-    {"name": "LeapRate", "url": "https://www.leaprate.com/feed/", "region": "Global", "asset": "FX & CFD", "enabled": true},
-    {"name": "FX News Group", "url": "https://fxnewsgroup.com/feed/", "region": "Global", "asset": "FX & CFD", "enabled": true},
-    {"name": "FinanceFeeds", "url": "https://financefeeds.com/feed/", "region": "Global", "asset": "FX & CFD", "enabled": true},
-    {"name": "Markets Media", "url": "https://www.marketsmedia.com/feed/", "region": "Global", "asset": "Equities", "enabled": true},
-    {"name": "Traders Magazine", "url": "https://www.tradersmagazine.com/feed/", "region": "Global", "asset": "Equities", "enabled": true},
-    {"name": "The TRADE", "url": "https://www.thetradenews.com/feed/", "region": "UK & Europe", "asset": "Equities", "enabled": true},
-    {"name": "Global Trading", "url": "https://www.globaltrading.net/feed/", "region": "Global", "asset": "Equities", "enabled": true},
-    {"name": "Finextra", "url": "https://www.finextra.com/rss/headlines.aspx", "region": "Global", "asset": "", "section": "tech", "enabled": true},
-    {"name": "WealthManagement.com", "url": "https://www.wealthmanagement.com/rss.xml", "region": "Americas", "asset": "Wealth", "section": "wealth", "enabled": true},
-    {"name": "InvestmentNews", "url": "https://www.investmentnews.com/feed", "region": "Americas", "asset": "Wealth", "section": "wealth", "enabled": true},
-    {"name": "ThinkAdvisor", "url": "https://www.thinkadvisor.com/feed/", "region": "Americas", "asset": "Wealth", "section": "wealth", "enabled": true},
-    {"name": "AdvisorHub", "url": "https://www.advisorhub.com/feed/", "region": "Americas", "asset": "Wealth", "section": "wealth", "enabled": true},
-    {"name": "FinanceAsia", "url": "https://www.financeasia.com/rss/latest", "region": "Asia Pacific", "asset": "", "enabled": true},
-    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss/", "region": "Global", "asset": "Crypto", "section": "digital", "filter": true, "enabled": true},
-    {"name": "SEC", "url": "https://www.sec.gov/news/pressreleases.rss", "region": "Americas", "asset": "Equities", "section": "regulation", "enabled": true},
-    {"name": "CFTC", "url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml", "region": "Americas", "asset": "", "section": "regulation", "enabled": true},
-    {"name": "FCA", "url": "https://www.fca.org.uk/news/rss.xml", "region": "UK & Europe", "asset": "", "section": "regulation", "enabled": true}
-  ]
+ "_comment": "News sources. 'region' and 'asset' are defaults used when a story gives no clearer signal. 'section' biases stories toward one section (optional). Set enabled:false to pause a feed.",
+ "feeds": [
+  {
+   "name": "Finance Magnates",
+   "url": "https://www.financemagnates.com/feed/",
+   "region": "Global",
+   "asset": "FX & CFD",
+   "enabled": true
+  },
+  {
+   "name": "LeapRate",
+   "url": "https://www.leaprate.com/feed/",
+   "region": "Global",
+   "asset": "FX & CFD",
+   "enabled": true
+  },
+  {
+   "name": "FX News Group",
+   "url": "https://fxnewsgroup.com/feed/",
+   "region": "Global",
+   "asset": "FX & CFD",
+   "enabled": true
+  },
+  {
+   "name": "FinanceFeeds",
+   "url": "https://financefeeds.com/feed/",
+   "region": "Global",
+   "asset": "FX & CFD",
+   "enabled": true
+  },
+  {
+   "name": "Markets Media",
+   "url": "https://www.marketsmedia.com/feed/",
+   "region": "Global",
+   "asset": "Equities",
+   "enabled": true
+  },
+  {
+   "name": "Traders Magazine",
+   "url": "https://www.tradersmagazine.com/feed/",
+   "region": "Global",
+   "asset": "Equities",
+   "enabled": true
+  },
+  {
+   "name": "The TRADE",
+   "url": "https://www.thetradenews.com/feed/",
+   "region": "UK & Europe",
+   "asset": "Equities",
+   "enabled": false,
+   "note": "Feed URL failed on 2026-11-14 (gone/blocked); find a replacement"
+  },
+  {
+   "name": "Global Trading",
+   "url": "https://www.globaltrading.net/feed/",
+   "region": "Global",
+   "asset": "Equities",
+   "enabled": true
+  },
+  {
+   "name": "Finextra",
+   "url": "https://www.finextra.com/rss/headlines.aspx",
+   "region": "Global",
+   "asset": "",
+   "section": "tech",
+   "enabled": true
+  },
+  {
+   "name": "WealthManagement.com",
+   "url": "https://www.wealthmanagement.com/rss.xml",
+   "region": "Americas",
+   "asset": "Wealth",
+   "section": "wealth",
+   "enabled": true
+  },
+  {
+   "name": "InvestmentNews",
+   "url": "https://www.investmentnews.com/feed",
+   "region": "Americas",
+   "asset": "Wealth",
+   "section": "wealth",
+   "enabled": false,
+   "note": "Feed URL failed on 2026-11-14 (gone/blocked); find a replacement"
+  },
+  {
+   "name": "ThinkAdvisor",
+   "url": "https://www.thinkadvisor.com/feed/",
+   "region": "Americas",
+   "asset": "Wealth",
+   "section": "wealth",
+   "enabled": false,
+   "note": "Feed URL failed on 2026-11-14 (gone/blocked); find a replacement"
+  },
+  {
+   "name": "AdvisorHub",
+   "url": "https://www.advisorhub.com/feed/",
+   "region": "Americas",
+   "asset": "Wealth",
+   "section": "wealth",
+   "enabled": true
+  },
+  {
+   "name": "FinanceAsia",
+   "url": "https://www.financeasia.com/rss/latest",
+   "region": "Asia Pacific",
+   "asset": "",
+   "enabled": true
+  },
+  {
+   "name": "CoinDesk",
+   "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+   "region": "Global",
+   "asset": "Crypto",
+   "section": "digital",
+   "filter": true,
+   "enabled": true
+  },
+  {
+   "name": "SEC",
+   "url": "https://www.sec.gov/news/pressreleases.rss",
+   "region": "Americas",
+   "asset": "Equities",
+   "section": "regulation",
+   "enabled": true
+  },
+  {
+   "name": "CFTC",
+   "url": "https://www.cftc.gov/RSS/RSSGP/rssgp.xml",
+   "region": "Americas",
+   "asset": "",
+   "section": "regulation",
+   "enabled": true
+  },
+  {
+   "name": "FCA",
+   "url": "https://www.fca.org.uk/news/rss.xml",
+   "region": "UK & Europe",
+   "asset": "",
+   "section": "regulation",
+   "enabled": true
+  }
+ ]
 }
