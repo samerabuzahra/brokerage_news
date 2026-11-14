@@ -2701,7 +2701,7 @@
   "source": "Finance Magnates",
   "published": "2026-11-12T18:15:00Z",
   "summary": "Vise has expanded its Long Short investment strategy to client accounts held at Interactive Brokers, giving financial advisors access to four leverage levels. The expansion adds to Interactive Brokers' existing services for financial advisors and portfolio managers. Earlier, the…",
-  "image": "",
+  "image": "https://images.financemagnates.com/images/Interactive%20Brokers_id_8bff222c-2cff-447e-a11f-dc68cfc3a43d_size900.jpg",
   "section": "deals",
   "also": [],
   "assets": [
@@ -2711,7 +2711,8 @@
   ],
   "regions": [
    "UK & Europe"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "1bd6f74e9385",
@@ -2726,7 +2727,8 @@
   "assets": [],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "0388940f5bda",
@@ -2743,7 +2745,8 @@
   ],
   "regions": [
    "UK & Europe"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "ef60c89616e1",
@@ -2820,7 +2823,7 @@
   "source": "AdvisorHub",
   "published": "2026-11-12T16:54:00Z",
   "summary": "Paul Shoukry signaled his openness to adjusting account pricing, adding a platform fee or tweaking advisor payouts while making clear no changes were imminent.",
-  "image": "",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2026/11/paul-shoukry.jpg",
   "section": "wealth",
   "also": [],
   "assets": [
@@ -2829,7 +2832,8 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "aa7ace8b2e92",
@@ -2838,7 +2842,7 @@
   "source": "Global Trading",
   "published": "2026-11-12T16:32:12Z",
   "summary": "$200k+ orders move the market by barely a basis point more than small ones, but market makers charge far wider spreads and keep most of the difference, the new Rule […]",
-  "image": "",
+  "image": "https://www.globaltrading.net/wp-content/uploads/2026/11/GT-featured-image_13.11.26_900x600.jpg",
   "section": "markets",
   "also": [],
   "assets": [
@@ -2846,7 +2850,8 @@
   ],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "be1088f3dd8c",
@@ -2897,7 +2902,8 @@
   ],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "585ad08d0a73",
@@ -2913,7 +2919,9 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true,
+  "image": "https://images.financemagnates.com/images/Tradeify_id_55a1fb30-fb2b-4827-aea8-336a9d42e0af_size900.jpg"
  },
  {
   "id": "b58bc4892ea4",
@@ -2928,7 +2936,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "6ed1876c6d81",
@@ -2943,7 +2952,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "5025073fd6d4",
@@ -3013,7 +3023,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "cc0b1726d735",
@@ -3032,7 +3043,8 @@
   ],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "3ed74be60624",
@@ -3049,7 +3061,8 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "c6e27fc49e3d",
@@ -3081,7 +3094,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "c3aeb89422f8",
@@ -3114,7 +3128,9 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true,
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2025/10/CME-Group-HQ-Fall-2025-Long-View.jpeg"
  },
  {
   "id": "c00df5f55a71",
@@ -3131,7 +3147,8 @@
   ],
   "regions": [
    "UK & Europe"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "834d67ae30dd",
@@ -3148,7 +3165,8 @@
   ],
   "regions": [
    "UK & Europe"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "7bb66c134ca3",
@@ -3165,7 +3183,8 @@
   ],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "20b334ec9b38",
@@ -3191,7 +3210,7 @@
   "source": "AdvisorHub",
   "published": "2026-11-12T14:41:51Z",
   "summary": "Active managers who briefly looked like they might finally have their moment earlier this year are once again confronting a familiar problem",
-  "image": "",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2026/04/MarketBrief.gif",
   "section": "tech",
   "also": [],
   "assets": [
@@ -3199,7 +3218,8 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "17bbbcdb928e",
@@ -3214,7 +3234,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "ebf916d667ef",
@@ -3285,7 +3306,8 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "ec963b7dc16c",
@@ -3302,7 +3324,9 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true,
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2021/11/DTCC-office.jpg"
  },
  {
   "id": "ed809052da33",
@@ -3353,7 +3377,9 @@
   ],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true,
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2020/11/schwab.jpg"
  },
  {
   "id": "800d9b94a6e0",
@@ -3369,7 +3395,9 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true,
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/Chris_2pnhMv9hA.jpg"
  },
  {
   "id": "7d041eb50b1b",
@@ -3386,7 +3414,8 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "3a060a13dd2c",
@@ -3404,7 +3433,8 @@
   "regions": [
    "Americas",
    "UK & Europe"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "7e5dc6742f5f",
@@ -3420,7 +3450,9 @@
   ],
   "regions": [
    "Asia Pacific"
-  ]
+  ],
+  "img_checked": true,
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2025/09/contract_business.jpeg"
  },
  {
   "id": "9d6feb8e24b1",
@@ -3429,7 +3461,7 @@
   "source": "LeapRate",
   "published": "2026-11-12T12:19:47Z",
   "summary": "Bitcoin has dipped below $74,000 after giving back its post-election gains, as hotter US inflation lifts Fed hike expectations and spot ETF outflows mount. The post Bitcoin slips as rate and regulation concerns build first appeared on LeapRate .",
-  "image": "",
+  "image": "https://www.leaprate.com/wp-content/uploads/2024/02/FIN-LP-Bitcoin-ETF-investments-push-the-cryptocurrency-over-the1tn-value-line-6069369327-iStock-1178277803.jpg",
   "section": "digital",
   "also": [],
   "assets": [
@@ -3439,7 +3471,8 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "1b9400f19819",
@@ -3535,7 +3568,7 @@
   "source": "Private Banker International",
   "published": "2026-11-12T11:10:19Z",
   "summary": "The French bank’s proposal involves combining Credit Agricole Italia with Banco BPM.",
-  "image": "",
+  "image": "https://www.privatebankerinternational.com/wp-content/uploads/sites/5/2026/11/CA-shutterstock_2418771785-1.jpg",
   "section": "deals",
   "also": [],
   "assets": [
@@ -3543,7 +3576,8 @@
   ],
   "regions": [
    "UK & Europe"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "2da3458311b4",
@@ -3552,7 +3586,7 @@
   "source": "Private Banker International",
   "published": "2026-11-12T11:09:37Z",
   "summary": "The private equity firm has held preliminary discussions with possible advisers.",
-  "image": "",
+  "image": "https://www.privatebankerinternational.com/wp-content/uploads/sites/5/2026/11/shutterstock_2460677957-cinven-edited.jpg",
   "section": "wealth",
   "also": [],
   "assets": [
@@ -3561,7 +3595,8 @@
   ],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "fa2c337d8613",
@@ -3570,7 +3605,7 @@
   "source": "Private Banker International",
   "published": "2026-11-12T11:07:08Z",
   "summary": "The internal promotion places Ghai in the division catering to high-net-worth clients.",
-  "image": "",
+  "image": "https://www.privatebankerinternational.com/wp-content/uploads/sites/5/2026/11/hsbc.jpg",
   "section": "wealth",
   "also": [],
   "assets": [
@@ -3578,7 +3613,8 @@
   ],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "2467684a2acb",
@@ -3593,7 +3629,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "cef2fd3b37cc",
@@ -3698,7 +3735,9 @@
   ],
   "regions": [
    "Middle East & Africa"
-  ]
+  ],
+  "img_checked": true,
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2018/04/iStock-641888268.jpg"
  },
  {
   "id": "21995f10589a",
@@ -3742,7 +3781,7 @@
   "source": "Private Banker International",
   "published": "2026-11-12T06:27:44Z",
   "summary": "\"Whether the stock surge sustains or fizzles out depends on the same external factors that are powering the inflows,\" Shumita Deveshwar wrote in an analysis note.",
-  "image": "",
+  "image": "https://www.privatebankerinternational.com/wp-content/uploads/sites/5/2026/11/shutterstock_2418305859.jpg",
   "section": "tech",
   "also": [],
   "assets": [
@@ -3750,7 +3789,8 @@
   ],
   "regions": [
    "Asia Pacific"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "59b5b95f34a0",
@@ -3782,7 +3822,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "5f9c65742bd5",
@@ -3893,7 +3934,7 @@
   "source": "AdvisorHub",
   "published": "2026-11-11T18:49:55Z",
   "summary": "The hire follows two other recent moves involving Merrill teams managing $9 billion combined.",
-  "image": "",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2026/11/steelman.jpg",
   "section": "wealth",
   "also": [],
   "assets": [
@@ -3901,7 +3942,8 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "731da3ef7f89",
@@ -3998,7 +4040,7 @@
   "source": "AdvisorHub",
   "published": "2026-11-11T15:50:43Z",
   "summary": "From January 2022 through February 2023, Citi failed to escalate potential fraud events, delaying the referral of 171 incidents and filing of 88 suspicious activity reports.",
-  "image": "",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2024/10/CitiBank2.jpg",
   "section": "regulation",
   "also": [],
   "assets": [
@@ -4006,7 +4048,8 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "0423d7ef3b1d",
@@ -4067,7 +4110,7 @@
   "source": "Traders Magazine",
   "published": "2026-11-11T14:19:23Z",
   "summary": "Industry-led FIX standards deliver a global common framework for ETF creating and redemption workflows.",
-  "image": "",
+  "image": "https://www.tradersmagazine.com/wp-content/uploads/2026/05/etf.jpg",
   "section": "tech",
   "also": [],
   "assets": [
@@ -4075,7 +4118,8 @@
   ],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "d2fd322d2738",
@@ -4101,7 +4145,7 @@
   "source": "Global Trading",
   "published": "2026-11-11T13:09:49Z",
   "summary": "Cboe expands prediction markets push following SEC approval for binary contracts. Trader TV at NEXTPredict NYC - Traditional exchanges, including Cboe Global Markets, are advancing their footprint in prediction markets, […]",
-  "image": "",
+  "image": "https://www.globaltrading.net/wp-content/uploads/2026/11/Joseph-Green_Cboe_900x600.jpg",
   "section": "regulation",
   "also": [],
   "assets": [
@@ -4109,7 +4153,8 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "9b757d59341d",
@@ -4208,7 +4253,7 @@
   "source": "Private Banker International",
   "published": "2026-11-11T11:03:42Z",
   "summary": "Rob Dornan, currently director of investment management services, will become managing director of wealth management services.",
-  "image": "",
+  "image": "https://www.privatebankerinternational.com/wp-content/uploads/sites/5/2026/11/rj.jpg",
   "section": "wealth",
   "also": [],
   "assets": [
@@ -4216,7 +4261,8 @@
   ],
   "regions": [
    "UK & Europe"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "b134b74fc39b",
@@ -4225,7 +4271,7 @@
   "source": "Private Banker International",
   "published": "2026-11-11T10:49:19Z",
   "summary": "Named Titan Private Clients, the division targets an expanding regional client base in the UAE and neighbouring jurisdictions.",
-  "image": "",
+  "image": "https://www.privatebankerinternational.com/wp-content/uploads/sites/5/2026/11/titanwealth-shutterstock_2380499513-2.jpg",
   "section": "wealth",
   "also": [],
   "assets": [
@@ -4233,7 +4279,8 @@
   ],
   "regions": [
    "Middle East & Africa"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "7615f4fd0a03",
@@ -4242,7 +4289,7 @@
   "source": "Global Trading",
   "published": "2026-11-11T10:30:58Z",
   "summary": "State Street has named Hamza Kushaim as CEO and country head for Saudi Arabia and Bahrain, and CEO of State Street Saudi Arabia Financial Solutions. Based in Saudi Arabia, he […]",
-  "image": "",
+  "image": "https://www.globaltrading.net/wp-content/uploads/2026/11/State-Street-e1794393040722.png",
   "section": "deals",
   "also": [],
   "assets": [
@@ -4250,7 +4297,8 @@
   ],
   "regions": [
    "Middle East & Africa"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "d6ff09730163",
@@ -4259,7 +4307,7 @@
   "source": "Global Trading",
   "published": "2026-11-11T10:28:48Z",
   "summary": "Banks were prominent hirers in October, representing almost half of the people moves reported on by Global Trading over the month. All but one of the moves were between US […]",
-  "image": "",
+  "image": "https://www.globaltrading.net/wp-content/uploads/2026/11/Untitled-Image-10.png",
   "section": "people",
   "also": [],
   "assets": [
@@ -4267,7 +4315,8 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "37f612352f98",
@@ -4276,7 +4325,7 @@
   "source": "Private Banker International",
   "published": "2026-11-11T10:28:22Z",
   "summary": "The survey showed that 30% had increased their giving, 16% had redirected support to different causes, and 9% had moved toward longer-term, multi-year gifts.",
-  "image": "",
+  "image": "https://www.privatebankerinternational.com/wp-content/uploads/sites/5/2026/11/GS-shutterstock_2730693741.jpg",
   "section": "wealth",
   "also": [],
   "assets": [
@@ -4284,7 +4333,8 @@
   ],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "491a7fe29ae9",
@@ -4334,7 +4384,9 @@
   ],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true,
+  "image": "https://www.tradersmagazine.com/wp-content/uploads/2026/11/images-1-1.jpeg"
  },
  {
   "id": "38599edae402",
@@ -4386,7 +4438,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "2e40795ee775",
@@ -4948,7 +5001,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "dcfb159e9004",
@@ -4997,7 +5051,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "df6d5fc874d2",
@@ -5406,7 +5461,8 @@
   "assets": [],
   "regions": [
    "Asia Pacific"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "70b032c7940e",
@@ -5456,7 +5512,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "db2739e9fdbf",
@@ -5471,7 +5528,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "c41879c9a7c4",
@@ -5537,7 +5595,8 @@
   ],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "98df73d1c6e0",
@@ -5554,7 +5613,8 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "a7bac0e10acc",
@@ -5569,7 +5629,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "0da3afcb389c",
@@ -5584,7 +5645,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "16e6b076083b",
@@ -5642,7 +5704,7 @@
   "source": "Global Trading",
   "published": "2026-11-05T18:23:12Z",
   "summary": "Equity trading revenues dropped across the board after a stratospheric Q2, with revenues across the top five US banks falling 17% to US$21.2 billion. On a yearly basis, total revenues […]",
-  "image": "",
+  "image": "https://www.globaltrading.net/wp-content/uploads/2026/11/Untitled-Image-5.png",
   "section": "deals",
   "also": [],
   "assets": [
@@ -5650,7 +5712,8 @@
   ],
   "regions": [
    "Americas"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "f998e537e8ad",
@@ -5689,7 +5752,7 @@
   "source": "Global Trading",
   "published": "2026-11-05T13:13:19Z",
   "summary": "Chinese stocks added to MSCI indexes in August suffered a sharp reversal around implementation, challenging one of the most persistent trades around benchmark changes. The MSCI rebalance trade broke down […]",
-  "image": "",
+  "image": "https://www.globaltrading.net/wp-content/uploads/2026/11/Featured-image_6.11.2026_900x600.jpg",
   "section": "markets",
   "also": [],
   "assets": [
@@ -5697,7 +5760,8 @@
   ],
   "regions": [
    "Asia Pacific"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "81e07f6e49e1",
@@ -5706,7 +5770,7 @@
   "source": "Global Trading",
   "published": "2026-11-05T11:39:05Z",
   "summary": "Valérie Noël has left Syz Group, taking on a new role as CEO of Arab Bank Switzerland. She has relocated to Abu Dhabi, leading the private bank’s new office in […]",
-  "image": "",
+  "image": "https://www.globaltrading.net/wp-content/uploads/2026/11/Valerie-Noel_Arab-Bank_600x400.jpg",
   "section": "people",
   "also": [],
   "assets": [
@@ -5715,7 +5779,8 @@
   "regions": [
    "UK & Europe",
    "Middle East & Africa"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "072d02b4dc79",
@@ -5762,7 +5827,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "d6b51a17bd19",
@@ -5812,7 +5878,8 @@
   ],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "5e1a30f9b58d",
@@ -5862,7 +5929,8 @@
   "assets": [],
   "regions": [
    "Global"
-  ]
+  ],
+  "img_checked": true
  },
  {
   "id": "2ca21d854b27",
