@@ -392,7 +392,7 @@ footer .wrap { display: flex; flex-wrap: wrap; gap: 8px 24px; justify-content: s
   function sourcesView() {
     var rows = D.sources.map(function (s) {
       var ok = /^ok/.test(s.status), err = /^error/.test(s.status);
-      var n = D.articles.filter(function (a) { return a.source === s.name; }).length;
+      var n = D.articles.filter(function (a) { return (a.feed || a.source) === s.name; }).length;
       return "<tr><td><b>" + esc(s.name) + '</b></td><td class="u">' + esc(s.url) + '</td><td><span class="st ' + (ok ? "ok" : err ? "err" : "") + '">' + (ok ? "Working" : err ? "Not reached" : "Checked on first live run") + '</span></td><td class="n">' + n + "</td></tr>";
     }).join("");
     return '<div class="sec-head" style="--sc: var(--ink-3)"><div><h2><span class="sw"></span>Sources</h2><p>Brokerage Brief reads these publishers’ public RSS feeds every two hours and files each story under a section based on its headline and summary.</p></div></div>' +

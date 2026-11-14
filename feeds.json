@@ -9,6 +9,48 @@
    "enabled": true
   },
   {
+   "name": "Finance Magnates · Executives",
+   "source": "Finance Magnates",
+   "url": "https://www.financemagnates.com/executives/feed/",
+   "region": "Global",
+   "asset": "FX & CFD",
+   "section": "people",
+   "enabled": true
+  },
+  {
+   "name": "Finance Magnates · Forex",
+   "source": "Finance Magnates",
+   "url": "https://www.financemagnates.com/forex/feed/",
+   "region": "Global",
+   "asset": "FX & CFD",
+   "enabled": true
+  },
+  {
+   "name": "Finance Magnates · Institutional",
+   "source": "Finance Magnates",
+   "url": "https://www.financemagnates.com/institutional-forex/feed/",
+   "region": "Global",
+   "asset": "",
+   "enabled": true
+  },
+  {
+   "name": "Finance Magnates · Fintech",
+   "source": "Finance Magnates",
+   "url": "https://www.financemagnates.com/fintech/feed/",
+   "region": "Global",
+   "asset": "",
+   "enabled": true
+  },
+  {
+   "name": "Finance Magnates · Crypto",
+   "source": "Finance Magnates",
+   "url": "https://www.financemagnates.com/cryptocurrency/feed/",
+   "region": "Global",
+   "asset": "Crypto",
+   "section": "digital",
+   "enabled": true
+  },
+  {
    "name": "LeapRate",
    "url": "https://www.leaprate.com/feed/",
    "region": "Global",
