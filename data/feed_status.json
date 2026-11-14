@@ -1,6 +1,6 @@
 {
  "Finance Magnates": "ok (20 items, 0 with pictures)",
- "LeapRate": "ok (10 items, 0 with pictures)",
+ "LeapRate": "error: ParseError: not well-formed (invalid token): line 1, column 119",
  "FX News Group": "ok (10 items, 10 with pictures)",
  "Markets Media": "ok (10 items, 9 with pictures)",
  "Traders Magazine": "ok (10 items, 9 with pictures)",
@@ -17,7 +17,7 @@
  "InvestmentNews": "ok (72 items, 72 with pictures)",
  "ThinkAdvisor": "error: HTTPError: HTTP Error 403: Forbidden",
  "AdvisorHub": "ok (10 items, 0 with pictures)",
- "WatersTechnology": "error: ParseError: not well-formed (invalid token): line 1, column 0",
+ "WatersTechnology": "ok (50 items, 0 with pictures)",
  "Financial Planning": "ok (10 items, 10 with pictures)",
  "Private Banker International": "ok (10 items, 0 with pictures)",
  "Investment Executive": "error: HTTPError: HTTP Error 403: Forbidden"
