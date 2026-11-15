@@ -12,7 +12,7 @@
  "FinanceAsia": "ok (10 items, 10 with pictures)",
  "FinanceFeeds": "ok (20 items, 20 with pictures)",
  "Global Trading": "ok (10 items, 0 with pictures)",
- "Finextra": "error: HTTPError: HTTP Error 403: Forbidden",
+ "Finextra": "ok (51 items, 0 with pictures)",
  "InvestmentNews": "ok (72 items, 72 with pictures)",
  "AdvisorHub": "ok (10 items, 0 with pictures)",
  "WatersTechnology": "ok (50 items, 0 with pictures)",
