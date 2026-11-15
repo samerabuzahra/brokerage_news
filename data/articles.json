@@ -1,5 +1,24 @@
 [
  {
+  "id": "242e4ab03830",
+  "title": "Kava Lend Exploit Drains $3.76 Million as $612K in Proceeds…",
+  "link": "https://financefeeds.com/kava-lend-exploit-drains-3-76-million-as-612k-in-proceeds-is-blocked/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-15T14:08:09Z",
+  "summary": "Kava Lend suffered an exploit involving approximately 55.2 million KAVA tokens on November 14, 2026, after an attacker manipulated accounting in a nearly inactive stablecoin lending market to borrow against artificially inflated collateral. The tokens were worth roughly $3.76…",
+  "image": "https://financefeeds.com/wp-content/uploads/2024/11/KAVA.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
   "id": "fefbabdcd86a",
   "title": "FX week in review: JT Prime launch, etoro decline, Leverate CRM, lead generators warning",
   "link": "https://fxnewsgroup.com/forex-news/retail-forex/fx-week-in-review-jt-prime-launch-etoro-decline-leverate-crm-lead-generators-warning/",
@@ -1926,12 +1945,12 @@
  },
  {
   "id": "aa6bb2dda80a",
-  "title": "TSV CEO: Tokenized Equities Could Transform U.S. Stock Market Structure",
+  "title": "Tokenized Equities Could Transform U.S. Stock Market Structure",
   "link": "https://www.tradersmagazine.com/featured_articles/tsv-ceo-tokenized-equities-could-transform-u-s-stock-market-structure/",
   "source": "Traders Magazine",
   "feed": "Traders Magazine",
   "published": "2026-11-13T13:30:00Z",
-  "summary": "Ali Abrar on what the first tokenized stock trade means for equity markets.",
+  "summary": "TSV CEO Ali Abrar outlines what the first tokenized stock trade means for equity markets.",
   "image": "https://www.tradersmagazine.com/wp-content/uploads/2026/11/Futuristic-Tokenized-U.S.-Stock-Exchange-1024x683.png",
   "section": "digital",
   "also": [],
