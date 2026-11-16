@@ -1,5 +1,630 @@
 [
  {
+  "id": "e69284e75f09",
+  "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
+  "link": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-16T08:46:00Z",
+  "summary": "DBS and JPMorgan have connected their blockchain-based deposit networks, letting approved clients move tokenized U.S. dollars between Singapore and the U.S. at any time, including weekends.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/3733fe37d72e4e20a3f958e5caa214e522aaefb2-5184x3456.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "ad0818bfc3d6",
+  "title": "Bitcoin Short-Term Holder Whales Face Record $8 Billion in…",
+  "link": "https://financefeeds.com/bitcoin-short-term-holder-whales-face-record-8-billion-in-unrealized-losses-as-market-correction-deepens/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T08:33:27Z",
+  "summary": "Bitcoin's largest recent investors are facing nearly $8 billion in unrealized losses, the highest level recorded for short-term holder whales, as the cryptocurrency's prolonged market correction erodes gains accumulated earlier this year. According to CryptoQuant analyst…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Asia-Markets-Bleed-1-Trillion-as-Bitcoin-Tumbles-760x428.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "b3086b67e8d1",
+  "title": "Germany Approves New Customs Powers to Seize Suspected…",
+  "link": "https://financefeeds.com/germany-approves-new-customs-powers-to-seize-suspected-illicit-assets-including-cryptocurrency/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T08:31:59Z",
+  "summary": "Germany's Bundestag approved legislation on November 12, 2026, expanding customs authorities' powers to investigate and seize assets suspected of originating from criminal activity, including cryptocurrencies and other digital assets. The legislation, known as the Customs…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/09/Germany-bitcoin.png",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "ca9094926f21",
+  "title": "Sky Links Capital adds ATFX/AvaTrade alum Adel Abi Hanna as Institutional Manager",
+  "link": "https://fxnewsgroup.com/forex-news/executives/sky-links-capital-adds-atfx-avatrade-alum-adel-abi-hanna-as-institutional-manager/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T08:31:20Z",
+  "summary": "Adel Abi Hanna joins Sky Links Capital in Dubai from ATFX, where he was Senior Manager at ATFX MENA.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/Adel-Abi-Hanna-Sky-Links-Capital.png",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Middle East & Africa"
+  ]
+ },
+ {
+  "id": "895b449e6942",
+  "title": "High-Speed Trader Graviton Now Earns More in Singapore Than in India",
+  "link": "https://www.financemagnates.com/institutional-forex/high-speed-trader-graviton-now-earns-more-in-singapore-than-in-india/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Institutional",
+  "published": "2026-11-16T08:26:00Z",
+  "summary": "Graviton Research Capital's Singapore unit nearly tripled its annual profit to $142.4 million, Bloomberg reported today (Monday). The 166% rise in the year to March 2026 came as the Indian high-frequency trading firm earned 25% less at home. That left Singapore ahead of India…",
+  "image": "https://images.financemagnates.com/images/Graviton%20profit%20by%20unit%20FY2025%20FY2026_id_171286a2-fa8a-4b78-92b3-eb13d85ae23d_size900.jpeg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "6d02b5da0a20",
+  "title": "Global broker Elev8 introduces read-only AI access to clients' accounts",
+  "link": "https://www.financemagnates.com/thought-leadership/global-broker-elev8-introduces-read-only-ai-access-to-clients-accounts/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-16T08:16:32Z",
+  "summary": "Artificial Intelligence (AI) is now a part of daily life. Retail traders and brokers are adapting to this reality. To help users in their day-to-day trading activities, Elev8, a global Contract for Difference (CFD) broker, has introduced a new feature that enables traders to…",
+  "image": "https://images.financemagnates.com/images/Elev8%20adds%20read-only%20AI%20account%20access%20using%20Model%20Context%20Protocol._id_e35ceb89-9a52-4e8d-8b43-f914091be475_size900.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Middle East & Africa"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "7ffcdbe344ac",
+  "title": "Bitcoin ETFs Lose $185 Million as Weekly Outflows Reach…",
+  "link": "https://financefeeds.com/bitcoin-etfs-lose-185-million-as-weekly-outflows-reach-1-07-billion-while-ethereum-funds-return-to-inflows/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T08:13:28Z",
+  "summary": "U.S. spot Bitcoin exchange-traded funds recorded $185.4 million in net outflows on Friday, November 13, 2026, extending their withdrawal streak to seven consecutive trading sessions as cryptocurrency markets faced sustained selling pressure. According to Farside Investors…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/Bitcoin-ETFs-Streak-Four-Inflow-Days-Into-the-Binance-Hack.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "e9015ce0dcb2",
+  "title": "Sky Links Capital Makes Third Senior Hire in Six Weeks",
+  "link": "https://www.financemagnates.com/executives/moves/sky-links-capital-makes-third-senior-hire-in-six-weeks/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Executives",
+  "published": "2026-11-16T08:05:48Z",
+  "summary": "Sky Links Capital has hired Adel Abi Hanna from ATFX MENA as institutional manager, the Dubai-based broker said today (Monday). He is the second person to move from ATFX's Middle East business to Sky Links in six weeks. The first was Hormoz Faryar, previously managing director…",
+  "image": "https://images.financemagnates.com/images/Executive%20Moves%20Adel%20Abi%20Hanna%20Sky%20Links%20Capital_id_fd847a8d-b5a7-4825-8f59-2863d177d726_size900.jpeg",
+  "section": "people",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "UK & Europe",
+   "Middle East & Africa"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "8abe9016f5bf",
+  "title": "Seeing more with Elev8’s new feature: global broker has…",
+  "link": "https://financefeeds.com/elev8-ai-assistant-mcp-integration/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T08:00:00Z",
+  "summary": "AI-generated content may be inaccurate or incomplete. For informational and educational purposes only. Not investment advice. Trading involves risk Introduction Artificial Intelligence (AI) is now a part of daily life. Retail traders and brokers are adapting to this reality. To…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/elev8-ai-assistant-mcp-trading-terminal-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Middle East & Africa"
+  ]
+ },
+ {
+  "id": "854b4a85e9e8",
+  "title": "ON THE MOVE: PIMCO’s Eden Simmer Launches UpLevel Impact Ventures; State Street Appoints Jane Kizhner",
+  "link": "https://www.tradersmagazine.com/xtra/on-the-move-pimcos-eden-simmer-launches-uplevel-impact-ventures-state-street-appoints-jane-kizhner/",
+  "source": "Traders Magazine",
+  "feed": "Traders Magazine",
+  "published": "2026-11-16T08:00:00Z",
+  "summary": "The weekly recap of new hires, promotions and job changes in capital markets trading and technology.",
+  "image": "https://www.tradersmagazine.com/wp-content/uploads/2026/11/eden-simmer.png",
+  "section": "people",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "8478468b0c2b",
+  "title": "Binance Founder CZ Denies Exchange Sold Crypto During…",
+  "link": "https://financefeeds.com/binance-founder-cz-denies-exchange-sold-crypto-during-market-crash-reveals-personal-purchases/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T07:57:12Z",
+  "summary": "Binance founder Changpeng Zhao has denied allegations that the cryptocurrency exchange sold digital assets during the latest market downturn, revealing that he personally purchased additional cryptocurrency as Bitcoin fell to its lowest level in four months. In a November 15…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Binance-SAFU-Fund-760x428.webp",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "4e5d98468b57",
+  "title": "The hidden growth lever for IB brokers: lifecycle marketing…",
+  "link": "https://financefeeds.com/ib-brokers-lifecycle-marketing-after-first-deposit/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T07:55:00Z",
+  "summary": "Take a broker that gets 85–95% of its new depositors through introducing brokers and open its management dashboard. The acquisition line looks settled. Cost per first-time depositor is a contract figure, it is paid only once the client has qualified, so it carries no upfront…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/ib-brokers-lifecycle-marketing-stanislav-galandzovskyi-760x428.jpg",
+  "section": "deals",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "2598a417483b",
+  "title": "ACCC grants interim authorisation for payments system industry resilience initiative",
+  "link": "https://fxnewsgroup.com/forex-news/regulatory/accc-grants-interim-authorisation-for-payments-system-industry-resilience-initiative/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T07:50:03Z",
+  "summary": "The ACCC has granted interim authorisation, with conditions, to Australian Payments Network Limited (AusPayNet) and specified current and potential future participants.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2021/06/sydney_australia.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "c82628331d3f",
+  "title": "Dubai-Based Cequire Capital Commits $100 Million to…",
+  "link": "https://financefeeds.com/dubai-based-cequire-capital-commits-100-million-to-early-stage-crypto-investments/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T07:39:02Z",
+  "summary": "Dubai-based investment firm Cequire Capital has announced plans to allocate $100 million of its own capital to early-stage cryptocurrency and blockchain projects, targeting emerging financial infrastructure and digital asset technologies. The investment commitment will cover a…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/OTC-Crypto-Exchanges-in-Dubai-760x428.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Middle East & Africa",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "d9b3457ba398",
+  "title": "IG Japan to begin trading Anthropic (ANT) Equity CFDs from listing day",
+  "link": "https://fxnewsgroup.com/forex-news/retail-forex/ig-japan-to-begin-trading-anthropic-ant-equity-cfds-from-listing-day/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T07:21:19Z",
+  "summary": "IG Securities, the Japanese subsidiary of electronic trading major IG Group, will enable its customers to trade CFDs based on Anthropic shares.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2022/05/IG-markets.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "d1ddf524c38d",
+  "title": "64,000 Bitcoin Mining Machines Reportedly Hijacked as 13…",
+  "link": "https://financefeeds.com/64000-bitcoin-mining-machines-reportedly-hijacked-as-13-eh-s-redirected-to-ocean-pool/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T07:14:53Z",
+  "summary": "Approximately 64,000 Bitcoin mining machines were reportedly compromised over the November 14–15, 2026 weekend, allowing attackers to redirect an estimated 13 exahashes per second (EH/s) of computing power to the OCEAN mining pool. The incident involved unauthorized changes to…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/05/Sustainable-Bitcoin-Mining-Colombia-760x428.png",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "6efbbed6abf4",
+  "title": "ASTER Swings Over 30% as Aster CEO Investigates Suspected…",
+  "link": "https://financefeeds.com/aster-swings-over-30-as-aster-ceo-investigates-suspected-malicious-liquidations/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T07:13:14Z",
+  "summary": "ASTER, the native cryptocurrency of decentralized derivatives exchange Aster, experienced extreme volatility on November 16, 2026, surging approximately 30% before plunging more than 32% within minutes as unusually large leveraged liquidations disrupted trading. The token…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/01/Why-Live-Crypto-News-Moves-Markets-Faster-Than-Fundamentals-760x428.jpeg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "a53f4ec6fa6c",
+  "title": "Brazil Central Bank Official Says Stablecoin Transfers Can…",
+  "link": "https://financefeeds.com/brazil-central-bank-official-says-stablecoin-transfers-can-turn-legitimate-funds-into-dirty-money/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T07:13:10Z",
+  "summary": "A senior official at the Central Bank of Brazil has warned that converting legitimately obtained funds into stablecoins can expose transactions to money-laundering concerns, highlighting the regulator's increasingly restrictive approach toward cryptocurrency-based international…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/04/Central-bank-of-brazil-760x428.jpg",
+  "section": "regulation",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "09fc4d1d71e4",
+  "title": "Why Regulatory Scrutiny Is Moving Downmarket In 2027",
+  "link": "https://www.tradersmagazine.com/am/why-regulatory-scrutiny-is-moving-downmarket-in-2027/",
+  "source": "Traders Magazine",
+  "feed": "Traders Magazine",
+  "published": "2026-11-16T07:00:00Z",
+  "summary": "By Ben Parker, CEO, eflow.",
+  "image": "https://www.tradersmagazine.com/wp-content/uploads/2026/11/Benjamin-Parker-eflow-Global-CEO-scaled.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "fcc926eb5de6",
+  "title": "Silver Price Today: $47.28 Monday at a One-Year Low on Fed…",
+  "link": "https://financefeeds.com/silver-price-today-47-28-monday-one-year-low-fed-hike-bets-bull-51-bear-45/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T06:51:04Z",
+  "summary": "Updated 16 November 2026, 07:00 GMT. Spot silver fell to $47.28 an ounce on Monday, down about 2.9 percent from Friday's $48.72 and its lowest level in a year (Trading Economics). The dollar index is above 103 and traders price a high chance of a Federal Reserve rate rise in…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/08/silver-bullion-coins-price-prediction-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "7be658a4c0b1",
+  "title": "Sandisk (SNDK) Stock: $885 Monday, Four Sessions Before the…",
+  "link": "https://financefeeds.com/sandisk-sndk-stock-885-monday-four-sessions-before-8-for-1-split-bull-1011-bear-806/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T06:50:46Z",
+  "summary": "Updated 16 November 2026, 07:00 GMT. Sandisk (SNDK) starts the last four pre-split sessions at $885.01 , Friday's close, or about $110.63 on the 8-for-1 basis that begins trading on Friday 20 November (StockAnalysis, Sandisk 8-K). Asian memory stocks fell hard on Monday: Samsung…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/sandisk-milpitas-headquarters-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "4aa7e491426c",
+  "title": "Micron (MU) Stock: $778 Monday, the Day Before…",
+  "link": "https://financefeeds.com/micron-mu-stock-778-monday-day-before-nvidia-results-bull-885-bear-690/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T06:50:27Z",
+  "summary": "Updated 16 November 2026, 07:00 GMT. Micron (MU) goes into the session before Nvidia's results at $778.31 , Friday's close, after a 12.8 percent gain last week (StockAnalysis). Its two biggest rivals sold off in Seoul on Monday: SK Hynix closed down 4.2 percent and Samsung…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/micron-earnings-hiroshima-fab-0921-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "671621eea1cd",
+  "title": "Brent Crude Oil Price: $96.28 Monday After Iran Strikes a…",
+  "link": "https://financefeeds.com/brent-crude-oil-price-96-28-monday-iran-bahrain-strike-bull-98-bear-91/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T06:50:08Z",
+  "summary": "Updated 16 November 2026, 07:00 GMT. Brent crude futures traded at $96.28 at 06:21 GMT on Monday, up 0.46 percent from Friday's $95.84 settlement, after falling as much as 0.9 percent earlier in the Asian session (Investing.com). The rebound followed news that Iran attacked a US…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/03/oil-tanker-760x428.png",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "03b4d9bcc2f9",
+  "title": "Fotmarkets Wins Global Best Overall Broker 2026 at Finance Magnates Awards",
+  "link": "https://www.financemagnates.com/thought-leadership/fotmarkets-wins-global-best-overall-broker-2026-at-finance-magnates-awards/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-16T06:37:16Z",
+  "summary": "Fotmarkets , an international forex and CFD broker, has been named Global Best Overall Broker 2026 at the Finance Magnates Awards 2026 , held on 6 November in Limassol, Cyprus. The recognition highlights Fotmarkets' approach to online trading, combining technology, transparency…",
+  "image": "https://images.financemagnates.com/images/Fotmarkets%20Wins%20Global%20Best%20Overall%20Broker%202026%20at%20Finance%20Magnates%20Awards_id_b95b085d-7d4b-43f6-a352-123495009dbc_size900.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "f11c978708a2",
+  "title": "HKEX launches Offshore RMB Bond Index",
+  "link": "https://fxnewsgroup.com/forex-news/exchanges/hkex-launches-offshore-rmb-bond-index/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T06:34:45Z",
+  "summary": "Hong Kong Exchanges and Clearing Limited (HKEX) today announced the launch of the HKEX Offshore RMB Bond Index.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2025/01/HKEX.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "4d3c5a09aa89",
+  "title": "IG Group to Close Its Offices in France, Spain and Italy: Report",
+  "link": "https://www.financemagnates.com/forex/ig-group-to-close-its-offices-in-france-spain-and-italy-report/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-16T06:27:14Z",
+  "summary": "IG Group (LON: IGG) is closing its offices in France, Spain and Italy and is cutting dozens of jobs at those locations, Bloomberg reported, citing “people familiar with the matter.” It might affect roughly 50 IG employees. London's trading industry is coming home! IG Is Cutting…",
+  "image": "https://images.financemagnates.com/images/Breon%20Corcoran%2C%20IG%E2%80%99s%20CEO%2C%20said%20during%20its%20CY25%20earnings%20call_id_e23db052-90a3-44d2-bc13-34de3b4fb7f6_size900.jpeg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "0b2a54c1bcf6",
+  "title": "Dubai Broker BHM Capital's Third-Quarter Revenue Falls 10% as Sign-Ups Slow",
+  "link": "https://www.financemagnates.com/forex/brokers/dubai-broker-bhm-capitals-third-quarter-revenue-falls-10-as-sign-ups-slow/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-16T06:15:06Z",
+  "summary": "BHM Capital's revenue fell about 10% in the third quarter, according to FinanceMagnates.com's calculation from nine-month results the Dubai-listed brokerage published today (Monday). It came to roughly AED 51.5 million (about $14 million), against AED 57.4 million a year…",
+  "image": "https://images.financemagnates.com/images/BHM%20Capital%20Quarterly%20Revenue%202025%20vs%202026_id_dd8f8245-96d2-4748-b862-b5685bcc0255_size900.jpeg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "UK & Europe",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "7495bf01d988",
+  "title": "Four Tech Providers Now Face UK Oversight, but Brokers Remain Accountable for Their Suppliers",
+  "link": "https://www.financemagnates.com/thought-leadership/four-tech-providers-now-face-uk-oversight-but-brokers-remain-accountable-for-their-suppliers/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-16T06:08:15Z",
+  "summary": "On a busy trading morning, a client logs in to check prices and place an order. Behind the screen there may be a price feed, a trading platform, a hosting service, a payments processor and, at some firms, an artificial intelligence (AI) model. If one of them stops working, the…",
+  "image": "https://images.financemagnates.com/images/Four%20Tech%20Providers%20Now%20Face%20UK%20Oversight%2C%20but%20Brokers%20Remain%20%20Accountable%20for%20Their%20Suppliers_id_c0fbd16d-d2c8-4b60-8b92-699fd9224c7c_size900.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "85feaf5095d4",
+  "title": "Interactive Brokers updates Advisor Portal",
+  "link": "https://fxnewsgroup.com/forex-news/retail-forex/interactive-brokers-updates-advisor-portal/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T06:02:04Z",
+  "summary": "Electronic trading major Interactive Brokers continues to enhance its Advisor Portal.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2020/08/Interactive-Brokers.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "4e5d87268fa2",
+  "title": "etoro planning (another) round of layoffs following poor Q3 showing",
+  "link": "https://fxnewsgroup.com/forex-news/retail-forex/etoro-planning-another-round-of-layoffs-following-poor-q3-showing/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T05:58:20Z",
+  "summary": "etoro laid off about 7% of its then-1,500 person workforce at the beginning of 2026, or more than 100 employees.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2022/04/layoffs.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "10e89f89852e",
+  "title": "Thunes’ Direct Global Network enables instant payments in Bhutan",
+  "link": "https://fxnewsgroup.com/forex-news/payments/thunes-direct-global-network-enables-instant-payments-in-bhutan/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T05:50:20Z",
+  "summary": "The direct integration allows Non-Resident Bhutanese and expatriates across Australia, the Middle East, Southeast Asia, and North America to send funds home in Bhutanese Ngultrum (BTN).",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/10/bhutan-scaled.jpeg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ]
+ },
+ {
   "id": "8159276c6af0",
   "title": "The CDM is useful, so why aren’t more people using it?",
   "link": "https://www.waterstechnology.com/data-management/7953357/the-cdm-is-useful-so-why-arent-more-people-using-it",
@@ -409,6 +1034,24 @@
    "UK & Europe"
   ],
   "img_checked": true
+ },
+ {
+  "id": "eb6b4e9ad5b2",
+  "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+  "link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-15T07:00:00Z",
+  "summary": "ECB President Christine Lagarde will step down from her post in February 2027, and none of the primary candidates to succeed her are great fans of crypto.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
  },
  {
   "id": "37deeb1febd4",
