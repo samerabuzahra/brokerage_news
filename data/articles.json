@@ -1,5 +1,799 @@
 [
  {
+  "id": "b32b83957dce",
+  "title": "Proof-of-Stake Networks Compared: Solana, Cosmos,…",
+  "link": "https://financefeeds.com/proof-of-stake-networks-compared/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T15:08:53Z",
+  "summary": "KEY TAKEAWAYS Solana processes about 2,000 transactions per second in real-world conditions, with a theoretical maximum of 65,000 TPS. Its Alpenglow upgrade targets finality of approximately 150 milliseconds, compared with roughly 12.8 seconds previously. Avalanche's C-Chain has…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/proof-of-stake-760x428.jpeg",
+  "section": "digital",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "431a5b0d6328",
+  "title": "UK SFO charges eight individuals over London Capital & Finance collapse",
+  "link": "https://fxnewsgroup.com/forex-news/retail-forex/uk-sfo-charges-eight-individuals-over-london-capital-finance-collapse/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T15:06:08Z",
+  "summary": "The UK Serious Fraud Office (SFO) today charged eight individuals in connection with its investigation into the collapse of London Capital & Finance Plc (LCF).",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2020/10/london.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "b5ebd98dd846",
+  "title": "Nubank Gains Regulatory Approval for Banking Licence…",
+  "link": "https://financefeeds.com/nubank-gains-regulatory-approval-for-banking-licence-serving-120-million-customers/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T14:55:20Z",
+  "summary": "Brazil's Central Bank has approved Nubank's acquisition of Banco Porto Real de Investimentos, clearing the way for the digital lender to obtain a banking licence in its largest market without triggering additional regulatory capital or liquidity requirements. Nu Holdings (NYSE…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/03/NUbank-760x428.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "dc7f7af077de",
+  "title": "Solana Introduces Version 1.0, Retiring Its Longstanding…",
+  "link": "https://financefeeds.com/solana-1-0-retires-mainnet-beta-label-on-upgrades/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T14:48:39Z",
+  "summary": "Solana has retired the \"mainnet beta\" designation it has carried since launch. The Solana Foundation announced Solana 1.0 on November 16, giving the network a protocol version that stands apart from the software versions of validator clients such as Agave and Firedancer. For…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Solana-Stablecoin-Card-Spending-Smashes-a-Monthly-Record.jpg",
+  "section": "people",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "d656074a49a0",
+  "title": "RaiseFX Launches Raise Rewards, a Loyalty Programme Built…",
+  "link": "https://financefeeds.com/raisefx-launches-raise-rewards-loyalty-programme/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T14:44:57Z",
+  "summary": "On 4 November 2026, RaiseFX launched Raise Rewards, its new loyalty programme, integrated directly into the RaiseFX client portal. With quests to complete, leagues to climb, leaderboards to follow and a Rewards Store, the RaiseFX Rewards programme turns the client area into a…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/IMG_6874-760x428.jpeg",
+  "section": "deals",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "13bf153db51b",
+  "title": "OKX’s Anthropic Pre-IPO Market Tests Price Discovery at Up…",
+  "link": "https://financefeeds.com/okxs-anthropic-pre-ipo-market-tests-price-discovery-at-up-to-10x-leverage/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T14:38:06Z",
+  "summary": "OKX is promoting its Anthropic Pre-IPO X-Perps market as the artificial intelligence company moves towards a public offering, giving eligible European customers a way to trade expectations about its valuation before exchange trading begins. Available since September with…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Anthropic-Pulls-IPO-Pricing-Details-Hours-After-Banks-Get-Them-760x428.jpg",
+  "section": "deals",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "b01669dc4a43",
+  "title": "Mercer Advisors hires Hightower’s Ami Doshi for Women & Wealth push",
+  "link": "https://www.investmentnews.com/women-advisor-community/mercer-advisors-hires-hightowers-ami-doshi-for-women-wealth-push/269023",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-16T14:27:34Z",
+  "summary": "Doshi, who built a women-focused advice program at Hightower Signature Wealth, joins the RIA’s push for female clients in Dallas",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/leoa_639304370198411784.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "0a83e3d90061",
+  "title": "Bitcoin ETF Streak Hits Seven Days of Outflows Before the…",
+  "link": "https://financefeeds.com/bitcoin-etf-streak-hits-seven-days-of-outflows/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T14:25:24Z",
+  "summary": "United States spot Bitcoin Exchange-Traded Funds (ETFs) posted seven consecutive trading sessions of net outflows totaling approximately $1.91 billion between November 5 and November 13, according to Farside Investors data . The funds recorded $185.4 million in net outflows on…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Bitcoin-ETF-Streak-Hits-Seven-Days-of-Outflows-Before-the-Crash-760x428.webp",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "998a3c304edb",
+  "title": "Views from 6,230: Why Anthropic's IPO Is a $2T Bet on AI",
+  "link": "https://www.wealthmanagement.com/equities/views-from-6-230-why-anthropic-s-ipo-is-a-2t-bet-on-ai",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-16T14:20:08Z",
+  "summary": "OpenVC's David Shapiro discusses the artificial intelligence IPO market and how investors can use secondary-market data to value firms.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt0719749eb3c49805/6afb12ed96ef282a6c6a3d70/David_Shapiro_Thumbnail.png?width=720&quality=80&disable=upscale",
+  "section": "deals",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "f0c4a3f311ab",
+  "title": "Interactive Brokers Opens Anthropic IPO Applications in 9…",
+  "link": "https://financefeeds.com/interactive-brokers-opens-anthropic-ipo-applications-in-9-european-countries/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T14:17:32Z",
+  "summary": "Interactive Brokers Ireland is offering eligible clients in nine European countries access to Anthropic’s proposed initial public offering, with applications open through November 17 at 21:00 Central European Time. The broker’s Anthropic offering page provides the documents and…",
+  "image": "https://financefeeds.com/wp-content/uploads/2021/09/Interactive-Brokers-760x400.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "82a724c52e9b",
+  "title": "Upbit Operator Dunamu Swings From $177 Million Profit to Q3…",
+  "link": "https://financefeeds.com/upbit-operator-dunamu-swings-from-177-million-profit-to-q3-net-loss/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T14:03:59Z",
+  "summary": "South Korean cryptocurrency exchange operator Dunamu reported a net loss of 18.6 billion won ($13.8 million) for the third quarter of 2026, reversing a 239 billion won profit a year earlier, as declining digital asset trading activity reduced revenue and pushed its operating…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/07/Upbit-may-pause-Litecoin-Transactions.png",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "6c14feb006e7",
+  "title": "The Companies You Want to Meet: Explore the London Summit Exhibition",
+  "link": "https://www.financemagnates.com/fm-events/the-companies-you-want-to-meet-explore-the-london-summit-exhibition/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-16T14:00:00Z",
+  "summary": "The exhibition at Finance Magnates Summit London 2026 puts commercial conversations alongside the conference programme. On 24 November at Old Billingsgate, attendees can meet companies providing brokerage services, liquidity, trading technology, financial infrastructure and…",
+  "image": "https://images.financemagnates.com/images/CMC%20AT%2035%3A%20Lord%20Peter%20Cruddas%20in%20Conversation_id_865b8212-d75c-4de3-9669-93d26ca35a7a_size900.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "08ba252f51bd",
+  "title": "Exness launches Anthropic CFD following public market debut",
+  "link": "https://www.financemagnates.com/thought-leadership/exness-launches-anthropic-cfd-following-public-market-debut/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-16T13:43:19Z",
+  "summary": "Exness , a global multi-asset broker, is adding an Anthropic contract for difference (CFD) to its offering following the AI company’s public market debut. The instrument, ANT, will be available on Exness Terminal, MetaTrader 4 (MT4), and MetaTrader 5 (MT5). This public listing…",
+  "image": "https://images.financemagnates.com/images/Exness_id_9100c2be-9afe-479e-a3b5-8b6ab3ad2916_size900.jpeg",
+  "section": "markets",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "463c5b29c453",
+  "title": "Nasdaq, Mercedes-AMG PETRONAS F1 Team extend their partnership",
+  "link": "https://fxnewsgroup.com/forex-news/exchanges/nasdaq-mercedes-amg-petronas-f1-team-extend-their-partnership/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T13:42:08Z",
+  "summary": "Nasdaq Inc (NASDAQ:NDAQ) and the Mercedes-AMG PETRONAS F1 Team today announced a multi-year extension of their partnership.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2024/04/nasdaq.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "c59a33b623d2",
+  "title": "Prop firm RZR Funded launches Prediction Markets challenges",
+  "link": "https://fxnewsgroup.com/forex-news/retail-forex/prop-firm-rzr-funded-launches-prediction-markets-challenges/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T13:28:57Z",
+  "summary": "Traders can now prove their edge on real-world outcomes, from elections to football to central bank decisions.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/RZR-Prediction-Markets.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "9670233fe540",
+  "title": "BME Adds 46 European Stocks to Cash-Settled Options as…",
+  "link": "https://financefeeds.com/bme-adds-46-european-stocks-to-cash-settled-options-as-spanish-volumes-near-1-million/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T13:28:45Z",
+  "summary": "BME is adding 46 European equity underlyings to its European-style, cash-settled options range on MEFF, extending a product previously concentrated on Spanish stocks. The exchange’s announcement includes companies such as ASML, SAP, Airbus, Allianz, LVMH and Siemens, with…",
+  "image": "https://financefeeds.com/wp-content/uploads/2022/01/Europe-760x428.jpeg",
+  "section": "regulation",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "93178250bffe",
+  "title": "Tokenised Stocks Jump 842% to $3.91 Billion, but Access…",
+  "link": "https://financefeeds.com/tokenised-stocks-jump-842-to-3-91-billion-but-access-outpaces-ownership-clarity/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T13:28:32Z",
+  "summary": "Tokenised stocks reached a market value of $3.91 billion at the end of September, up 842% year on year and 98% during the third quarter, according to the Hybrid Finance report from CoinShares and Token Terminal . The headline growth points to a rapidly expanding distribution…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/7-Best-On-Chain-Governance-Tools-for-DAOs-in-2026.jpg",
+  "section": "digital",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "1074ed7108a8",
+  "title": "Why Guardrails Will Decide How Far AI Money Management Goes",
+  "link": "https://www.financemagnates.com/thought-leadership/why-guardrails-will-decide-how-far-ai-money-management-goes/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-16T13:20:52Z",
+  "summary": "Picture handing a trading bot access to your savings. The first thing most people would want to know isn't its returns. It's what happens on the day it gets something badly wrong, and who can pull the plug. The IMF asked the institutional version of that in its April 2026 note…",
+  "image": "https://images.financemagnates.com/images/Why%20Guardrails%20Will%20Decide%20How%20Far%20AI%20Money%20Management%20Goes_id_4fc33218-adb0-4c12-9911-4db0cacab1b2_size900.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "69a01aca43aa",
+  "title": "Gold Price Today: $3,872 Monday, Lowest Since October 2025…",
+  "link": "https://financefeeds.com/gold-price-today-3872-monday-lowest-since-october-2025-warsh-speech-bull-4010-bear-3800/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T13:13:13Z",
+  "summary": "Updated 16 November 2026, 13:30 GMT. Spot gold was trading around $3,872 an ounce on Monday afternoon in Europe, little changed on the day after falling to $3,832 in early Asian trade, its lowest level since October 2025 (FXStreet, 13:06 GMT). The dollar index is near 103.50…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/08/gold-400-oz-good-delivery-bars-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "ec8c3b9c0069",
+  "title": "Nvidia (NVDA) Stock: $158 Monday, One Day Before Q3 Results…",
+  "link": "https://financefeeds.com/nvidia-nvda-stock-158-monday-day-before-q3-results-huang-return-report-bull-172-bear-145/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T13:13:08Z",
+  "summary": "Updated 16 November 2026, 13:30 GMT. Nvidia (NVDA) was down 2.7 percent in premarket trading on Monday at 8:07 a.m. ET (CNBC), which puts it near $158.45 against Friday's close of $162.85. Earlier quotes had it at $157.65 (Tokenpost, 7:15 a.m. ET). The fall follows a Financial…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/nvidia-headquarters-santa-clara-1-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "958eed5f443f",
+  "title": "Exclusive: Trading 212 CTO Jason Hill departs",
+  "link": "https://fxnewsgroup.com/forex-news/executives/exclusive-trading-212-cto-jason-hill-departs/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T13:09:26Z",
+  "summary": "Jason Hill has served as Chief Technology Officer (CTO) of Trading 212 since 2021, out of the company's London office.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/Jason-Hill-Trading-212.jpg",
+  "section": "people",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "e4f9fe8a125c",
+  "title": "FM Academy Launches New Website for Professional Training",
+  "link": "https://www.financemagnates.com/thought-leadership/fm-academy-launches-new-website-for-professional-training/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-16T13:05:21Z",
+  "summary": "Finance Magnates Academy (FM Academy) has launched its new website, providing a central destination for professional training in financial services, regulatory compliance, governance, risk management and related disciplines. Available at academy.financemagnates.com , the website…",
+  "image": "https://images.financemagnates.com/images/FM%20Academy%20New%20Website%20Launch%20%7C%20Professional%20Training_id_d6f60c61-9794-45bb-8b8c-5a3f45c85d31_size900.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "a6215a2eb377",
+  "title": "Exclusive: Ondo Renews EU Prospectus Despite $3.12M Equity…",
+  "link": "https://financefeeds.com/exclusive-ondo-renews-eu-prospectus-despite-3-12m-equity-deficit/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T12:57:08Z",
+  "summary": "Ondo Global Markets (BVI) Limited has secured approval from Liechtenstein's Financial Market Authority (FMA) for a renewed tokenized securities prospectus, maintaining its European offering framework despite financial disclosures revealing a $3.12 million shareholders' equity…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/08/Ondo-Finance-Lands-on-Aevo-With-a-Bold-New-Arsenal-760x428.webp",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "c9fcdfa98911",
+  "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
+  "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-16T12:55:46Z",
+  "summary": "CZ says Binance isn’t selling crypto and he has been buying. OKX founder Star Xu accuses him of misleading customers about the exchange’s role in successive October crashes.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/29d719a0d2a37836704e6c27126b7c3a61442f02-3000x1688.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "b6a99970a65a",
+  "title": "IOSCO Warns Brokers to Brace for AI-Driven Account Takeovers",
+  "link": "https://www.financemagnates.com/forex/iosco-warns-brokers-to-brace-for-ai-driven-account-takeovers/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-16T12:41:50Z",
+  "summary": "The International Organization of Securities Commissions (IOSCO) revealed that regulators and industry respondents expect AI-enabled fraud to be the single most significant emerging risk over the next 12 to 24 months. Retail traders are currently facing the highest risk of being…",
+  "image": "https://images.financemagnates.com/images/IOSCO_id_73b18312-1b36-4611-b9c9-5335033fc6dc_size900.jpg",
+  "section": "tech",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "7b1fcde6321b",
+  "title": "Box spread loans gain ground as advisors seek fixed-rate liquidity",
+  "link": "https://www.investmentnews.com/practice-management/heloc-loans/268929",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-16T12:37:37Z",
+  "summary": "Advisors weigh portfolio-backed borrowing against HELOCs and margin loans as the Fed tilts hawkish and mortgage lock-in persists",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/greg_639298283259824638.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "e77bf886cd9e",
+  "title": "CZ Points to Five Forces Behind the Crypto Market Crash",
+  "link": "https://financefeeds.com/cz-points-to-five-forces-behind-the-market-crash/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T12:34:01Z",
+  "summary": "Binance co-founder Changpeng Zhao listed five factors he believes contributed to Bitcoin’s slide to approximately $62,000, as the total crypto market fell about 11% over the week to roughly $2.2 trillion. Zhao, known as CZ, cautioned that none of the five is a proven cause…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/CZ-760x428.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "3f80deeef955",
+  "title": "Intel Stock: Pension Fund Sues Over the 28.6% One-Day Drop,…",
+  "link": "https://financefeeds.com/intel-stock-lawsuit-12-january-deadline/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T12:33:46Z",
+  "summary": "Intel stock traded at $56.75 before the bell at 11:58 GMT on Monday, down 4.88% from Friday’s close, according to TradingView . A Michigan pension fund sued Intel on 13 November in federal court in San Jose over the 28.6% fall on 30 October , alleging the company hid how weak PC…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/intel-headquarters-santa-clara-2023-760x428.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "c15db6b21e45",
+  "title": "Jensen Huang Plots Nvidia Comeback as Bessent Demands…",
+  "link": "https://financefeeds.com/jensen-huang-plots-nvidia-comeback/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T12:32:12Z",
+  "summary": "Jensen Huang is considering a return as Nvidia ’s chief executive, three days after stepping down, and has discussed the possibility with confidants, the Financial Times reported on November 15, citing people familiar with the matter. The same day, Treasury Secretary Scott…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Jensen-Huang-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "a263f9f2dbef",
+  "title": "CySEC reaches €50k settlement with Skanestas Investments",
+  "link": "https://fxnewsgroup.com/forex-news/regulatory/cysec-reaches-e50k-settlement-with-skanestas-investments/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T12:24:58Z",
+  "summary": "The Cyprus Securities and Exchange Commission (CySEC) announced today that it has reached a €50,000 settlement with Skanestas Investments Ltd.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2020/05/Cysec-office.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "202c0f8ca96e",
+  "title": "Nvidia’s Political Paradox: Can Washington Turn America’s AI Giants Into Global Champions Amid Growing Security Concerns?",
+  "link": "https://fxnewsgroup.com/forex-news/institutional/nvidias-political-paradox-can-washington-turn-americas-ai-giants-into-global-champions-amid-growing-security-concerns/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T12:15:39Z",
+  "summary": "How can the US promote its tech champions globally while ensuring that commercial expansion does not undermine national security?",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/Washington-DC.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "02b2e3e8362b",
+  "title": "The Quantum Era Approaches Financial Markets",
+  "link": "https://www.financemagnates.com/forex/regulation/the-quantum-era-approaches-financial-markets/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-16T12:00:00Z",
+  "summary": "Quantum computing is moving onto the agenda of financial regulators. On 5 November 2026, the UK's Financial Conduct Authority (FCA) announced the creation of a Quantum Experimentation Group, which will explore how quantum technologies could help financial institutions detect…",
+  "image": "https://images.financemagnates.com/images/Quantum%20computing_id_886f626c-ae02-4ee0-8560-34644c3f1316_size900.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "e9e446e8154f",
+  "title": "Investment scams drain $27.5m from seniors as Las Vegas tops fraud index",
+  "link": "https://www.investmentnews.com/practice-management/investment-scams-drain-275m-from-seniors-as-las-vegas-tops-fraud-index/269018",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-16T12:00:00Z",
+  "summary": "Senior clients face a mounting financial threat, with investment fraud causing the most damage of any scam category in 2026.",
+  "image": "https://cdn-res.keymedia.com/investmentnews/uploads/2020/04/OldManScam.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "b50c7a07532e",
+  "title": "CMC AT 35: Lord Peter Cruddas in Conversation",
+  "link": "https://www.financemagnates.com/fm-events/cmc-at-35-lord-peter-cruddas-in-conversation/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-16T11:57:00Z",
+  "summary": "Building a brokerage is one challenge; guiding it through decades of market, technology and regulatory change is another. CMC Markets founder Lord Peter Cruddas joins the Finance Magnates Summit London 2026 for a conversation about the decisions and turning points behind his…",
+  "image": "https://images.financemagnates.com/images/CMC%20Markets%20founder%20Lord%20Peter%20Cruddas_id_554ae51e-1c2a-4eb4-a38c-0253211e4241_size900.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "aceccd98299f",
+  "title": "Coherent stock prediction: $333.88 bull, $129.17 bear",
+  "link": "https://financefeeds.com/coherent-stock-prediction-218-15-bull-333-88-bear-129-17/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T11:55:05Z",
+  "summary": "The Friday drop in Coherent is being read as a rejected quarter. It is not. Coherent Corp. common stock closed at $218.15 on Friday 13 November 2026, the last completed bar in the Nasdaq historical file. The info endpoint lists the exchange as the NYSE. The house path through…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/coherent-facade-pth-760x428.jpg",
+  "section": "tech",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "788208a745a0",
+  "title": "FOREX.com Lets Japanese Traders Bet on Anthropic Days Before Its Debut",
+  "link": "https://www.financemagnates.com/forex/brokers/forexcom-lets-japanese-traders-bet-on-anthropic-days-before-its-debut/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-16T11:55:00Z",
+  "summary": "FOREX.com clients in Japan can now trade contracts on Anthropic's expected market value before the artificial intelligence developer lists, StoneX Securities said today (Monday). The Tokyo-based unit of StoneX Group called them the country's first pre-IPO share CFDs. Anthropic…",
+  "image": "https://images.financemagnates.com/images/Anthropic%2C%20Claude.%20Source%3A%20Shutterstock_id_cd3fc2ff-934b-44dd-a734-50dd2bdf5df1_size900.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "5fc632eaee04",
+  "title": "Vitalik Buterin Defends Ethereum’s Controversial Gas…",
+  "link": "https://financefeeds.com/vitalik-buterin-defends-ethereum/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T11:44:17Z",
+  "summary": "Ethereum co-founder Vitalik Buterin published a detailed defense of EIP-8037 on November 16, arguing that sharply higher gas costs for new on-chain state are necessary to keep Ethereum’s storage footprint manageable as the network scales. The proposal would raise the gas…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/vitalik-Buterin-760x428.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "7cd7406e0d59",
+  "title": "Revolut Placed Under Court Supervision in Italy Over €41.9…",
+  "link": "https://financefeeds.com/revolut-placed-under-court-supervision-in-italy-over-e41-9-million-in-illicit-flows/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T11:38:56Z",
+  "summary": "An Italian court has placed Revolut 's European banking entity under judicial administration for one year after finding serious weaknesses in its anti-money laundering controls that allegedly allowed criminal suspects and convicted offenders to move €41.9 million ($46.2 million)…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/Revolut-Plans-1000-ATMs-760x428.webp",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "2fa196cb8d26",
+  "title": "Why UHNW clients are rethinking inheritance before death",
+  "link": "https://www.investmentnews.com/retirement-planning/why-uhnw-clients-are-rethinking-inheritance-before-death/269017",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-16T11:37:00Z",
+  "summary": "Kate Maier of Wealth Enhancement explains why UHNW clients aren’t waiting until death to give.",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/stev_639303820704484039.png",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "130b7930933b",
+  "title": "Institutional investors rethink alternatives amid liquidity crunch",
+  "link": "https://www.investmentnews.com/alternatives/institutional-investors-rethink-alternatives-amid-liquidity-crunch/269021",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-16T11:37:00Z",
+  "summary": "A Goldman Sachs survey of 225 limited partners finds conviction holding in private markets even as sluggish distributions constrain new deployment.",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/jean_638899051364205847.png",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "51a07fc0fa4c",
   "title": "Anthropic IPO opens retail access to AI at scale",
   "link": "https://www.investmentnews.com/equities/anthropic-ipo-opens-retail-access-to-ai-at-scale/269016",
@@ -17,6 +811,25 @@
   "regions": [
    "Americas"
   ]
+ },
+ {
+  "id": "42aa8f4fc3df",
+  "title": "Elev8 Wins Global Best Trading Environment 2026 at Finance Magnates Awards",
+  "link": "https://www.financemagnates.com/thought-leadership/elev8-wins-global-best-trading-environment-2026-at-finance-magnates-awards/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-16T11:30:50Z",
+  "summary": "Elev8 , an international online broker, has been named Global Best Trading Environment 2026 at the Finance Magnates Awards 2026 , held on 6 November in Limassol, Cyprus. The recognition highlights Elev8's commitment to providing a comprehensive trading experience, combining…",
+  "image": "https://images.financemagnates.com/images/Elev8%20Wins%20Global%20Best%20Trading%20Environment%202026%20at%20Finance%20Magnates%20Awards_id_96e33294-6957-4dc9-b69c-379fd8467f6b_size900.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
  },
  {
   "id": "0dc34ae0fc16",
@@ -37,6 +850,24 @@
   "regions": [
    "Americas",
    "Asia Pacific"
+  ]
+ },
+ {
+  "id": "77bf5992c08f",
+  "title": "University of Economics in Katowice joins TradingView educational partner program",
+  "link": "https://fxnewsgroup.com/forex-news/platforms/university-of-economics-in-katowice-joins-tradingview-educational-partner-program/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T11:26:43Z",
+  "summary": "TradingView announced today it is partnering with the University of Economics in Katowice to advance financial education further.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/university-of-economics-in-katowice-tradingview.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
   ]
  },
  {
@@ -464,7 +1295,7 @@
   "feed": "Markets Media",
   "published": "2026-11-16T09:00:00Z",
   "summary": "She won Excellence in Regulation at Markets Media Group’s 7th annual European Women in Finance Awards.",
-  "image": "https://www.marketsmedia.com/wp-content/uploads/2018/02/iStock-483210448-150x150.jpg",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2026/11/wooden-blocks-with-the-text-Depositphotos_91090376_L-150x150.jpg",
   "section": "markets",
   "also": [],
   "assets": [
@@ -11683,27 +12514,6 @@
   "also": [],
   "assets": [
    "Equities"
-  ],
-  "regions": [
-   "Americas"
-  ]
- },
- {
-  "id": "116e57d3b409",
-  "title": "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
-  "link": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
-  "source": "SEC",
-  "feed": "SEC",
-  "published": "2026-09-17T12:55:00Z",
-  "summary": "The SEC is taking a significant step forward, within its statutory authority, to bring America’s capital markets into the digital age by facilitating onchain trading of certain tokenized stocks.",
-  "image": "",
-  "section": "regulation",
-  "also": [
-   "digital"
-  ],
-  "assets": [
-   "Equities",
-   "Crypto"
   ],
   "regions": [
    "Americas"
