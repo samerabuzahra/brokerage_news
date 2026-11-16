@@ -1,5 +1,191 @@
 [
  {
+  "id": "2aa2b760ce03",
+  "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+  "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-16T20:35:21Z",
+  "summary": "Rising bond yields, ETF outflows and forced selling are weighing on bitcoin as traders brace for more losses.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb223eb7b2ddf393991cceaeddd92370f4d55e1d-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "51f9ada36567",
+  "title": "Real estate, infrastructure, loom large for alts in 2027, says Brookfield",
+  "link": "https://www.investmentnews.com/alternatives/real-estate-infrastructure-loom-large-for-alts-in-2027-says-brookfield/269032",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-16T20:31:16Z",
+  "summary": "Brookfield Private Wealth sees AI infrastructure as extending well beyond just data centers.",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/jame_639304573438163860.png",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "c6a91fc4fc96",
+  "title": "Revolut Placed Under Court Supervision in Italy After Failing to Flag Criminal Funds",
+  "link": "https://www.financemagnates.com/fintech/revolut-placed-under-court-supervision-in-italy-after-failing-to-flag-criminal-funds/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Fintech",
+  "published": "2026-11-16T20:26:00Z",
+  "summary": "An Italian court has placed Revolut’s local branch, Revolut Bank UAB, under judicial administration for one year and ordered external supervision of its anti-money laundering controls. The digital bank failed to flag tens of millions of euros moved by convicted criminals. The…",
+  "image": "",
+  "section": "regulation",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "95fff00a55bf",
+  "title": "Commonwealth Financial’s move or conversion to LPL a success, company declares",
+  "link": "https://www.investmentnews.com/independent-broker-dealers/commonwealth-financials-move-or-conversion-to-lpl-a-success-company-declares/269031",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-16T20:25:34Z",
+  "summary": "“Even with all the work done before hand, this is still a bit stressful,” one advisor said.",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/jame_639304573284980354.jpeg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "366be4a04f2d",
+  "title": "CFDs broker GODO adds UAE CMA Category 1 license",
+  "link": "https://fxnewsgroup.com/forex-news/retail-forex/cfds-broker-godo-adds-uae-cma-category-1-license/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T20:04:45Z",
+  "summary": "GODO began operation in 2021, founded by former AvaTrade executives Mohamed Ahmed and Ebie Alex.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/08/GODO-trading-app-1.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Middle East & Africa"
+  ]
+ },
+ {
+  "id": "90af16c2b7ea",
+  "title": "BlackRock Seeks to Break ETF Mold With Private-Market Hybrid",
+  "link": "https://www.wealthmanagement.com/alternative-investments/blackrock-seeks-to-break-etf-mold-with-private-market-hybrid",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-16T19:54:33Z",
+  "summary": "BlackRock is seeking approval for an exchange-traded interval fund, or ETIF, that would allow investors to trade shares throughout the day while giving managers greater latitude to hold private assets.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/bltd4ff5296884cdfab/6734904c1845b0d067e0f44f/blackrock-office-ny.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "7a73b0486944",
+  "title": "Binance launches Pay Later crypto-backed credit line",
+  "link": "https://fxnewsgroup.com/forex-news/cryptocurrency/binance-launches-pay-later-crypto-backed-credit-line/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-16T19:50:55Z",
+  "summary": "Pay Later, available on Binance Card and QR Pay, enables users to unlock spending power from their existing crypto holdings.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/Binance-Pay-Later.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "98db437a2ff5",
+  "title": "Microsoft outage disrupts structured notes trading",
+  "link": "https://www.waterstechnology.com/data-management/7953360/microsoft-outage-disrupts-structured-notes-trading",
+  "source": "WatersTechnology",
+  "feed": "WatersTechnology",
+  "published": "2026-11-16T19:15:44Z",
+  "summary": "",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "1c2b0c5991a5",
+  "title": "RZR Funded Adds Prediction-Market Challenges after Hantec Trader Rebrand",
+  "link": "https://www.financemagnates.com/forex/rzr-funded-adds-prediction-market-challenges-after-hantec-trader-rebrand/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-16T19:06:50Z",
+  "summary": "RZR Funded (the former Hantec Trader) have launched one-stage prediction market challenges as an extension of their simulated trading model which previously covered currencies, indices and commodities. The new product enables participants to take virtual positions on over 5,000…",
+  "image": "https://images.financemagnates.com/images/Hantec%20Trader_id_0f75488a-4d7d-44b3-b592-44991a49f6a3_size900.jpeg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "bd29658910c9",
+  "title": "401(k) prospecting gets AI upgrade with WealthFeed form data upgrade",
+  "link": "https://www.investmentnews.com/retirement-planning/401k-prospecting-gets-ai-upgrade-with-wealthfeed-form-data-upgrade/269030",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-16T19:05:42Z",
+  "summary": "Drawing from Form 5500 filings, the platform scores 780,000 retirement plans and maps warm introductions as advisors chase the DC-to-wealth bridge",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/leoa_639304564302263141.jpg",
+  "section": "wealth",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "449e50ccde18",
   "title": "RPA Aggregators Tackle Convergence, Data and AI Gaps",
   "link": "https://www.wealthmanagement.com/rpa-news/rpa-aggregators-tackle-convergence-data-and-ai-gaps",
