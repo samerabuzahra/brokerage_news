@@ -1,5 +1,61 @@
 [
  {
+  "id": "8159276c6af0",
+  "title": "The CDM is useful, so why aren’t more people using it?",
+  "link": "https://www.waterstechnology.com/data-management/7953357/the-cdm-is-useful-so-why-arent-more-people-using-it",
+  "source": "WatersTechnology",
+  "feed": "WatersTechnology",
+  "published": "2026-11-16T01:34:22Z",
+  "summary": "",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "9b554bdcedff",
+  "title": "Morgan Stanley’s Shalett ‘Incredibly’ Bullish Despite AI Turmoil",
+  "link": "https://www.advisorhub.com/morgan-stanleys-shalett-incredibly-bullish-despite-ai-turmoil/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-16T01:00:31Z",
+  "summary": "Nvidia Corp.’s leadership turmoil and the Democrats’ midterm election victories have added to concerns about the artificial intelligence boom",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2024/02/Lisa-Shalett-Photographer-Christopher-Goodney-Bloomberg-.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "b4b56a1ae79b",
+  "title": "What Is Toxic Flow in Market Making? How Informed Traders…",
+  "link": "https://financefeeds.com/what-is-toxic-flow-in-market-making/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-15T22:58:27Z",
+  "summary": "Market makers provide liquidity by continuously quoting prices at which they are willing to buy and sell financial assets. They typically earn revenue from the difference between these prices, known as the bid-ask spread. However, this business model exposes them to a risk known…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Gemini_Generated_Image_k42rx4k42rx4k42r-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
   "id": "eef6f943d895",
   "title": "Backpack Wins US Derivatives Clearing Registration Under…",
   "link": "https://financefeeds.com/backpack-wins-us-derivatives-clearing-registration-under-cftc-oversight/",
