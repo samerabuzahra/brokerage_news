@@ -1,12 +1,420 @@
 [
  {
+  "id": "ffde30137b26",
+  "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
+  "link": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T17:24:42Z",
+  "summary": "What is driving the growing chargeback challenge based on new Mastercard sponsored research ‘Chargebacks: The Case for Coordination’, and where does the current dispute process create friction?",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "e694f2e0405e",
+  "title": "HKEX Sets December 14 Launch for CBDC-Based After-Hours…",
+  "link": "https://financefeeds.com/hkex-sets-december-14-launch-for-cbdc-based-after-hours-margin-deposits/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T17:20:31Z",
+  "summary": "Hong Kong Exchanges and Clearing (HKEX) will begin accepting wholesale central bank digital currency (CBDC) for advance margin deposits during derivatives after-hours trading on December 14, 2026, allowing eligible clearing participants to fund their positions outside…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/12/hkex.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "658e34610d01",
+  "title": "Patagonia, Grady White and Ownership Without an Owner",
+  "link": "https://www.wealthmanagement.com/philanthropy/patagonia-grady-white-and-ownership-without-an-owner",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-16T17:01:24Z",
+  "summary": "Perpetual purpose trusts explained.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blta95af7e0a1e4c16a/672b2d3f95c832e056a05018/patagonia-owner-yvon-Chouinard.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "d8a3c927294d",
+  "title": "Warren Buffett donates $5.5B in latest act of Thanksgiving largesse",
+  "link": "https://www.investmentnews.com/practice-management/warren-buffett-donates-55b-in-latest-act-of-thanksgiving-largesse/269026",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-16T17:01:23Z",
+  "summary": "Berkshire Hathaway gift lands as family offices and ultra-high-net-worth donors rework philanthropic planning around values and heirs",
+  "image": "https://cdn-res.keymedia.com/investmentnews/uploads/2023/12/Untitled-design2.png",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "ec2b3ad1bbcb",
+  "title": "Pepe on CoinMarketCap: How PEPE Ranks Among Meme Coins",
+  "link": "https://financefeeds.com/pepe-on-coinmarketcap-how-pepe-ranks/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T16:51:23Z",
+  "summary": "KEY TAKEAWAYS PEPE ranks fourth among meme coins on CoinMarketCap, with a market capitalization of approximately $1.58 billion. Dogecoin leads the meme coin sector with a market capitalization of approximately $9.22 billion, around 5.8 times PEPE's $1.58 billion valuation. Shiba…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Pepe-on-CoinMarketCap.avif",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "cada900cbfdb",
+  "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
+  "link": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-16T16:41:42Z",
+  "summary": "The decentralized exchange blamed a leaked trading API key and said its smart contracts were unaffected, while investigators traced funds to Hyperliquid.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "c77ef629b134",
+  "title": "UK preps legal protections to safeguard access to face-to-face banking",
+  "link": "https://www.finextra.com/newsarticle/48766/uk-preps-legal-protections-to-safeguard-access-to-face-to-face-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T16:36:00Z",
+  "summary": "The UK government says it will bring in new legal protections to ensure people can continue to access the essential face-to-face banking services they need.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "8ad1d5ccadb7",
+  "title": "Modular Blockchain Architecture: How New Infrastructure…",
+  "link": "https://financefeeds.com/modular-blockchain-architecture/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T16:24:29Z",
+  "summary": "KEY TAKEAWAYS Modular blockchain architecture separates execution, consensus, data availability, and settlement into specialized layers, allowing each component to scale independently of others. Based on the 30-day average through November 16, 2026, Celestia's data availability…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Modular-Blockchain-Architecture-760x428.png",
+  "section": "digital",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "3d6f75fb3ae9",
+  "title": "Western Union Connects Solana to 400,000 Cash-Out Locations…",
+  "link": "https://financefeeds.com/western-union-connects-solana-to-400000-cash-out-locations-worldwide/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T16:12:37Z",
+  "summary": "Western Union is opening its Digital Asset Network (DAN) to cryptocurrency platforms, offering a single integration that connects digital asset transactions to approximately 400,000 cash payout locations across 180 countries and territories, with support for 130 currencies…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/08/Western-Union-Crypto-Wallet-760x428.webp",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "202304616e48",
+  "title": "Crypto Picks-and-Shovels: How Infrastructure Companies…",
+  "link": "https://financefeeds.com/crypto-picks-and-shovels/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T16:05:22Z",
+  "summary": "KEY TAKEAWAYS Pump.fun surpassed $1 billion in cumulative revenue in March 2026, becoming the first Solana application to reach that milestone. The platform also recorded approximately $15.4 million in fees on January 24, 2025, a single-day record at the time, according to The…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Crypto-Picks-and-Shovels-760x428.jpg",
+  "section": "digital",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "0427f80fe997",
+  "title": "GODO Advances from Introducing Broker to Full UAE Dealing Licensee",
+  "link": "https://www.financemagnates.com/forex/regulation/godo-advances-from-introducing-broker-to-full-uae-dealing-licensee/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-16T16:03:00Z",
+  "summary": "Brokerage group GODO has secured a Category 1 licence from the UAE Capital Market Authority (CMA), advancing from an onshore introducing agent into a fully authorised local dealing entity. GODO have announced the licence following initial approval in August and the completion of…",
+  "image": "https://images.financemagnates.com/images/GODO_id_e2977c11-7b72-4c59-8a31-16b3b3c95ecb_size900.jpeg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe",
+   "Middle East & Africa"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "7eac39c856cc",
+  "title": "Networking With an Impact: The FM Summits Legacy",
+  "link": "https://www.financemagnates.com/fm-events/networking-with-an-impact-the-fm-summits-legacy/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-16T16:00:00Z",
+  "summary": "The connections made at Finance Magnates Summit London 2026 can have an impact beyond commercial outcomes. Through the FM Summits Impact & Legacy programme, the summit brings attention to practical initiatives that extend outside the conference floor. Money Ready, a UK financial…",
+  "image": "https://images.financemagnates.com/images/FMLS%3A25_id_971eb3b9-aaff-4dcb-8162-830459aaee88_size900.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "d43188b4b764",
+  "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+  "link": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-16T15:54:11Z",
+  "summary": "A central bank official reportedly said legitimate funds become tainted when moved into stablecoins, comparing the market to the informal \"dólar-cabo\" system.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "0a410981d877",
+  "title": "AI-powered accounting fintech Count raises $6.5m in seed funding",
+  "link": "https://www.finextra.com/newsarticle/48765/ai-powered-accounting-fintech-count-raises-65m-in-seed-funding?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T15:51:00Z",
+  "summary": "Accounting fintech Count has raised $6.5 million in an oversubscribed seed round for its AI-native platform.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "cd355f9ccbd9",
+  "title": "RIA Edge: New Capital, New Competition Reshape RIA Deal Landscape",
+  "link": "https://www.wealthmanagement.com/ria-edge/ria-edge-new-capital-new-competition-reshape-ria-deal-landscape",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-16T15:45:58Z",
+  "summary": "RIAs cannot be complacent in an evolving industry, said a panel of deal experts speaking at RIA Edge Austin. “Even if you’re Usain Bolt and you’re standing still, everybody’s going to pass you.”",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/bltd3e2e83db8755e1e/6afb27360e1230690ab53541/ria-edge-austin-crowd.jpg?width=720&quality=80&disable=upscale",
+  "section": "deals",
+  "also": [
+   "wealth"
+  ],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "abeb0afce74a",
+  "title": "Focus Financial lands Apollo fund backing amid RIA recaps wave",
+  "link": "https://www.investmentnews.com/ria-news/focus-financial-lands-apollo-fund-backing-amid-ria-recaps-wave/269025",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-16T15:43:51Z",
+  "summary": "The strategic private equity agreement keeps CD&R and Stone Point in control after the $550 billion RIA consolidator got flagged over high leverage",
+  "image": "https://cdn-res.keymedia.com/investmentnews/uploads/2023/11/businessman-showing-business-growth-graph-successful-marketing-strategy-up-arrow-and-global.jpg-s1024x1024wisk20cNS_T7PPzNn2HZcRznniQNofbxNcQj51M4CpmLZa0Qxs1.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "d740cc6c2cf9",
+  "title": "Ask an Advisor: Holiday client gifts that don’t come off as generic",
+  "link": "https://www.financial-planning.com/news/ask-an-advisor-holiday-client-gifts-that-don-t-come-off-as-generic",
+  "source": "Financial Planning",
+  "feed": "Financial Planning",
+  "published": "2026-11-16T15:33:30Z",
+  "summary": "From charitable contributions to sharp swag, a few expert gift-givers share suggestions for how to show client appreciation this holiday season.",
+  "image": "https://www.financial-planning.com/wp-content/uploads/sites/8/2026/11/AdobeStock_686876396.jpeg?resize=1200,675",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "36c42ab2710a",
+  "title": "Singapore and Germany Test Cross-Border CBDC Settlement…",
+  "link": "https://financefeeds.com/singapore-and-germany-test-cross-border-cbdc-settlement-under-project-simbolon/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T15:33:19Z",
+  "summary": "The Monetary Authority of Singapore (MAS) and Deutsche Bundesbank have successfully tested the settlement of euro-Singapore dollar foreign exchange transactions using wholesale central bank digital currencies (CBDCs) across separate digital infrastructures, demonstrating how…",
+  "image": "https://financefeeds.com/wp-content/uploads/2024/03/cbdc-760x428.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "c314163ea8be",
+  "title": "5 Best Blockchain Music Royalty and Streaming Platforms",
+  "link": "https://financefeeds.com/5-best-blockchain-music-royalty-and-streaming-platforms/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-16T15:24:18Z",
+  "summary": "Global recorded music revenues grew 6.4% and reached US$31.7 billion in 2025, according to IFPI . Total streaming revenues surpassed $22bn and accounted for 69.6% of global recorded music income. However, payment plumbing has not kept pace. In its August 2025 distribution , the…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/5-Best-Blockchain-Music-Royalty-and-Streaming-Platforms-760x428.png",
+  "section": "digital",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "a287b9b6969c",
+  "title": "Central banks of England, Thailand and Singapore test synchronised FX settlement",
+  "link": "https://www.finextra.com/newsarticle/48764/central-banks-of-england-thailand-and-singapore-test-synchronised-fx-settlement?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T15:17:00Z",
+  "summary": "The Bank of England, the Monetary Authority of Singapore, and the Bank of Thailand say that their research shows that synchronisation – a service that coordinates movements of central bank money – could support interoperability across wholesale FX settlement environments built…",
+  "image": "",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "5de48f9e0ade",
+  "title": "HKMA and Swift explore tokenised deposits for cross-border payments",
+  "link": "https://www.finextra.com/pressarticle/111677/hkma-and-swift-explore-tokenised-deposits-for-cross-border-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T15:13:00Z",
+  "summary": "The Hong Kong Monetary Authority (HKMA) announced today (16 November) a strengthened collaboration with Swift to explore the use of tokenised deposits in enhancing the efficiency and end-to-end experience of cross-border transactions.",
+  "image": "",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "b32b83957dce",
   "title": "Proof-of-Stake Networks Compared: Solana, Cosmos,…",
   "link": "https://financefeeds.com/proof-of-stake-networks-compared/",
   "source": "FinanceFeeds",
   "feed": "FinanceFeeds",
   "published": "2026-11-16T15:08:53Z",
-  "summary": "KEY TAKEAWAYS Solana processes about 2,000 transactions per second in real-world conditions, with a theoretical maximum of 65,000 TPS. Its Alpenglow upgrade targets finality of approximately 150 milliseconds, compared with roughly 12.8 seconds previously. Avalanche's C-Chain has…",
+  "summary": "KEY TAKEAWAYS Solana processes about 2,000 transactions per second in real-world conditions, with a theoretical maximum of 65,000 TPS. Its Alpenglow upgrade targets finality of approximately 150 milliseconds, compared with roughly 12.8 seconds previously. Avalanche 's C-Chain…",
   "image": "https://financefeeds.com/wp-content/uploads/2026/11/proof-of-stake-760x428.jpeg",
   "section": "digital",
   "also": [
@@ -19,6 +427,23 @@
   "regions": [
    "Global"
   ]
+ },
+ {
+  "id": "86c6d4635ca8",
+  "title": "Adyen wins deal with UK energy supplier OVO",
+  "link": "https://www.finextra.com/pressarticle/111676/adyen-wins-deal-with-uk-energy-supplier-ovo?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T15:07:00Z",
+  "summary": "Adyen, the global financial technology platform of choice for leading businesses, is partnering with OVO, one of the UK's largest energy suppliers, to process all of its consumer card payments.",
+  "image": "",
+  "section": "deals",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
  },
  {
   "id": "431a5b0d6328",
@@ -78,6 +503,23 @@
   ]
  },
  {
+  "id": "5cc87c7fe090",
+  "title": "Anne Boden unveils AI-focused banking venture",
+  "link": "https://www.finextra.com/newsarticle/48763/anne-boden-unveils-ai-focused-banking-venture?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T14:46:00Z",
+  "summary": "Starling Bank founder Anne Boden has provided details of her latest venture, an agentic-AI-focused banking startup called Lockwood.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "d656074a49a0",
   "title": "RaiseFX Launches Raise Rewards, a Loyalty Programme Built…",
   "link": "https://financefeeds.com/raisefx-launches-raise-rewards-loyalty-programme/",
@@ -98,6 +540,64 @@
   ]
  },
  {
+  "id": "0dc493999d49",
+  "title": "Finzly adds ex-Early Warning CEO Paul Finch to board",
+  "link": "https://www.finextra.com/pressarticle/111675/finzly-adds-ex-early-warning-ceo-paul-finch-to-board?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T14:41:00Z",
+  "summary": "Finzly, a leader in modern banking technology, today announced the appointment of Paul Finch, former Chief Executive Officer of Early Warning Services and a key architect behind the launch of Zelle, to its Board of Directors.",
+  "image": "",
+  "section": "regulation",
+  "also": [
+   "people"
+  ],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "c71e432cad04",
+  "title": "Betterment expands self-directed investing and custom portfolios to IRAs",
+  "link": "https://www.finextra.com/pressarticle/111674/betterment-expands-self-directed-investing-and-custom-portfolios-to-iras?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T14:40:00Z",
+  "summary": "Betterment, a trusted wealth and savings platform, announced two expansions to its retail offering: the launch of Betterment Plus and the introduction of self-directed investing and Custom portfolios within individual retirement accounts (IRAs).",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "a75abcdd21c0",
+  "title": "Market Brief: U.S. Tightens AI Chip Export Rules to Close China Access Loophole",
+  "link": "https://www.advisorhub.com/morning-bell-wrapup-11-16-2026/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-16T14:39:58Z",
+  "summary": "Active managers who briefly looked like they might finally have their moment earlier this year are once again confronting a familiar problem",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2026/04/MarketBrief.gif",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "13bf153db51b",
   "title": "OKX’s Anthropic Pre-IPO Market Tests Price Discovery at Up…",
   "link": "https://financefeeds.com/okxs-anthropic-pre-ipo-market-tests-price-discovery-at-up-to-10x-leverage/",
@@ -116,6 +616,24 @@
   ],
   "regions": [
    "UK & Europe"
+  ]
+ },
+ {
+  "id": "be1d7d99b484",
+  "title": "Apollo Makes Minority Investment in Focus Financial",
+  "link": "https://www.wealthmanagement.com/ria-news/apollo-funds-invest-in-focus-financial-partners",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-16T14:37:27Z",
+  "summary": "CD&R and Stone Point will retain control as Apollo funds inject capital, with employee ownership now spanning more than 850 shareholders across the firm.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt1e863765029ce031/6734c4ffff9e737266bbb5c3/adam-birenbaum-focus-buckingham-colony.jpg?width=720&quality=80&disable=upscale",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
   ]
  },
  {
@@ -195,6 +713,44 @@
    "Americas",
    "UK & Europe"
   ]
+ },
+ {
+  "id": "a8e7166996a0",
+  "title": "Apollo Agrees Deal to Invest in Wealth Network Focus Financial",
+  "link": "https://www.advisorhub.com/apollo-agrees-deal-to-invest-in-wealth-network-focus-financial/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-16T14:11:22Z",
+  "summary": "Apollo Global Management is investing in Focus Financial Partners.",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2023/07/Apollo-772x485-1.jpg",
+  "section": "deals",
+  "also": [
+   "wealth"
+  ],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "3ac35c91a82b",
+  "title": "Revolut put under Italian supervision over AML controls",
+  "link": "https://www.finextra.com/newsarticle/48762/revolut-put-under-italian-supervision-over-aml-controls?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T14:09:00Z",
+  "summary": "An Italian court has placed Revolut's European business under judicial administration because of \"serious deficiencies\" in its anti-money laundering controls, according to Reuters.",
+  "image": "",
+  "section": "regulation",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
  },
  {
   "id": "82a724c52e9b",
@@ -402,6 +958,26 @@
    "Americas",
    "Asia Pacific"
   ]
+ },
+ {
+  "id": "e73d1f953a33",
+  "title": "HSBC expands tokenised deposit service to Ireland and the Netherlands",
+  "link": "https://www.finextra.com/pressarticle/111673/hsbc-expands-tokenised-deposit-service-to-ireland-and-the-netherlands?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T13:12:00Z",
+  "summary": "Today HSBC announced the launch of its Tokenised Deposit Service (TDS) in Ireland and in the Netherlands, key regional treasury hubs, marking a significant expansion of its digital money capabilities to enable seamless, real-time funds movement across jurisdictions in a…",
+  "image": "",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ],
+  "img_checked": true
  },
  {
   "id": "958eed5f443f",
@@ -617,6 +1193,42 @@
   "regions": [
    "Americas"
   ]
+ },
+ {
+  "id": "5169673978d6",
+  "title": "Monument becomes first UK bank to offer tokenised retail deposits",
+  "link": "https://www.finextra.com/newsarticle/48761/monument-becomes-first-uk-bank-to-offer-tokenised-retail-deposits?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T12:07:00Z",
+  "summary": "UK challenger bank Monument aims to meet the demands of the mass-affluent, approximately 11 million professionals and high earners across the nation.",
+  "image": "",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "2ce5d0719989",
+  "title": "UK Invoice Payment Terms: What the 60-Day Cap Changes for Finance",
+  "link": "https://www.finextra.com/blogposting/33479/uk-invoice-payment-terms-what-the-60-day-cap-changes-for-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T12:05:37Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
  },
  {
   "id": "02b2e3e8362b",
@@ -853,6 +1465,25 @@
   ]
  },
  {
+  "id": "0acf7d0af5b0",
+  "title": "Iress unveils new AI-enabled capabilities in Xplan",
+  "link": "https://www.finextra.com/pressarticle/111672/iress-unveils-new-ai-enabled-capabilities-in-xplan?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T11:29:00Z",
+  "summary": "Financial technology company Iress has unveiled the latest developments from its ongoing investment in its Xplan wealth management platform, with a series of enhancements designed to transform the advice experience. Combining an improved user experience, smarter workflows and…",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "77bf5992c08f",
   "title": "University of Economics in Katowice joins TradingView educational partner program",
   "link": "https://fxnewsgroup.com/forex-news/platforms/university-of-economics-in-katowice-joins-tradingview-educational-partner-program/",
@@ -912,6 +1543,47 @@
   "regions": [
    "Americas"
   ]
+ },
+ {
+  "id": "356e847a9d26",
+  "title": "Sokin announces UAE expansion following license approval from Dubai Financial Services Authority",
+  "link": "https://www.finextra.com/pressarticle/111671/sokin-announces-uae-expansion-following-license-approval-from-dubai-financial-services-authority?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T11:23:00Z",
+  "summary": "Sokin, the financial infrastructure global business runs on, today announced its UAE expansion following license approval from the Dubai Financial Services Authority (DFSA). Businesses can now receive dirhams into a Sokin AED account, while platform partners gain embedded local…",
+  "image": "",
+  "section": "regulation",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Middle East & Africa"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "f1e250bb4574",
+  "title": "African cryptocurrency platform Luno calls for stronger financial connectivity",
+  "link": "https://www.finextra.com/pressarticle/111670/african-cryptocurrency-platform-luno-calls-for-stronger-financial-connectivity?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T11:20:00Z",
+  "summary": "Luno, the global cryptocurrency platform founded in Africa, has called for stronger financial connectivity across African markets, highlighting the need for greater regulatory collaboration, currency interoperability and more efficient settlement infrastructure to address…",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Middle East & Africa"
+  ],
+  "img_checked": true
  },
  {
   "id": "d5fba296c249",
@@ -1703,6 +2375,23 @@
   ]
  },
  {
+  "id": "590be00fcbb3",
+  "title": "Modernizing Legacy Lending Systems: A Strategic Roadmap for Financial Institutions",
+  "link": "https://www.finextra.com/blogposting/33477/modernizing-legacy-lending-systems-a-strategic-roadmap-for-financial-institutions?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T07:06:25Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "09fc4d1d71e4",
   "title": "Why Regulatory Scrutiny Is Moving Downmarket In 2027",
   "link": "https://www.tradersmagazine.com/am/why-regulatory-scrutiny-is-moving-downmarket-in-2027/",
@@ -2001,6 +2690,25 @@
   ],
   "regions": [
    "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "1158eb239e79",
+  "title": "HKEX to accept CBDC payments for derivatives after-hours trading",
+  "link": "https://www.finextra.com/newsarticle/48760/hkex-to-accept-cbdc-payments-for-derivatives-after-hours-trading?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-16T00:01:00Z",
+  "summary": "Hong Kong Exchanges and Clearing (HKEX) will soon allow the use of a wholesale CBDC for advance margin deposits during the after-hours trading session in the derivatives market.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Asia Pacific"
   ],
   "img_checked": true
  },
@@ -2320,6 +3028,27 @@
   ]
  },
  {
+  "id": "5d4ca274fcce",
+  "title": "Should a fintech build or buy stablecoin payment infrastructure?",
+  "link": "https://www.finextra.com/blogposting/33474/should-a-fintech-build-or-buy-stablecoin-payment-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-15T14:16:50Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "tech",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "242e4ab03830",
   "title": "Kava Lend Exploit Drains $3.76 Million as $612K in Proceeds…",
   "link": "https://financefeeds.com/kava-lend-exploit-drains-3-76-million-as-612k-in-proceeds-is-blocked/",
@@ -2337,6 +3066,23 @@
   "regions": [
    "Asia Pacific"
   ]
+ },
+ {
+  "id": "1dca91bcdbb0",
+  "title": "Verification agent vs. AUP: who checks a debt facility between reporting dates?",
+  "link": "https://www.finextra.com/blogposting/33473/verification-agent-vs-aup-who-checks-a-debt-facility-between-reporting-dates?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-15T12:15:28Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
  },
  {
   "id": "fefbabdcd86a",
@@ -2707,6 +3453,23 @@
   "regions": [
    "Americas"
   ]
+ },
+ {
+  "id": "2c08255be529",
+  "title": "The Future of Cloud Resilience and Business Continuity",
+  "link": "https://www.finextra.com/blogposting/33471/the-future-of-cloud-resilience-and-business-continuity?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-14T13:53:32Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
  },
  {
   "id": "fb10d0d655ca",
@@ -3936,6 +4699,24 @@
   "section": "regulation",
   "also": [],
   "assets": [],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "d5ee6281459c",
+  "title": "Distinction Starts with Thought Leadership, Not AI",
+  "link": "https://www.wealthmanagement.com/marketing/distinction-starts-with-thought-leadership-not-ai",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-13T15:32:14Z",
+  "summary": "Nor marketing automation, pay-for-play or other shortcuts.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt1e90def6b16f94ce/6afb3b9914ee9c90af69d65d/businessman-light-bulb.jpg?width=720&quality=80&disable=upscale",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
   "regions": [
    "Americas"
   ]
