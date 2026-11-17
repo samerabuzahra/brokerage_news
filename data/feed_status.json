@@ -1,6 +1,6 @@
 {
  "Finance Magnates": "ok (20 items, 0 with pictures)",
- "LeapRate": "error: ParseError: mismatched tag: line 1, column 166",
+ "LeapRate": "ok (10 items, 0 with pictures)",
  "FX News Group": "ok (10 items, 10 with pictures)",
  "Markets Media": "ok (10 items, 9 with pictures)",
  "Traders Magazine": "ok (10 items, 8 with pictures)",
@@ -13,8 +13,8 @@
  "FinanceFeeds": "ok (20 items, 20 with pictures)",
  "Global Trading": "ok (10 items, 0 with pictures)",
  "Finextra": "error: HTTPError: HTTP Error 403: Forbidden",
- "InvestmentNews": "ok (88 items, 88 with pictures)",
- "AdvisorHub": "error: HTTPError: HTTP Error 403: Forbidden",
+ "InvestmentNews": "ok (76 items, 76 with pictures)",
+ "AdvisorHub": "ok (10 items, 0 with pictures)",
  "WatersTechnology": "ok (50 items, 0 with pictures)",
  "Financial Planning": "ok (10 items, 10 with pictures)",
  "Private Banker International": "ok (10 items, 0 with pictures)",

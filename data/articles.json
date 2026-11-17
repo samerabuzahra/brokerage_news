@@ -1,5 +1,78 @@
 [
  {
+  "id": "3bb29fd08fe5",
+  "title": "Knighthead enters private credit",
+  "link": "https://www.investmentnews.com/life-insurance-and-annuities/knighthead-enters-private-credit/269039",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-17T00:35:09Z",
+  "summary": "After sitting out corporate private credit in 2025, annuities firm Knighthead Life built a roughly 7% allocation, with its CEO saying wider spreads now compensate for illiquidity.",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/jame_639304724655653433.png",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "1c174b069303",
+  "title": "Don Cummings rolls with 'the big mo'",
+  "link": "https://www.investmentnews.com/life-insurance-and-annuities/don-cummings-rolls-with-the-big-mo/269037",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-17T00:05:00Z",
+  "summary": "Jackson Financial’s new CEO on maintaining momentum at the annuity heavyweight",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/jame_639304706907011592.png",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "0b2d69c84d6d",
+  "title": "Compact indexes can take on mega-cap concentration, but advisors see trade-offs",
+  "link": "https://www.financial-planning.com/news/compact-indexes-can-take-on-mega-cap-concentration-but-advisors-see-trade-offs",
+  "source": "Financial Planning",
+  "feed": "Financial Planning",
+  "published": "2026-11-16T23:30:44Z",
+  "summary": "As heavy concentration in top tech stocks raises concerns, wealth advisors weigh compact indexes as another way to diversify client portfolios.",
+  "image": "https://www.financial-planning.com/wp-content/uploads/sites/8/2026/11/Alex-Kraus-Bloomberg-Jensen-Huang.jpg?resize=1200,675",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "ffd914d41c1e",
+  "title": "Osaic CEO says market gains inflate LPL's Commonwealth retention",
+  "link": "https://www.investmentnews.com/independent-broker-dealers/osaic-ceo-says-market-gains-inflate-lpls-commonwealth-retention/269034",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-16T23:11:44Z",
+  "summary": "Jamie Price says LPL shifted its Commonwealth target from advisors to assets, letting 16 months of growth mask departures",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/andr_639304618253299302.JPG",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "293bea2d0679",
   "title": "Toss to Launch Non-Custodial Crypto Wallet for Over 30…",
   "link": "https://financefeeds.com/toss-to-launch-non-custodial-crypto-wallet-for-over-30-million-south-korean-users/",
@@ -18,6 +91,25 @@
    "Americas",
    "Asia Pacific"
   ]
+ },
+ {
+  "id": "77f100af7cae",
+  "title": "BOK Says Former Advisors Courted Clients for Cerity on Its Dime",
+  "link": "https://www.advisorhub.com/bok-says-former-advisors-courted-clients-for-cerity-on-its-dime/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-16T22:41:54Z",
+  "summary": "The firm claimed that two advisors improperly expensed client meetings during which they were laying the “groundwork” to transfer those accounts to Cerity.",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2025/02/court-law-justice.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
  },
  {
   "id": "b9df70c55ca9",
@@ -132,6 +224,25 @@
   "regions": [
    "Americas"
   ]
+ },
+ {
+  "id": "e46e96a63d8d",
+  "title": "Shift Markets’ Ian McAfee on how FX brokers can add event markets without rebuilding the stack",
+  "link": "https://www.leaprate.com/opinion-interviews/ian-mcafee-shift-markets-prediction-markets-brokers/",
+  "source": "LeapRate",
+  "feed": "LeapRate",
+  "published": "2026-11-16T20:52:55Z",
+  "summary": "Shift Markets CEO Ian McAfee explains how FX and CFD brokers can add event contracts, source liquidity and manage risk without rebuilding their platform. The post Shift Markets’ Ian McAfee on how FX brokers can add event markets without rebuilding the stack first appeared on…",
+  "image": "",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
  },
  {
   "id": "6020495f77ea",
@@ -319,6 +430,25 @@
   "regions": [
    "Global"
   ]
+ },
+ {
+  "id": "8edf5ae7849c",
+  "title": "JPMorgan Is Working to Fix ‘Technical Issue’ Affecting Customers",
+  "link": "https://www.advisorhub.com/jpmorgan-is-working-to-fix-technical-issue-affecting-customers/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-16T19:32:35Z",
+  "summary": "JPMorgan Chase & Co. said some transactions are taking longer to process than normal as the bank confronts a “technical issue.”",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2026/11/jp-morgan-chase.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
  },
  {
   "id": "d8193b0ebf47",
@@ -3229,6 +3359,24 @@
    "Americas",
    "Middle East & Africa",
    "Asia Pacific"
+  ]
+ },
+ {
+  "id": "5e7686173d98",
+  "title": "The new retirement challenge: Preparing for a longer future",
+  "link": "https://www.investmentnews.com/ria-news/the-new-retirement-challenge-preparing-for-a-longer-future/268989",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-16T05:00:00Z",
+  "summary": "Advisors are broadening the conversation beyond savings to help clients prepare for the realities of longer lives",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/jims_639301014438847954.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
   ]
  },
  {
