@@ -1,5 +1,696 @@
 [
  {
+  "id": "47e39d11e795",
+  "title": "Kestra’s Scott Wilson on Why the Breakaway Trend Still Has Room to Run",
+  "link": "https://www.advisorhub.com/kestras-scott-wilson-on-why-the-breakaway-trend-still-has-room-to-run/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-17T17:14:40Z",
+  "summary": "",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2026/11/Spread-Image-2-1.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "4970861bfe81",
+  "title": "Schwab, LPL, Fidelity Veterans Launch AI Platform for Wealth Firms",
+  "link": "https://www.wealthmanagement.com/artificial-intelligence/schwab-lpl-fidelity-veterans-launch-bridge-operating-partners",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-17T17:09:11Z",
+  "summary": "Bridge Operating Partners is an advisory and artificial intelligence platform that helps wealth management firms and family offices bridge the gap between strategy and execution.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt404cafbfe035c5ee/6afc8ae52803d879e95f3f05/eddie-brown-bridge-operating-partners.webp?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "732a768d2497",
+  "title": "Nvidia accounts for one in nine S&P 500 shares traded amid CEO crisis",
+  "link": "https://www.globaltrading.net/nvidia-accounts-for-one-in-nine-sp-500-shares-traded-amid-ceo-crisis/",
+  "source": "Global Trading",
+  "feed": "Global Trading",
+  "published": "2026-11-17T17:04:54Z",
+  "summary": "Trading in Nvidia shares surged to 404 million shares a day, more than three times the preceding period, while options volumes spiked, amid the departure of chief executive Jensen Huang. […]",
+  "image": "https://www.globaltrading.net/wp-content/uploads/2026/11/nvidia_options_volume_snapshots_nov2026-1024x544.png",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "27483e25e497",
+  "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+  "link": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-17T17:00:05Z",
+  "summary": "Waller suggested the Federal Reserve could provide trusted rails for emerging innovation tied to tokenized assets and agentic AI.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc32cdfe2379f454c7160b98435207e28877a3d9-4132x2324.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "5fd5705a520d",
+  "title": "Citi Rules Out Major Wealth Acquisitions in Hunt for $5T",
+  "link": "https://www.wealthmanagement.com/wealth-management-industry-trends/citi-rules-out-major-wealth-acquisitions-in-hunt-for-5t",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-17T16:52:32Z",
+  "summary": "The bank is focused on organic growth, according to Andy Sieg.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt272a6e30b7fa73ac/673376be4d244b2aa8e0c5b3/citi-sign.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "bec4e153aa5d",
+  "title": "Anthropic’s $1.4 trillion IPO: Why advisors should look past the hype",
+  "link": "https://www.investmentnews.com/equities/anthropics-ipo-is-on-deck-this-is-what-advisors-need-to-know/269046",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-17T16:47:25Z",
+  "summary": "Anthropic has committed roughly $895 billion to its compute needs. Advisors should ask what that means for profits before clients buy in",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/jame_639305268194312778.png",
+  "section": "wealth",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "7275713ef904",
+  "title": "Upbit Operator Dunamu Swings to $13.8 Million Q3 Net Loss…",
+  "link": "https://financefeeds.com/upbit-operator-dunamu-swings-to-13-8-million-q3-net-loss-as-revenue-falls-60-7/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-17T16:46:16Z",
+  "summary": "Dunamu , the South Korean fintech company operating cryptocurrency exchange Upbit, reported a net loss of 18.6 billion won ($13.8 million) for the third quarter of 2026, as declining cryptocurrency trading activity and weaker investor sentiment weighed heavily on its financial…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-125207-760x428.png",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "79e69c9be964",
+  "title": "Judge Acquits MIT Brothers in $25 Million Ethereum Exploit…",
+  "link": "https://financefeeds.com/judge-acquits-mit-brothers-in-25-million-ethereum-exploit-case/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-17T16:44:54Z",
+  "summary": "A U.S. federal judge has acquitted two MIT-educated brothers accused of extracting $25 million from Ethereum trading bots in approximately 12 seconds, ruling that prosecutors failed to establish the material misrepresentations required to support wire fraud convictions. U.S…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/07/Appeals-Court-Overturns-Judgement-Against-Yuga-Labs-760x428.webp",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "e20dd13c4226",
+  "title": "12 Investment Must Reads for the Week of Nov. 17, 2026",
+  "link": "https://www.wealthmanagement.com/investing-strategies/12-investment-must-reads-for-the-week-of-nov-17-2026",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-17T16:43:49Z",
+  "summary": "Semi-liquid BDCs are growing their AUMs at a rapid clip, while commercial real estate lenders are slowing down. Morningstar looks at the best balanced funds and ETFs. These are among the investment must reads for financial advisors this week.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blteb3baece152ae485/6afc89d4d6fbb420beffca2c/mustreads-bdc-growth.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "28abec73624e",
+  "title": "EP Wealth buys $1.4B Lodestar, Concurrent adds Carteret",
+  "link": "https://www.investmentnews.com/ria-news/ep-wealth-buys-14b-lodestar-concurrent-adds-carteret/269049",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-17T16:43:22Z",
+  "summary": "Bay Area and South Carolina advisory teams, including a breakaway group from Raymond James, mark the latest wins for two fast-growing wealth management platforms",
+  "image": "https://cdn-res.keymedia.com/investmentnews/uploads/2021/02/growth-puzzle.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "ebd225fa80d5",
+  "title": "The future of financial services: Key themes for 2026 and beyond",
+  "link": "https://www.privatebankerinternational.com/partner-content/the-future-of-financial-services-key-themes-for-2026-and-beyond/",
+  "source": "Private Banker International",
+  "feed": "Private Banker International",
+  "published": "2026-11-17T16:36:03Z",
+  "summary": "The financial services industry is experiencing a global transformation, with technologies enabling greater efficiencies and unlocking value. However, sector activity stretches far beyond AI. This podcast explores the banking and insurance shifts set to reshape value creation…",
+  "image": "https://www.verdict.co.uk/wp-content/uploads/2026/08/Sterling-Technology-Insights-%E2%80%93-The-Future-of-Financial-Services-pdf.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "369576aadae0",
+  "title": "What the Next Two Years Hold For Wealth Taxes",
+  "link": "https://www.wealthmanagement.com/high-net-worth/what-the-next-two-years-hold-for-wealth-taxes",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-17T16:32:34Z",
+  "summary": "The midterms changed the conversation in Washington, but not the law.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt9dc55cb54d450c46/673489f16476524f3f5156ff/us-capitol-dollar.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "b120e8961f78",
+  "title": "The 60/40 Portfolio Is Still the Heavyweight Champion",
+  "link": "https://www.wealthmanagement.com/investing-strategies/the-60-40-portfolio-is-still-the-heavyweight-champion",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-17T16:30:43Z",
+  "summary": "The potency of a 60/40 portfolio is as underappreciated as the benefits of alternatives are overstated.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt7dcd69a47d844c07/6afc821849ae9b5816695c6d/boxing-championship-belt.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "8fcaad4123e4",
+  "title": "ETFs, Swaps, Perps Offer Back Door to Anthropic ‘Stock’ Pre-IPO",
+  "link": "https://www.wealthmanagement.com/alternative-investments/etfs-swaps-perps-offer-back-door-to-anthropic-stock-pre-ipo",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-17T16:21:02Z",
+  "summary": "Investors are turning to a growing array of alternatives to ensure they get exposure.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt9b61c534780dc851/6ae4ed01d996deba0deee35c/anthropic-claude.jpg?width=720&quality=80&disable=upscale",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "501158c1ec21",
+  "title": "LPL, Ameriprise Declare Truce in Recruiting Fight",
+  "link": "https://www.advisorhub.com/lpl-ameriprise-declare-truce-in-recruiting-fight/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-17T16:19:35Z",
+  "summary": "LPL has discontinued a recruiting practice at issue, the firms said in a joint statement.",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2026/09/LPL-1.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "6c1e0ad52423",
+  "title": "Veteran Broker in St. Louis Charged With DWI in Fatal ATV Crash: Reports",
+  "link": "https://www.advisorhub.com/veteran-broker-in-st-louis-charged-with-dwi-in-fatal-atv-crash-reports/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-17T16:18:16Z",
+  "summary": "The broker had joined Stifel from UBS last year and managed around $285 million in assets.",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2026/11/dwi.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "30a285eb90b7",
+  "title": "Deutsche Bank Seeks to Curb Fallout From Russia, Epstein Leaks",
+  "link": "https://www.advisorhub.com/deutsche-bank-seeks-to-curb-fallout-from-russia-epstein-leaks/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-17T16:17:00Z",
+  "summary": "",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2020/12/Deutsche-Bank-20201223-772x485-1.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "58961fb2792e",
+  "title": "South Korea Moves to Allow Tech Companies to Launch…",
+  "link": "https://financefeeds.com/south-korea-moves-to-allow-tech-companies-to-launch-won-backed-stablecoins-under-bank-led-framework/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-17T16:16:08Z",
+  "summary": "South Korea's financial regulator has signaled that technology companies could play a leading role in issuing Korean won-backed stablecoins under the country's forthcoming digital asset legislation, provided banks collectively retain majority ownership of issuing entities. Yoo…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/South-Koreas-Crypto-Exchanges-See-Profits-Collapse-78-760x428.jpg",
+  "section": "tech",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "1f9bfccb992c",
+  "title": "Nasdaq Renews Mercedes F1 Deal After 28 Million Views, With…",
+  "link": "https://financefeeds.com/nasdaq-renews-mercedes-f1-deal-after-28-million-views-with-executive-access-in-focus/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-17T16:09:46Z",
+  "summary": "Nasdaq and the Mercedes -AMG PETRONAS Formula One Team have renewed their partnership for multiple years , extending a relationship that combines digital content with access to senior business audiences. The companies report more than 28 million video views and 3.1 million…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/nasdaq-mercedes-f1-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "9431ae504210",
+  "title": "Gaskill jumps to BlueBox from Polen",
+  "link": "https://www.globaltrading.net/gaskill-jumps-to-bluebox-from-polen/",
+  "source": "Global Trading",
+  "feed": "Global Trading",
+  "published": "2026-11-17T16:09:38Z",
+  "summary": "Adam Gaskill has joined BlueBox Asset Management as senior operations manager. BlueBox operates thematic funds, specialising in technology and precision medicine. It holds more than US$3 billion in assets under […]",
+  "image": "https://www.globaltrading.net/wp-content/uploads/2026/03/Adam-Gaskill-trader-Polen-Capital-e1773837694607.jpeg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "1d6226d886fb",
+  "title": "Bellofiore leads Citi’s Australia and New Zealand ECM",
+  "link": "https://www.globaltrading.net/bellofiore-leads-citis-australia-and-new-zealand-ecm/",
+  "source": "Global Trading",
+  "feed": "Global Trading",
+  "published": "2026-11-17T16:07:58Z",
+  "summary": "Mark Bellofiore has been named managing director and head of equity capital markets (ECM) for Australia and New Zealand, effective 2027. Based in Sydney, he will report to co-head of […]",
+  "image": "https://www.globaltrading.net/wp-content/uploads/2026/11/Mark-Bellofiore-managing-director-and-head-of-equity-capital-markets-ECM-for-Australia-and-New-Zealand-Citi-e1794931673662.webp",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "06240cacf822",
+  "title": "Kalshi Flags 50+ Insider Trading Cases as Surveillance Closes In on Leaked Events",
+  "link": "https://www.financemagnates.com/fintech/kalshi-flags-50-insider-trading-cases-as-surveillance-closes-in-on-leaked-events/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Fintech",
+  "published": "2026-11-17T16:07:30Z",
+  "summary": "Kalshi made more than 50 referrals to law enforcement concerning suspected insider trading in the second and third quarters. Yet an outside review found that markets accounting for about 98% of its trading volume carried a lower risk of access to material non-public information…",
+  "image": "",
+  "section": "digital",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "75b1618306e7",
+  "title": "Deloitte and SIFMA Put Liquidity Costs at the Centre of…",
+  "link": "https://financefeeds.com/deloitte-and-sifma-put-liquidity-costs-at-the-centre-of-digital-cash-settlement/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-17T16:01:38Z",
+  "summary": "Deloitte and SIFMA have published a white paper on digital cash in US capital markets that challenges the idea that faster settlement is automatically more efficient. Drawing on discussions with 17 institutions, the paper examines tokenized deposits, payment stablecoins and…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/03/AdobeStock_1731951803-760x428.jpeg",
+  "section": "tech",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "bd4112a6a57e",
+  "title": "Canada Regulator Identifies 6 Investor Segments as…",
+  "link": "https://financefeeds.com/canada-regulator-identifies-6-investor-segments-as-knowledge-confidence-and-risk-pull-apart/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-17T16:00:11Z",
+  "summary": "The Ontario Securities Commission has published research identifying six investor segments , arguing that protection measures should reflect differences in financial capacity, knowledge, information sources and behaviour. The study, Investing experiences: Understanding risk…",
+  "image": "https://financefeeds.com/wp-content/uploads/2019/03/canada_flag-760x428.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "bf7d0cf561d0",
+  "title": "Nasdaq 100 and Anthropic: How Fast Entry Could Put ANT in…",
+  "link": "https://financefeeds.com/nasdaq-100-and-anthropic-how-fast-entry-could-put-ant-in-the-index-weeks-after-its-debut/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-17T15:59:53Z",
+  "summary": "Anthropic could reach the Nasdaq-100 within weeks of its stock-market debut under the exchange’s fast-entry methodology , but listing and index admission remain separate events. Nasdaq’s listing notice now identifies November 19 as the expected start of trading under ANT. No…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Anthropic-IPO.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "db3543b5891c",
+  "title": "Situational Awareness Reports $1.58 Billion in 13F…",
+  "link": "https://financefeeds.com/situational-awareness-reports-1-58-billion-in-13f-holdings-down-from-20-24-billion-with-sharonai-on-top/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-17T15:53:17Z",
+  "summary": "Leopold Aschenbrenner’s Situational Awareness reported $1.58 billion in securities on its latest Form 13F filing , down from $20.24 billion three months earlier. The September 30 snapshot, filed November 16, contains 23 entries, compared with 26 at June 30. SharonAI is the…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/07/Leopold-Aschenbrenner-760x428.png",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "7f8f9ae13d9d",
+  "title": "Sentora and Fireblocks Dynamic Embed Yield Vaults, Moving…",
+  "link": "https://financefeeds.com/sentora-and-fireblocks-dynamic-embed-yield-vaults-moving-the-risk-test-beyond-integration/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-17T15:52:23Z",
+  "summary": "Sentora has named Fireblocks Dynamic as a launch partner for its Smart Yield Widgets , allowing businesses using Dynamic wallet infrastructure to embed onchain vaults within their applications. The integration is live, according to the announcement, and supports Sentora’s Smart…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/05/Fireblocks-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "c4e0a0db52b1",
+  "title": "Mercer Advisors adds family governance practice to UHNW Regis unit",
+  "link": "https://www.investmentnews.com/ria-news/mercer-advisors-adds-family-governance-practice-to-uhnw-regis-unit/269047",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-17T15:46:10Z",
+  "summary": "Mercer taps two psychologists to help ultra-wealthy families with succession as half of family offices lack a complete plan",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/leoa_639305273710510286.png",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "c297dfa37c99",
+  "title": "Germany to Freeze Crypto Holdings Over €100,000 Without…",
+  "link": "https://financefeeds.com/germany-to-freeze-crypto-holdings-over-e100000-without-criminal-charges/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-17T15:42:00Z",
+  "summary": "Germany's Bundestag approved legislation on November 12, 2026, that would allow customs authorities to temporarily freeze cryptocurrency and other high-value assets suspected of unlawful origins without first opening a criminal investigation. The proposed powers would generally…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/04/Germanys-Bundesbank-cautions-Mythos-could-reveal-vulnerabilities-760x400.jpg",
+  "section": "digital",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "838eda9e9b42",
+  "title": "Bitcoin and Ethereum ETFs Extend Outflows as Solana Funds…",
+  "link": "https://financefeeds.com/bitcoin-and-ethereum-etfs-extend-outflows-as-solana-funds-attract-11-7-million/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-17T15:41:22Z",
+  "summary": "U.S. spot cryptocurrency exchange-traded funds recorded mixed investment flows on Monday, November 16, 2026, as Bitcoin and Ethereum products continued experiencing withdrawals while Solana funds attracted renewed investor demand. According to preliminary data from Farside…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/Bitcoin-ETFs-Streak-Four-Inflow-Days-Into-the-Binance-Hack.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "329027692bdc",
+  "title": "CFTC Approves Backpack to Launch Blockchain-Based…",
+  "link": "https://financefeeds.com/cftc-approves-backpack-to-launch-blockchain-based-derivatives-exchange-in-the-us/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-17T15:41:19Z",
+  "summary": "The U.S. Commodity Futures Trading Commission (CFTC) has approved cryptocurrency exchange Backpack to operate a regulated derivatives exchange and clearinghouse, marking a significant development in the integration of blockchain technology into American financial markets…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/09/Backpack-760x428.jpg",
+  "section": "digital",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "f93c40cd1b64",
+  "title": "What Is a Cryptographic Nonce Reuse Attack? How It Exposes…",
+  "link": "https://financefeeds.com/cryptographic-nonce-reuse-attack-private-keys/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-17T15:34:05Z",
+  "summary": "Cryptographic security relies on several components working together to protect digital information, including private keys, digital signatures and randomly generated values. One of these values is the nonce, a temporary number used during certain cryptographic operations to…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Gemini_Generated_Image_qfsn8mqfsn8mqfsn-760x428.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "b1c753a69947",
+  "title": "FDCTech unveils ArcaTrader platform focused on Perps",
+  "link": "https://fxnewsgroup.com/forex-news/platforms/fdctech-unveils-arcatrader-platform-focused-on-perps/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-17T15:18:27Z",
+  "summary": "ArcaTrader operates on a B2B model: brokers and prop firms license the platform, while their traders access it at no cost.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/ArcaTrader-launch.png",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "457e8cc2fc02",
+  "title": "CFTC Announces Agenda for December Roundtable on 24/7 Trading",
+  "link": "https://www.cftc.gov/PressRoom/PressReleases/9327-26",
+  "source": "CFTC",
+  "feed": "CFTC",
+  "published": "2026-11-17T15:18:19Z",
+  "summary": "",
+  "image": "",
+  "section": "regulation",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "f52a89b6ad60",
+  "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+  "link": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-17T15:11:00Z",
+  "summary": "Hong Kong and Swift expanded their efforts to connect tokenized bank deposits across currencies, building on earlier work involving digital central bank money.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/f96187856f3474dbbb316e0769389671addb2f9c-2288x1712.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "c7bca2ff5b20",
+  "title": "Only 21% of European Investors Confident in Decisions,…",
+  "link": "https://financefeeds.com/only-21-of-european-investors-confident-in-decisions-capital-com-survey-finds/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-17T15:10:01Z",
+  "summary": "Only 21% of prospective European investors feel very confident making investment decisions independently, despite 71% considering personal success at investing important, according to Capital.com's 2026 Beyond Access report. The research, based on a survey of 3,613 people across…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/11/Denmark-Drops-EU-Chat-Control-Plan-After-Strong-Privacy-Opposition.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
   "id": "a7adf141e6aa",
   "title": "Market Brief: Fed’s Musalem Sees Need for Several Interest-Rate Hikes by Spring",
   "link": "https://www.advisorhub.com/morning-bell-wrapup-11-17-2026/",
@@ -1358,7 +2049,7 @@
   "feed": "Traders Magazine",
   "published": "2026-11-17T08:17:00Z",
   "summary": "Kleon Financial executives discuss the resurgence of floor brokers and their growing role in institutional trading.",
-  "image": "https://www.tradersmagazine.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-27-2026-09_23_42-AM-1024x683.png",
+  "image": "https://www.tradersmagazine.com/wp-content/uploads/2026/11/Neil-Catania.jpg",
   "section": "markets",
   "also": [],
   "assets": [
