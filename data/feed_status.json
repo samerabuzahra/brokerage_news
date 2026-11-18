@@ -1,6 +1,6 @@
 {
  "Finance Magnates": "ok (20 items, 0 with pictures)",
- "LeapRate": "error: HTTPError: HTTP Error 502: Bad Gateway",
+ "LeapRate": "ok (10 items, 0 with pictures)",
  "FX News Group": "ok (10 items, 10 with pictures)",
  "Markets Media": "ok (10 items, 10 with pictures)",
  "Traders Magazine": "ok (10 items, 8 with pictures)",
@@ -13,7 +13,7 @@
  "FinanceFeeds": "ok (20 items, 20 with pictures)",
  "Global Trading": "ok (10 items, 0 with pictures)",
  "Finextra": "ok (51 items, 0 with pictures)",
- "InvestmentNews": "ok (86 items, 86 with pictures)",
+ "InvestmentNews": "ok (87 items, 87 with pictures)",
  "AdvisorHub": "ok (10 items, 0 with pictures)",
  "WatersTechnology": "ok (50 items, 0 with pictures)",
  "Financial Planning": "ok (10 items, 10 with pictures)",
