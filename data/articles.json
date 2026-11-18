@@ -1,5 +1,557 @@
 [
  {
+  "id": "2a32910d7a9d",
+  "title": "DeepVest Launches AutoLab for Advisor Task Automation",
+  "link": "https://www.wealthmanagement.com/advisor-support-platforms/deepvest-launches-autolab-for-advisor-task-automation",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-18T17:05:22Z",
+  "summary": "AutoLab flags client, portfolio and market triggers, then routes advisor-approved actions into workflows spanning plans, communications and CRM tasks.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt833266fe90978f70/6afddbb3d6fbb429c8ffcd2b/toby-wade-deepvest.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "2d30c322f263",
+  "title": "Nvidia Halts AI Chip Shipments to China Despite U.S. Export…",
+  "link": "https://financefeeds.com/nvidia-halts-ai-chip-shipments-to-china-despite-u-s-export-license-approvals/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-18T17:03:56Z",
+  "summary": "Nvidia has stopped shipping licensed Hopper-generation artificial intelligence processors to China after recording $2.4 billion in sales during its latest quarter, removing a previously reopened export channel from its near-term revenue outlook despite strong global demand for…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/NVIDIA-Board-Shuts-Down-Jensen-Huang-Comeback-Talk-760x428.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "7e3bfc053982",
+  "title": "Cboe’s KPI Binary Options: Streaming First, Liquidity Next",
+  "link": "https://www.marketsmedia.com/cboes-kpi-binary-options-streaming-first-liquidity-next/",
+  "source": "Markets Media",
+  "feed": "Markets Media",
+  "published": "2026-11-18T16:57:35Z",
+  "summary": "New product marries the essence of prediction markets – binary outcomes – with institutional market structure",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2026/11/multicolored-abstract-connected-lines-pins-Depositphotos_316717694_L-150x150.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "387deeaf8a31",
+  "title": "AI in quantitative investing: A buy-side perspective",
+  "link": "https://www.waterstechnology.com/market-access/data/7953376/ai-in-quantitative-investing-a-buy-side-perspective",
+  "source": "WatersTechnology",
+  "feed": "WatersTechnology",
+  "published": "2026-11-18T16:57:06Z",
+  "summary": "AI is moving into production, boosting productivity while human oversight remains central to trusted quantitative investment workflows.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "22f7ca163737",
+  "title": "Kiwi dollar sinks to six-year low as US rate fears grow",
+  "link": "https://financefeeds.com/kiwi-dollar-sinks-to-six-year-low-as-us-rate-fears-grow/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-18T16:53:01Z",
+  "summary": "The Kiwi dollar-US dollar (NZDUSD) has fallen to its lowest level since Mar 2020, despite growing expectations of another RBNZ rate hike in Dec. A stronger US dollar is adding to the pressure, as investors increasingly expect the Fed to keep interest rates higher for longer. New…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/02/Exness-logo-for-trading-market-analysis-article-760x428.jpeg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "2016142d0366",
+  "title": "ArcaTrader Launches 24/7 Perpetuals for Brokers and Prop…",
+  "link": "https://financefeeds.com/arcatrader-launches-24-7-perpetuals-for-brokers-and-prop-firms-powered-by-hyperliquid/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-18T16:49:02Z",
+  "summary": "Limassol, Cyprus, November 18th, 2026, FinanceWire More than 10 prop firms are preparing to launch 24/7 Perpetuals products through ArcaTrader, a multi-asset trading platform already used by more than 10,000 traders. ArcaTrader has announced the launch of Hyperliquid-powered…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/ArcaTrader-Perps-Launch_1795010380zHBKIlduB8-760x428.jpeg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "c9f90920470d",
+  "title": "Ameriprise, LPL Agree To End Multi-Year Court Standoff",
+  "link": "https://www.wealthmanagement.com/ibd-news/ameriprise-lpl-settle-multi-year-data-dispute-lawsuit",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-18T16:48:07Z",
+  "summary": "LPL and Ameriprise both agreed to dismiss the legal battle that began in 2024 over Ameriprise's claims of improper handling of client data during advisor transitions.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/bltb6fd3de21e0afe26/674d951ff22ad3a44bd3941f/lpl-ameriprise.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "26d6bcb44404",
+  "title": "JT Prime acquires FXCM Pro institutional clients",
+  "link": "https://fxnewsgroup.com/forex-news/institutional/jt-prime-acquires-fxcm-pro-institutional-clients/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-18T16:45:56Z",
+  "summary": "FXCM Pro’s clients offered continuity of trading terms, connectivity and high service levels at JT Prime.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/JT-Prime-logo.png",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "47602e3c7f8c",
+  "title": "Osaic’s CW Advisors Buys $920M Massachusetts RIA",
+  "link": "https://www.advisorhub.com/osaics-cw-advisors-buys-920m-massachusetts-ria/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-18T16:44:39Z",
+  "summary": "93 Financial Group, run by four brothers in Woburn, is CW's seventh deal since Osaic bought it last year.",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2026/11/welch.jpg",
+  "section": "wealth",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "64bd6d4c219b",
+  "title": "The Transfer Path to Succession Planning",
+  "link": "https://www.wealthmanagement.com/high-net-worth/the-transfer-path-to-succession-planning",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-18T16:41:00Z",
+  "summary": "Best practices for handing the family business to the rising generation.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt6f2de08d25629318/687a87c2b16d91efffff9c25/family-succession-fizkes-iStock-GettyImages.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "d6fc57082d76",
+  "title": "TradingView Free Users Report New 30-Drawing Limit",
+  "link": "https://financefeeds.com/tradingview-free-users-report-new-30-drawing-limit/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-18T16:36:37Z",
+  "summary": "TradingView users are reporting a new 30-drawing limit on the platform's free Basic plan, with some traders unable to add trendlines, support and resistance levels, or other chart annotations unless they delete existing drawings or upgrade to a paid subscription. Complaints…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/05/tradingview-office-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "4f7ab0d7a2b6",
+  "title": "Exclusive: JT Prime Is Onboarding FXCM’s Institutional Clients",
+  "link": "https://www.financemagnates.com/forex/exclusive-jt-prime-is-onboarding-fxcms-institutional-clients/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-18T16:19:42Z",
+  "summary": "FXCM Pro, the institutional brokerage and trading services arm of Stratos Group, will terminate its services to clients on 18 December, but is offering them the option to migrate to JT Markets Limited, which offers institutional services under the JT Prime brand, Finance…",
+  "image": "https://images.financemagnates.com/images/FXCM%20Pro%20brandings%20at%20FMLS%3A25_id_194bd516-0105-4d9c-864f-c7117004cd21_size900.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "444d310fb9bb",
+  "title": "What Is a Clearinghouse in Crypto Derivatives? How It…",
+  "link": "https://financefeeds.com/what-is-a-clearinghouse-in-crypto-derivatives/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-18T16:16:43Z",
+  "summary": "Crypto derivatives allow traders to speculate on cryptocurrency prices or hedge their market exposure without necessarily owning the underlying assets. However, these contracts introduce a significant risk: one party may fail to meet its financial obligations when a trade moves…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Gemini_Generated_Image_qfsn8mqfsn8mqfsn-1-760x428.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "38dd61eb501c",
+  "title": "RIA moves: Summit, UWP deals keep founders in charge; SagePoint adds RISE",
+  "link": "https://www.investmentnews.com/ria-news/ria-moves-summit-uwp-deals-keep-founders-in-charge-sagepoint-adds-rise/269070",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-18T16:16:22Z",
+  "summary": "Independent advisors in Colorado, Texas and Arkansas join larger wealth management platforms through acquisitions and partnerships",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/leoa_638627849220229704.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "b58af9d79aa5",
+  "title": "Exclusive: FDCTech gets $25M investment from Taurex controlling shareholder Oscar Hilt Tatum IV",
+  "link": "https://fxnewsgroup.com/forex-news/platforms/exclusive-fdctech-gets-25m-investment-from-taurex-controlling-shareholder-oscar-hilt-tatum-iv/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-18T16:09:18Z",
+  "summary": "The investment is payable in 11 installments between November 13, 2026, and September 9, 2027, in accordance with a fixed payment schedule.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/Oscar-Hilt-Tatum-IV-Taurex.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "16a609ed5b4d",
+  "title": "World Bank partners Citi and Circle to test stablecoins for development payments",
+  "link": "https://www.finextra.com/newsarticle/48780/world-bank-partners-citi-and-circle-to-test-stablecoins-for-development-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-18T16:07:00Z",
+  "summary": "The World Bank Group is working with Citi and USDC issuer Circle to explore how stablecoins could help modernise payments and free up resources for development work.",
+  "image": "",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "b91c67bf575e",
+  "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
+  "link": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-18T16:02:54Z",
+  "summary": "A single breach moved billions out of Binance in minutes, exposing how much client money sits with the venue that trades it. Darren Jordan of Komainu argues institutions should keep trading and custody separate, as traditional markets have for decades, and sets out the questions…",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/021e4767a55fc676ed4e72b281efec92af84015a-1024x683.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Middle East & Africa"
+  ]
+ },
+ {
+  "id": "8eace6b2b67c",
+  "title": "BetaNXT partners with Taurus to bring tokenised securities into existing workflows",
+  "link": "https://www.finextra.com/pressarticle/111721/betanxt-partners-with-taurus-to-bring-tokenised-securities-into-existing-workflows?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-18T15:59:00Z",
+  "summary": "BetaNXT, a leading provider of wealth management technology solutions with real-time data capabilities and advanced AI innovation, today announced a partnership with Taurus, a leader in digital asset infrastructure for financial institutions, to integrate its Taurus-PROTECT…",
+  "image": "",
+  "section": "tech",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Equities",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "cd0362f435ac",
+  "title": "Arcesium introduces front-to-back hedge fund platform for launching and emerging funds",
+  "link": "https://www.finextra.com/pressarticle/111720/arcesium-introduces-front-to-back-hedge-fund-platform-for-launching-and-emerging-funds?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-18T15:57:00Z",
+  "summary": "Arcesium, a leading global financial technology provider to the investment industry, today launches Arcesium Blue (Blue), a comprehensive, AI-ready front-to-back hedge fund platform that combines cloud-native technology with premium managed services.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "d2e864b2e395",
+  "title": "The Healthy Advisor: Escaping Mediocrity With Chris McMahon",
+  "link": "https://www.wealthmanagement.com/professional-development/the-healthy-advisor-escaping-mediocrity-with-chris-mcmahon",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-18T15:55:40Z",
+  "summary": "Once a self-described mediocre kid, Chris McMahon reflects on the experiences, persistence and personal growth that shaped his life and career in wealth management.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/bltb42616ae50d49f39/6afdcd40ccbfc328b3d1a287/HA_Chris_McMahon_1540x800.png?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "732a495710cc",
+  "title": "Bullish Posts $576 Million Q3 Profit, but Adjusted Earnings Were Just $18.7 Million",
+  "link": "https://www.financemagnates.com/cryptocurrency/exchange/bullish-posts-576-million-q3-profit-but-adjusted-earnings-were-just-187-million/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Crypto",
+  "published": "2026-11-18T15:51:00Z",
+  "summary": "Bullish reported $576.3 million in third-quarter net income, including a $598.4 million gain from revaluing its digital assets. However, nearly all of the result came from balance-sheet accounting rather than core exchange growth. The cryptocurrency exchange and information…",
+  "image": "https://images.financemagnates.com/images/Bullish%20IPO_id_5adc74f0-6f7b-4088-a510-bf2bf6ce7036_size900.jpg",
+  "section": "deals",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "19679d1c70d5",
+  "title": "Nvidia Founder's Infidelity Casts Light on Prenups",
+  "link": "https://www.wealthmanagement.com/high-net-worth/nvidia-founder-s-infidelity-casts-light-on-prenups",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-18T15:46:35Z",
+  "summary": "What does the biggest divorce of all time look like? We may be about to find out.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt7cc8a1f7a3bd7b63/6afdc9af2bfab318859e3739/jensen-huang-lori-wife.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "d76cc9fbf789",
+  "title": "Bitwise Files to List Spot Zcash ETF on Texas Stock…",
+  "link": "https://financefeeds.com/bitwise-files-to-list-spot-zcash-etf-on-texas-stock-exchange-under-zec-ticker/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-18T15:41:50Z",
+  "summary": "Bitwise Asset Management has selected the Texas Stock Exchange (TXSE) as the proposed listing venue for its spot Zcash exchange-traded fund, replacing an earlier plan to list on NYSE Arca as competition intensifies among issuers seeking to attract institutional investment in the…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/08/Bitwise-Slashes-Staff-as-Its-Flagship-Fund-Bleeds-Out.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "7fa2bc31707c",
+  "title": "Brokers Spent 2026 Plugging Into AI Assistants. A London Summit Panel Asks What Comes Next",
+  "link": "https://www.financemagnates.com/fm-events/brokers-spent-2026-plugging-into-ai-assistants-a-london-summit-panel-asks-what-comes-next/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-18T15:41:09Z",
+  "summary": "Clients got there first. Retail traders have been linking their accounts to AI assistants, placing orders in plain English and asking chatbots to draft strategies, and brokers spent much of 2026 catching up. London's trading industry is coming home! FM Intelligence counted at…",
+  "image": "https://images.financemagnates.com/images/FM_id_b052fe4d-5e91-47e2-a671-fba70254b557_size900.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "752afa6d15ef",
+  "title": "Spartan Capital to Pay $3.2 Million Over Pre-IPO Fraud, Compliance Failures",
+  "link": "https://www.advisorhub.com/spartan-capital-to-pay-3-2-million-over-pre-ipo-fraud-compliance-failures/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-18T15:32:00Z",
+  "summary": "Spartan recommended funds that benefitted the firm’s former CEO, whom Finra also suspended for two years.",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2022/11/FINRA-FINES-600x390-1.jpeg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "7f2dadb403ab",
+  "title": "JPMorgan Adds Dallas Hub for Private Bank Unit Catering to Funds",
+  "link": "https://www.advisorhub.com/jpmorgan-adds-dallas-hub-for-private-bank-unit-catering-to-funds/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-18T15:31:42Z",
+  "summary": "JPMorgan Chase & Co.’s private bank is expanding its Fund Banking Group with a new hub in Dallas.",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2020/08/Dallas-Texas-Advisor-Moves-772x485-1.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "19cbec116e24",
+  "title": "New Zealand banks form fraud intelligence sharing network",
+  "link": "https://www.finextra.com/newsarticle/48779/new-zealand-banks-form-fraud-intelligence-sharing-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-18T15:29:00Z",
+  "summary": "New Zealand's top banks are backing a fraud and scams intelligence-sharing network using behavioural- and device-based technology from security vendor BioCatch.",
+  "image": "",
+  "section": "regulation",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "4da539edbfbb",
+  "title": "ANZ migrates data platform to AWS",
+  "link": "https://www.finextra.com/pressarticle/111719/anz-migrates-data-platform-to-aws?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-18T15:26:00Z",
+  "summary": "ANZ has completed the migration of one of its largest data platforms to Amazon Web Services (AWS), establishing a modern, scalable foundation to support the bank's growing use of data, analytics and AI.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "eb4c515e7f26",
+  "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
+  "link": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-18T15:23:18Z",
+  "summary": "As Hong Kong pushes banks to use AI to combat crypto crime, experts say the technology must detect suspicious transfers without putting customer funds at risk.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/f96187856f3474dbbb316e0769389671addb2f9c-2288x1712.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
   "id": "041145fe5404",
   "title": "Can Altruist really threaten Schwab?",
   "link": "https://www.investmentnews.com/advisor-tech/can-altruist-really-threaten-schwab/269068",
@@ -17,6 +569,23 @@
   "regions": [
    "Americas"
   ]
+ },
+ {
+  "id": "40a77c198f85",
+  "title": "US bank outages caused by software bug at JPMorgan Chase",
+  "link": "https://www.finextra.com/newsarticle/48778/us-bank-outages-caused-by-software-bug-at-jpmorgan-chase?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-18T15:02:00Z",
+  "summary": "The service outages that hit a number of US banks earlier this week were the result of a software bug at JPMorgan Chase. Meanwhile, experts have claimed that the rash of such outages in recent days - including at Microsoft - may have been caused by firms rushing to patch issues…",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
  },
  {
   "id": "4b624a10a927",
@@ -57,6 +626,40 @@
   ]
  },
  {
+  "id": "2a757901354b",
+  "title": "Jeeves secures $300m in financing",
+  "link": "https://www.finextra.com/pressarticle/111718/jeeves-secures-300m-in-financing?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-18T15:00:00Z",
+  "summary": "Jeeves, the global financial operating system for enterprises that operate in multiple countries, today announced new funding from Neuberger Berman Specialty Finance, bringing financing capacity to $300 million.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "42b02c7df23e",
+  "title": "On-Demand – Beyond fraud detection: Why dispute management needs an overhaul",
+  "link": "https://www.finextra.com/event-info/643/on-demand--beyond-fraud-detection-why-dispute-management-needs-an-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-18T15:00:00Z",
+  "summary": "Post-incident fraud management needs to adapt. But how?",
+  "image": "",
+  "section": "regulation",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "65c897ff604d",
   "title": "Russia Plans to Let Investment Funds Hold Crypto From 2027",
   "link": "https://financefeeds.com/russia-plans-to-let-investment-funds-hold-crypto-from-2027/",
@@ -74,6 +677,26 @@
   ],
   "regions": [
    "Global"
+  ]
+ },
+ {
+  "id": "2d357c471f18",
+  "title": "CW Advisors buys $920M Woburn RIA, its seventh deal under Osaic",
+  "link": "https://www.investmentnews.com/independent-broker-dealers/cw-advisors-buys-920m-woburn-ria-its-seventh-deal-under-osaic/269067",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-18T14:30:05Z",
+  "summary": "Welch brothers’ 93 Financial Group gives the Osaic-owned RIA a fifth greater Boston office, days after a $1.6B triple acquisition",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/leoa_639306134724888727.png",
+  "section": "wealth",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
   ]
  },
  {
@@ -688,11 +1311,11 @@
   "source": "CoinDesk",
   "feed": "CoinDesk",
   "published": "2026-11-18T12:41:09Z",
-  "summary": "The crypto platform reported net income of $576.3 million for the third quarter thanks to a sharp rise in the price of bitcoin.",
+  "summary": "Bullish’s institutional focus may have shielded the company from the decline in activity experienced by rivals catering to retail traders and offers some insight to its revenue beat.",
   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d8345ab102c51714055bd408fc49095d52d1019-4000x1868.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-  "section": "digital",
+  "section": "deals",
   "also": [
-   "deals"
+   "digital"
   ],
   "assets": [
    "FX & CFD",
@@ -2323,6 +2946,25 @@
   "regions": [
    "Americas",
    "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "98548b43dfdc",
+  "title": "Live updates: Bitcoin falls below $63,000, with Strategy’s STRC hitting lowest since August",
+  "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-18T07:27:48Z",
+  "summary": "The Fed's Chris Waller, for a second time, called for the central bank to consider raising its benchmark interest rate by 50 basis points at its upcoming meeting in December.",
+  "image": "",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
   ],
   "img_checked": true
  },
