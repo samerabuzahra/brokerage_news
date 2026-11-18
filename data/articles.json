@@ -1,5 +1,138 @@
 [
  {
+  "id": "54f052686070",
+  "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+  "link": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-18T00:46:25Z",
+  "summary": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaking.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/196bbc9bb34f3e2d19415834353ddcfb62b466d4-2378x1256.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "c669556da6e9",
+  "title": "Kalshi Reportedly Acquires FB Securities to Launch Stock…",
+  "link": "https://financefeeds.com/kalshi-reportedly-acquires-fb-securities-to-launch-stock-and-etf-trading/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-18T00:06:55Z",
+  "summary": "Prediction market operator Kalshi has reportedly acquired New York-based broker-dealer FB Securities as it prepares to introduce trading in US stocks and exchange-traded funds within the next two months, extending its business beyond event contracts and perpetual futures into…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/Kalshi-Goes-Live-With-a-Product-US-Brokers-Wont-Ignore-760x428.jpg",
+  "section": "deals",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "8352bf5b0664",
+  "title": "Why advisors should be aware of their ethical vulnerabilities",
+  "link": "https://www.financial-planning.com/news/why-advisors-should-be-aware-of-their-ethical-vulnerabilities",
+  "source": "Financial Planning",
+  "feed": "Financial Planning",
+  "published": "2026-11-17T23:58:07Z",
+  "summary": "Everyday dilemmas can nudge advisors into moral lapses. Advisors speaking at the FPA Summit gave tips on how to be self-aware.",
+  "image": "https://www.financial-planning.com/wp-content/uploads/sites/8/2026/11/FPA-Summit-Hann-1.png?resize=1200,675",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "62722a89efc8",
+  "title": "Walter fallout tests state annuity regulators",
+  "link": "https://www.investmentnews.com/life-insurance-and-annuities/walter-fallout-tests-state-annuity-regulators/269060",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-17T23:26:31Z",
+  "summary": "Mark Walter’s insurer probe fuels scrutiny of private equity’s affiliated investments in annuities, and whether state regulators can keep up",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/jame_639305547718192475.png",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "1daa27a75293",
+  "title": "Schwab to cap borrowing, raise fees on RIA long-short accounts",
+  "link": "https://www.financial-planning.com/news/schwab-to-cap-borrowing-raise-fees-on-ria-long-short-accounts",
+  "source": "Financial Planning",
+  "feed": "Financial Planning",
+  "published": "2026-11-17T23:25:01Z",
+  "summary": "Changes to fees and rebates paid on long-short accounts offered through Charles Schwab’s brokerage services threaten to upend return calculations for RIAs and their clients.",
+  "image": "https://www.financial-planning.com/wp-content/uploads/sites/8/2026/11/455545143.jpg?resize=1200,675",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "e37a84cdc14a",
+  "title": "What $10 million clients want from their second advisors",
+  "link": "https://www.financial-planning.com/news/what-10-million-clients-want-from-their-second-advisors",
+  "source": "Financial Planning",
+  "feed": "Financial Planning",
+  "published": "2026-11-17T23:23:22Z",
+  "summary": "A NewtonX survey of investors with $10 million found that 86% would change something about their advisor. Many open new relationships elsewhere without saying so, and advisors are left with only a partial view of their clients’ wealth.",
+  "image": "https://www.financial-planning.com/wp-content/uploads/sites/8/2026/11/HNW-client-goals-1.png?resize=1200,675",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "a6eee7b7e19a",
+  "title": "Osaic discloses conflict tied to overlapping Envestnet ownership",
+  "link": "https://www.investmentnews.com/independent-broker-dealers/osaic-discloses-conflict-tied-to-overlapping-envestnet-ownership/269057",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-17T23:11:14Z",
+  "summary": "Osaic’s Form ADV says majority owner Reverence Capital’s stake in Envestnet gives the firm and its advisors an incentive to recommend Envestnet programs. Reverence and Bain Capital backs both firms.",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/andr_639305485212630138.JPG",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "f762191901a7",
   "title": "The Long-Term Stock Exchange Aims to Expand Market Share",
   "link": "https://www.marketsmedia.com/the-long-term-stock-exchange-aims-to-expand-market-share/",
@@ -135,14 +268,14 @@
  },
  {
   "id": "f4fb60cc3786",
-  "title": "Nvidia tops estimates, issues strong guidance; shares rise",
+  "title": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
   "link": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
   "source": "CoinDesk",
   "feed": "CoinDesk",
   "published": "2026-11-17T21:25:50Z",
   "summary": "Speaking on the earnings call, Chairman Harvey Jones said the board has no intention of reinstating Jensen Huang as CEO.",
   "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c262ffb248f38b82738fd0f2bad6b32172b1d0f-1900x1268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-  "section": "regulation",
+  "section": "deals",
   "also": [],
   "assets": [
    "Equities"
@@ -3011,6 +3144,22 @@
   ]
  },
  {
+  "id": "abba659bbf94",
+  "title": "Citi names Australia, New Zealand ECM head",
+  "link": "https://www.financeasia.com/article/citi-names-australia-new-zealand-ecm-head/508721",
+  "source": "FinanceAsia",
+  "feed": "FinanceAsia",
+  "published": "2026-11-17T08:10:00Z",
+  "summary": "Mark Bellofiore is set to join Citi from Barrenjoey next year.",
+  "image": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_2746924063.jpg&h=684&w=1216&q=100&v=09ba3de2c5&c=1",
+  "section": "people",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
   "id": "a8dc24cf6f81",
   "title": "Whistleblowers Behind Deutsche Bank Leak of 15 Million Files Could Qualify for US Reward",
   "link": "https://www.financemagnates.com/institutional-forex/regulation/whistleblowers-behind-deutsche-bank-leak-of-15-million-files-could-qualify-for-us-reward/",
@@ -3492,6 +3641,22 @@
   ]
  },
  {
+  "id": "8cc3b0d6a4e9",
+  "title": "Macau's debt market grows amid diversification bet",
+  "link": "https://www.financeasia.com/article/macaus-debt-market-grows-amid-diversification-bet/508718",
+  "source": "FinanceAsia",
+  "feed": "FinanceAsia",
+  "published": "2026-11-17T02:41:00Z",
+  "summary": "Macau’s Guidance Fund is helping bolster non-gaming industries and fostering a burgeoning debt market to broaden its economy away from casinos.",
+  "image": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_2350106341.jpg&h=684&w=1216&q=100&v=09ba3de2c5&c=1",
+  "section": "markets",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
   "id": "e82a69507f15",
   "title": "2026 US Women in Finance Awards: The Winners",
   "link": "https://www.marketsmedia.com/2026-us-women-in-finance-awards-the-winners/",
@@ -3525,6 +3690,22 @@
    "Global"
   ],
   "img_checked": true
+ },
+ {
+  "id": "ae2784e23ad0",
+  "title": "Asia's fintech scaling challenge on Singapore FinTech Festival 2026 agenda",
+  "link": "https://www.financeasia.com/article/asias-fintech-scaling-challenge-on-singapore-fintech-festival-2026-agenda/508717",
+  "source": "FinanceAsia",
+  "feed": "FinanceAsia",
+  "published": "2026-11-17T01:16:00Z",
+  "summary": "As capital becomes more selective, firms are looking to develop fintech initiatives into commercially sustainable businesses across fragmented Asian markets, execs told FA.",
+  "image": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_2794908459.jpg&h=684&w=1216&q=100&v=09ba3de2c5&c=1",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Asia Pacific"
+  ]
  },
  {
   "id": "3bb29fd08fe5",
