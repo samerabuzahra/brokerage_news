@@ -1,5 +1,142 @@
 [
  {
+  "id": "62997b2b7198",
+  "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+  "link": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-18T22:30:00Z",
+  "summary": "Sethi, who was appointed co-CEO of Kraken in October 2024, is also the chairman of Tribe Capital.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "17e1d2a46260",
+  "title": "Fintech bytes: AI tools for advisors flag when clients need attention",
+  "link": "https://www.investmentnews.com/fintech/fintech-bytes-ai-tools-for-advisors-flag-when-clients-need-attention/269082",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-18T22:17:51Z",
+  "summary": "DeepVest, Asset-Map and Aidentified launch automation that spots household gaps, wealth events and portfolio triggers for advisor sign-off",
+  "image": "https://cdn-res.keymedia.com/investmentnews/uploads/2023/08/businessman-touching-the-brain-working-of-artificial-intelligence-automation-predictive.jpg-s1024x1024wisk20cMz2G15YAcE09_ywaRc43p9jmG2urk69uqyopTbaG4cI.jpg",
+  "section": "wealth",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "5da2a60da227",
+  "title": "BLX Internship moves into new nonprofit as mission — and industry challenges — persist",
+  "link": "https://www.financial-planning.com/news/blx-internship-moves-into-new-nonprofit-as-mission-and-industry-challenges-persist",
+  "source": "Financial Planning",
+  "feed": "Financial Planning",
+  "published": "2026-11-18T21:51:17Z",
+  "summary": "The founders of the BLX Internship created more than 100 internships in partnership with dozens of RIAs. Now, a new nonprofit called Future Planner Careers will continue those efforts across the industry.",
+  "image": "https://www.financial-planning.com/wp-content/uploads/sites/8/2026/11/BLX@Schwab-Impact-Chloe.jpeg?resize=1200,675",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "0e9215af331d",
+  "title": "The Fed came close to an October rate hike, FOMC minutes show",
+  "link": "https://www.investmentnews.com/equities/the-fed-came-close-to-an-october-rate-hike-fomc-minutes-show/269079",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-18T21:48:34Z",
+  "summary": "The decision to keep the interest rate unchanged was “a close call,” the record said.",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/jame_639306349738366171.png",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "36e139eed5b6",
+  "title": "Variational Hits $1.5B Valuation in $110M Round to Take on Robinhood and IBKR",
+  "link": "https://www.financemagnates.com/cryptocurrency/variational-hits-15b-valuation-in-110m-round-to-take-on-robinhood-and-ibkr/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Crypto",
+  "published": "2026-11-18T21:36:05Z",
+  "summary": "Crypto trading startup Variational raised $110 million at a $1.5 billion valuation in the Series B round to compete with brokerages like Robinhood Markets Inc. and Interactive Brokers LLC. The financing round was led by Bain Capital Crypto, an early-stage crypto-native fund…",
+  "image": "https://images.financemagnates.com/images/Variational_id_660a73e8-8f76-427d-8154-e40ca28703e6_size900.jpeg",
+  "section": "deals",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "72a914ecf6e5",
+  "title": "LPL Closes Deal for $2.7B Commonwealth Team Post-Conversion",
+  "link": "https://www.wealthmanagement.com/ibd-news/lpl-closes-deal-for-2-7b-commonwealth-team-on-conversion-day",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-18T21:10:58Z",
+  "summary": "LPL is said to have closed a deal to retain Axial Financial after it began its final conversion process, according to people familiar with the deal.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/bltbaa018c2cc6cbd93/6afe143f663a9767d5a6b09b/axial-team-lpl.jpg?width=720&quality=80&disable=upscale",
+  "section": "deals",
+  "also": [
+   "wealth"
+  ],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "a9ef7ebebe83",
+  "title": "$4.2B Halbert Hargrove exits Schwab referral network before $5M hike",
+  "link": "https://www.investmentnews.com/goria/custodian/42b-halbert-hargrove-exits-schwab-referral-network-before-5m-hike/269076",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-18T21:07:19Z",
+  "summary": "Fidelity remains Halbert Hargrove’s main custodian as the RIA exits Schwab’s referral program before its January 2027 minimum hike",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/andr_639306293176333577.png",
+  "section": "people",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "e676b9257c49",
   "title": "Binance Secures $6.5 Billion Worldwide Freezing Order After…",
   "link": "https://financefeeds.com/binance-secures-6-5-billion-worldwide-freezing-order-after-october-hack/",
@@ -20,6 +157,24 @@
    "Americas",
    "Middle East & Africa",
    "Asia Pacific"
+  ]
+ },
+ {
+  "id": "c44452a27e97",
+  "title": "Clients delay cognitive decline planning — here’s the fix",
+  "link": "https://www.financial-planning.com/news/clients-delay-cognitive-decline-planning-here-s-the-fix",
+  "source": "Financial Planning",
+  "feed": "Financial Planning",
+  "published": "2026-11-18T21:03:20Z",
+  "summary": "Clients aren’t avoiding cognitive decline planning so much as they’re putting it off. Financial advisors can help by naming the right agents and bringing family members in early.",
+  "image": "https://www.financial-planning.com/wp-content/uploads/sites/8/2026/11/flourish-visualisation-30963775-c8ca864c6c570dcc.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
   ]
  },
  {
@@ -335,6 +490,23 @@
    "Middle East & Africa",
    "Asia Pacific"
   ]
+ },
+ {
+  "id": "69593d755d14",
+  "title": "Remote access in financial firms is usually an application problem, not a network problem",
+  "link": "https://www.finextra.com/blogposting/33509/remote-access-in-financial-firms-is-usually-an-application-problem-not-a-network-problem?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-18T19:15:39Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
  },
  {
   "id": "0e8f92bc2231",
@@ -702,6 +874,23 @@
   "regions": [
    "Americas"
   ]
+ },
+ {
+  "id": "6e9bea93ebcd",
+  "title": "The New Architecture of Money: The Challenges of Building a 24/7 Global Payment System (Part 3)",
+  "link": "https://www.finextra.com/blogposting/33508/the-new-architecture-of-money-the-challenges-of-building-a-247-global-payment-system-part-3?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-18T17:16:08Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
  },
  {
   "id": "2a32910d7a9d",
@@ -1393,6 +1582,23 @@
   "summary": "Post-incident fraud management needs to adapt. But how?",
   "image": "",
   "section": "regulation",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "2af2fe70438a",
+  "title": "The primary bank is fragmenting, and the transaction feed is where banks win it back",
+  "link": "https://www.finextra.com/blogposting/33504/the-primary-bank-is-fragmenting-and-the-transaction-feed-is-where-banks-win-it-back?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-18T14:37:49Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "tech",
   "also": [],
   "assets": [],
   "regions": [
@@ -3712,7 +3918,7 @@
  },
  {
   "id": "98548b43dfdc",
-  "title": "Live updates: Bitcoin falls below $63,000, with Strategy’s STRC hitting lowest since August",
+  "title": "Bitcoin falls below $63,000 as Anthropic prices IPO at $83, raising nearly $100 billion",
   "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
   "source": "CoinDesk",
   "feed": "CoinDesk",
@@ -3722,6 +3928,7 @@
   "section": "digital",
   "also": [],
   "assets": [
+   "Equities",
    "Crypto"
   ],
   "regions": [
