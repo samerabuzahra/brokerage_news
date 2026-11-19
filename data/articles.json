@@ -1,5 +1,543 @@
 [
  {
+  "id": "13737bb11c8a",
+  "title": "41% of NinjaTrader Respondents Would Trade More as…",
+  "link": "https://financefeeds.com/41-of-ninjatrader-respondents-would-trade-more-as-volatility-rises/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-19T11:04:43Z",
+  "summary": "Asked what they would do if markets became more volatile, 41% of active NinjaTrader users said they would trade more and 47% expected to maintain their activity. The distinction matters for brokers interpreting NinjaTrader’s inaugural Futures Trader Pulse Survey . Combining the…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/03/NinjaTrader_Timeline_Hallway-760x428.png",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "923f3f9bb693",
+  "title": "BlackRock to acquire Brazilian asset manager SulAmérica",
+  "link": "https://www.privatebankerinternational.com/news/blackrock-acquire-sulamerica/",
+  "source": "Private Banker International",
+  "feed": "Private Banker International",
+  "published": "2026-11-19T11:03:24Z",
+  "summary": "SulAmérica Investimentos has a local investment team, more than 25 distribution agreements in Brazil’s wealth sector.",
+  "image": "https://www.privatebankerinternational.com/wp-content/uploads/sites/5/2026/11/blackrock-shutterstock_2550781191.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "756426c634bf",
+  "title": "24X Seeks SEC Clearance for Earnings Options on 23 US…",
+  "link": "https://financefeeds.com/24x-seeks-sec-clearance-for-earnings-options-on-23-us-companies/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-19T11:01:02Z",
+  "summary": "A trader can call a company’s earnings correctly and still lose money on its shares. The stock may fall after a revenue beat if guidance disappoints, or rise after a miss if investors had expected worse. 24X National Exchange has filed a proposed rule change that would give…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/09/24X.png",
+  "section": "deals",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "58284265d712",
+  "title": "Anthropic Debuts After Record $81 Billion IPO That Traders Bet On for Months",
+  "link": "https://www.financemagnates.com/forex/analysis/anthropic-debuts-after-record-81-billion-ipo-that-traders-bet-on-for-months/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-19T11:01:00Z",
+  "summary": "Anthropic shares are due to start trading on Nasdaq later today (Thursday) under the ticker ANT. A day earlier, the AI company raised $81.3 billion in the largest initial public offering (IPO) on record, selling stock at $83 a share. The first trade will end more than six months…",
+  "image": "https://images.financemagnates.com/images/IPO_id_58b931f6-bfb3-4ea2-a49e-be5c2321c0ea_size900.jpeg",
+  "section": "deals",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "f811b1f30390",
+  "title": "$1.1B UBS Team Leaves to Form Elevation Point-Backed Cottonwood Wealth",
+  "link": "https://www.wealthmanagement.com/ria-news/elevation-point-invests-in-wichitas-cottonwood-wealth",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-19T11:00:00Z",
+  "summary": "Wichita-based Cottonwood Wealth Partners, led by three founding partners who had managed roughly $1.1 billion, has chosen to launch with minority investor Elevation Point.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/bltf1ea0efce4d4140d/6afe1add685419c64b837d63/cottonwood-team-elevation-point.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "46b343d4a80a",
+  "title": "BNP Paribas plans fewer branches and pivot to wealthier clients at BNL unit",
+  "link": "https://www.privatebankerinternational.com/news/bnp-paribas-bnl-wealthier-clients-branches/",
+  "source": "Private Banker International",
+  "feed": "Private Banker International",
+  "published": "2026-11-19T10:59:51Z",
+  "summary": "Under plan, the subsidiary is pivoting its priorities towards corporate banking, private banking, and wealth management.",
+  "image": "https://www.privatebankerinternational.com/wp-content/uploads/sites/5/2026/11/bnl-shutterstock_2702543083.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "8bd9eadba037",
+  "title": "‘Highly advanced’ quantum computers could crack financial encryption in five years",
+  "link": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-19T10:55:29Z",
+  "summary": "No quantum computer can yet break widely used cryptography, but the securities watchdog says banks and blockchains face a yearslong security overhaul that many have barely begun.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/e87c2d1c3401c9d716f30b95b8ccef99c06082d2-2276x1707.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "06668687c62b",
+  "title": "Deutsche Bank Leak, Day Three: A 1.7 Billion Euro…",
+  "link": "https://financefeeds.com/deutsche-bank-leak-deripaska-epstein-trump/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-19T10:54:30Z",
+  "summary": "Deutsche Bank investigated a network that moved at least €1.7 billion through more than 15 shell companies, some linked to sanctioned Russian billionaire Oleg Deripaska, according to leaked internal files reported by Follow the Money on 18 November. The bank says it found the…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Deutsche-Bank-2-760x428.png",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "915c8c363725",
+  "title": "The courage to change",
+  "link": "https://www.fca.org.uk/news/speeches/courage-change",
+  "source": "FCA",
+  "feed": "FCA",
+  "published": "2026-11-19T10:50:00Z",
+  "summary": "Speech by Sarah Pritchard, deputy chief executive, at TheCityUK National Conference 2026. Our willingness to do things differently in this country has helped make our financial services sector one of the most innovative in the world.We didn’t get here by accident.It took…",
+  "image": "",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "333c63914464",
+  "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
+  "link": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-19T10:39:36Z",
+  "summary": "The central bank aims to expand this digital settlement network and test wider collateral use in 2027.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8d846e2133aa83a7cc8c40a8d6391ac0c3050bc-6192x4128.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "regulation",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "ac3ffe268245",
+  "title": "FCA launches AI Spotlight Observatory",
+  "link": "https://fxnewsgroup.com/forex-news/regulatory/fca-launches-ai-spotlight-observatory/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-19T10:25:24Z",
+  "summary": "The FCA AI Spotlight Observatory brings together real-world examples of AI adoption across financial services, helping firms identify emerging trends and opportunities.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2025/09/fca-reception-3-scaled.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "a955b26d1cba",
+  "title": "How Exness Traded Up The Corporate Ladder for Mount Kilimanjaro",
+  "link": "https://www.financemagnates.com/thought-leadership/how-exness-traded-up-the-corporate-ladder-for-mount-kilimanjaro/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-19T10:24:22Z",
+  "summary": "How does climbing four peaks across four continents, ending with Mount Kilimanjaro, create a stronger workplace culture? For Exness, the answer lies in bringing employees together, encouraging resilience and creating connections beyond everyday working relationships. \"You…",
+  "image": "https://images.financemagnates.com/images/Martin%20Johan%20Thorvaldsson%2C%20Exness%20Head%20of%20Community%20%7C%20Finance%20Magnates%20Interview_id_d2beba60-7dbe-45b5-affd-349910c151d3_size900.jpeg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe",
+   "Middle East & Africa"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "df5d5e889c58",
+  "title": "Microsoft Shares: Microsoft Says Its New MAI Code 2 Matches…",
+  "link": "https://financefeeds.com/microsoft-shares-mai-code-2-claude-opus-cost/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-19T10:24:21Z",
+  "summary": "Microsoft shares closed at $507.31 on 18 November, down 0.19%, and traded at $513.56 before the bell at 5:09 a.m. ET on 19 November, according to TradingView. Microsoft says its new MAI Code 2 model delivers about 96% of Claude Opus 5.5’s coding performance at 5% of the cost…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/08/Microsoft-MSFT-760x428.png",
+  "section": "tech",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "8e56cb037955",
+  "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
+  "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-19T10:22:12Z",
+  "summary": "Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized strategies.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/7082c0bc8a09a5527ac657aa14cf9beac27d71a7-4096x2304.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "3bb83a2bc854",
+  "title": "UK Financial Regulators Propose Cyber Guidance as Incident Reports Hit 18-Month High",
+  "link": "https://www.financemagnates.com/forex/regulation/uk-financial-regulators-propose-cyber-guidance-as-incident-reports-hit-18-month-high/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-19T10:06:24Z",
+  "summary": "Cyber incidents reported to the Financial Conduct Authority (FCA) hit an 18-month high in October, the regulator said today (Thursday) as it proposed cyber guidance. The October count was the second-highest in five years and 52% above the previous high, recorded in May 2025. The…",
+  "image": "https://images.financemagnates.com/images/cyber_id_84db8251-c4fd-4af0-beaa-ff457dc31ca0_size900.jpg",
+  "section": "tech",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "4ac9ecf902a1",
+  "title": "Equiti becomes Official Event Partner of SailGP UAE",
+  "link": "https://fxnewsgroup.com/forex-news/retail-forex/equiti-becomes-official-event-partner-of-sailgp-uae/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-19T09:48:06Z",
+  "summary": "Equiti joins a strong SailGP partner line-up that includes Rolex, DP World, Emirates, Mubadala, Oracle, Apex Group, Accor, KPMG and Red Bull.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/Equiti-becomes-Official-Event-Partner-of-SailGP-UAE.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Middle East & Africa"
+  ]
+ },
+ {
+  "id": "b11beb36726d",
+  "title": "LuxCSD launches D7 Pre-issuance API, enabling full straight-through processing",
+  "link": "https://fxnewsgroup.com/forex-news/institutional/luxcsd-launches-d7-pre-issuance-api-enabling-full-straight-through-processing/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-19T09:39:24Z",
+  "summary": "LuxCSD, Luxembourg’s central securities depository, has launched its D7 Pre-issuance API.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/04/luxembourg.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "6c9cbf58ce39",
+  "title": "BlackRock to Buy SulAmérica Investimentos",
+  "link": "https://www.marketsmedia.com/blackrock-to-buy-sulamerica-investimentos/",
+  "source": "Markets Media",
+  "feed": "Markets Media",
+  "published": "2026-11-19T09:33:42Z",
+  "summary": "Brazil has one of the world's largest asset management industries.",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2017/08/brazil-150x150.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "c296ed64a91b",
+  "title": "Insurance firms called on to improve claims handling",
+  "link": "https://www.fca.org.uk/news/news-stories/insurance-firms-called-improve-claims-handling",
+  "source": "FCA",
+  "feed": "FCA",
+  "published": "2026-11-19T09:32:00Z",
+  "summary": "The FCA and Financial Ombudsman Service have published a report setting out what insurers need to focus on to ensure claims are dealt with promptly, clearly and fairly. We are helping firms learn from Financial Ombudsman complaints and strengthen their claims handling in line…",
+  "image": "",
+  "section": "regulation",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "599e49052fd3",
+  "title": "Australian Crypto Platforms Face November 27 Deadline to…",
+  "link": "https://financefeeds.com/australian-crypto-platforms-face-november-27-deadline-to-respond-to-asics-new-regulatory-framework/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-19T09:31:13Z",
+  "summary": "Australian cryptocurrency exchanges, digital asset custodians and financial technology companies have until November 27, 2026, to submit feedback on regulatory standards proposed by the Australian Securities and Investments Commission ( ASIC ). The consultation, launched on…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/Australia-Unveils-Tough-New-Rules-for-Crypto-Platform-Licensing-760x428.jpg",
+  "section": "digital",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "4f990e9302d4",
+  "title": "Apple Stock Price Could Reach $765 by 2030, CoinCodex…",
+  "link": "https://financefeeds.com/apple-stock-price-prediction-765-2030-coincodex-forecast/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-19T09:30:39Z",
+  "summary": "Apple stock is approaching the $350 level as investors assess the company's expanding artificial intelligence ambitions and the potential for a new iPhone upgrade cycle. Despite rising bond yields and renewed concerns about technology valuations, Apple's long-term growth outlook…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/apple-park-cupertino-aapl-stock-forecast-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "401d2e01403a",
+  "title": "Futu’s Q3 2026 Retail Trading Volumes Drops, But Wealth Management Grows",
+  "link": "https://www.financemagnates.com/forex/futus-q3-2026-retail-trading-volumes-drops-but-wealth-management-grows/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-19T09:28:55Z",
+  "summary": "Futu Holdings has released its unaudited financial results for the third quarter of 2026, reporting HK$6.69 billion (US$852.7 million) in total revenues, a 4.5% year-over-year increase. Net income remained largely stable compared to the same period last year, coming in at…",
+  "image": "https://images.financemagnates.com/images/Futu%20holdingd_id_c054ad8e-d368-470e-b050-4701dcf49013_size900.jpeg",
+  "section": "deals",
+  "also": [
+   "wealth"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "8024db2a9853",
+  "title": "JT Prime Offers FXCM Pro Clients the Same Fees and Leverage…",
+  "link": "https://financefeeds.com/jt-prime-offers-fxcm-pro-clients-the-same-fees-and-leverage-as-accounts-move/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-19T09:28:19Z",
+  "summary": "A portfolio of institutional clients served by FXCM Pro has been offered a route to JT Prime on the same leverage , fees and connectivity arrangements, JT Prime said on November 18. For the recently launched prime of prime, the agreement provides access to established…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Retrato-corporativo-de-tres-executivos-760x428.png",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "58f3dfc77971",
+  "title": "Backpack Secures FCM License and NFA Membership",
+  "link": "https://www.marketsmedia.com/backpack-secures-fcm-license-and-nfa-membership/",
+  "source": "Markets Media",
+  "feed": "Markets Media",
+  "published": "2026-11-19T09:26:54Z",
+  "summary": "U.S. users can trade leveraged perps via Backpack’s fully licensed, blockchain-based infrastructure.",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2022/06/Depositphotos_206986988_L-150x150.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "1ab8707d0141",
+  "title": "Who develops the funded trader after the evaluation?",
+  "link": "https://fxnewsgroup.com/forex-news/retail-forex/who-develops-the-funded-trader-after-the-evaluation/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-19T09:26:09Z",
+  "summary": "Funded trading has opened the market to traders who could not have funded a meaningful account on their own.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/funded-trader.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "c76af7cb9595",
+  "title": "Crypto ETFs Record $350.7 Million in Outflows as Bitcoin…",
+  "link": "https://financefeeds.com/crypto-etfs-record-350-7-million-in-outflows-as-bitcoin-and-ethereum-lead-institutional-withdrawals/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-19T09:20:43Z",
+  "summary": "US spot cryptocurrency exchange-traded funds recorded approximately $350.7 million in combined net outflows on Wednesday, November 18, 2026, as institutional selling pressure intensified across major digital asset investment products. According to data compiled by Farside…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/08/Bitcoin-ETFs-Absorb-1.9-Billion-in-Their-Best-Week-Yet-760x400.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "8f345782b9fd",
+  "title": "Beyond the Stage: Business Connect Roundtables at the FM Summit London 2026",
+  "link": "https://www.financemagnates.com/fm-events/beyond-the-stage-business-connect-roundtables-at-the-fm-summit-london-2026/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-19T09:20:00Z",
+  "summary": "Business Connect brings smaller, focused discussions into the Summit experience. The roundtables on 24 November are designed for professionals looking to exchange practical perspectives on trading, technology and regulatory challenges. The programme includes Intelligence…",
+  "image": "https://images.financemagnates.com/images/FMLS%202026_id_a774ffb6-e302-4894-a6c8-1111f7a2ed7a_size900.jpeg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "e8eb84ae7cc2",
   "title": "Nadine Chakar Leaves DTCC",
   "link": "https://www.marketsmedia.com/nadine-chakar-leaves-dtcc/",
@@ -15,6 +553,46 @@
   ],
   "regions": [
    "Americas"
+  ]
+ },
+ {
+  "id": "251ef5e32c48",
+  "title": "Investing.com’s WarrenAI Adds Up to 10 Research…",
+  "link": "https://financefeeds.com/investing-coms-warrenai-adds-up-to-10-research-rounds-as-investors-double-check-its-numbers/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-19T09:17:18Z",
+  "summary": "An investor asking why a company’s earnings rose while its cash flow fell needs more than two figures and a plausible explanation. The answer may sit in the reporting period, a working-capital movement or an adjustment buried in a filing. Investing.com’s November 18 announcement…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/investing.com-office.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "a83e1a4e31c8",
+  "title": "Bitwise’s $385 Solana Scenario Hinges on $15.7 Trillion in…",
+  "link": "https://financefeeds.com/bitwises-385-solana-scenario-hinges-on-15-7-trillion-in-stock-trading/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-19T09:15:09Z",
+  "summary": "Bitwise Asset Management’s November report on the economics of Solana puts a striking condition on its $385 base-case price for SOL in 2031. Annual tokenized stock trading on the blockchain would have to rise from an annualized $33.5 billion to $15.7 trillion. That is roughly…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/Solanas-Tokenized-Stock-Boom-Hides-an-Uncomfortable-Truth-760x428.webp",
+  "section": "digital",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
   ]
  },
  {
@@ -133,6 +711,45 @@
   ]
  },
  {
+  "id": "357d16944b80",
+  "title": "S&P Maintains USDT Stability Assessment at Lowest…",
+  "link": "https://financefeeds.com/sp-maintains-usdt-stability-assessment-at-lowest-level-as-higher-risk-asset-exposure-rises-to-28/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-19T08:37:20Z",
+  "summary": "S&P Global Ratings has maintained its stablecoin stability assessment for Tether's USDT at 5, or “weak,” the lowest level on its five-point scale, citing increased exposure to higher-risk reserve assets and persistent concerns surrounding financial transparency. In its November…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/07/USDT-vs-USDC-vs-EURC-711x428.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "9ac66cb56f83",
+  "title": "Ledger Confirms Hardware Wallet Tampering in Germany as…",
+  "link": "https://financefeeds.com/ledger-confirms-hardware-wallet-tampering-in-germany-as-investigation-expands-to-uae/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-19T08:13:49Z",
+  "summary": "Cryptocurrency hardware wallet manufacturer Ledger has expanded its investigation into a sophisticated supply-chain attack after identifying physically modified devices in Germany and receiving additional reports of suspected tampering in the United Arab Emirates.In a security…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/Tampered-Ledger-Wallets-Cost-Singapore-Users-Millions.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ]
+ },
+ {
   "id": "bc12c1108f13",
   "title": "UK financial watchdogs clarify cyber expectations as attacks rise",
   "link": "https://www.fca.org.uk/news/press-releases/uk-financial-watchdogs-clarify-cyber-expectations-attacks-rise",
@@ -170,6 +787,71 @@
    "UK & Europe"
   ],
   "img_checked": true
+ },
+ {
+  "id": "b42372fa7d84",
+  "title": "Visa Expands Stablecoin-Powered Cross-Border Payouts Across…",
+  "link": "https://financefeeds.com/visa-expands-stablecoin-powered-cross-border-payouts-across-asia-pacific/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-19T07:55:21Z",
+  "summary": "Visa has announced plans to expand its stablecoin-powered payment capabilities across the Asia-Pacific region, allowing eligible businesses to fund international payouts using digital assets through its Visa Direct platform. Announced on November 18, 2026, during the Singapore…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/10/Visas-Quiet-Partnership-With-This-New-Altcoin-is-a-Game-Changer-for-the-Payments-Industry-760x428.jpeg",
+  "section": "digital",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "2bed3c2be39f",
+  "title": "Onchain Derivatives Protocol Variational Raises $110…",
+  "link": "https://financefeeds.com/onchain-derivatives-protocol-variational-raises-110-million-at-a-1-5-billion-valuation/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-19T07:54:37Z",
+  "summary": "Onchain derivatives trading protocol Variational has raised $110 million in a Series B funding round at a $1.5 billion valuation , as the company seeks to expand blockchain-based access to stocks, commodities and other traditional financial assets. Announced on November 18…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/08/What-is-Variational-760x428.png",
+  "section": "deals",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "9a4003280f22",
+  "title": "HSBC Introduces Tokenized Share Class of $2.4 Billion Hong…",
+  "link": "https://financefeeds.com/hsbc-introduces-tokenized-share-class-of-2-4-billion-hong-kong-money-market-fund/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-19T07:54:32Z",
+  "summary": "HSBC has introduced a tokenized share class of its existing Hong Kong dollar money market fund, expanding its blockchain-based financial services and providing retail investors with digital access to conventional investment products. According to official HSBC Asset Management…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/HSBC-Names-Its-Hong-Kong-Stablecoin-Ahead-of-Launch-760x428.png",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
  },
  {
   "id": "6aa77890fa16",
