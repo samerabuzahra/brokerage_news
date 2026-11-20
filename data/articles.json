@@ -1,5 +1,121 @@
 [
  {
+  "id": "28d9ad4767c1",
+  "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+  "link": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-20T22:51:14Z",
+  "summary": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d7901aa6391850923b865dba6e93d85d7542d76-6000x4001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "4e898d18ea5e",
+  "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+  "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-20T22:05:31Z",
+  "summary": "The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ff9d25e2511cf90cd7a62c4980664ef0585d6c3-4096x2754.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "6e9607dfc73c",
+  "title": "Anthropic stock sinks 8.5% as AI selloff swamps record-setting IPO",
+  "link": "https://www.investmentnews.com/equities/anthropic-stock-sinks-85-as-ai-selloff-swamps-record-setting-ipo/269120",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-20T22:02:16Z",
+  "summary": "Retail investors chased the debut, but Vanguard data shows most self-directed clients sat out the Anthropic IPO",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/jame_639305268194312778.png",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "eefae03f3864",
+  "title": "Why referrals are bank-based advisors’ best friends and worst enemies",
+  "link": "https://www.financial-planning.com/news/why-referrals-are-bank-based-advisors-best-friends-and-worst-enemies",
+  "source": "Financial Planning",
+  "feed": "Financial Planning",
+  "published": "2026-11-20T21:18:22Z",
+  "summary": "Cerulli Associates finds that many advisors still join banks to gain client referrals. But that source of business is starting to dry up, and could lead to costly litigation in time.",
+  "image": "https://www.financial-planning.com/wp-content/uploads/sites/8/2026/11/flourish-visualisation-30988117-d7148f01ad2fd952.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "a2e17d3e7785",
+  "title": "Advisor moves: UBS pries Merrill veteran loose as LPL adds $200M duo",
+  "link": "https://www.investmentnews.com/independent-broker-dealers/advisor-moves-ubs-pries-merrill-veteran-loose-as-lpl-adds-200m-duo/269119",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-20T21:15:26Z",
+  "summary": "Raymond James lures a $125M Merrill Lynch advisor in Charlotte while a Stifel pair breaks away to go independent in Southern Oregon",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/leoa_639051390870470318.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "8303d6548f78",
+  "title": "Sandisk Drop as 8-for-1 Stock Split Overshadowed by Fears…",
+  "link": "https://financefeeds.com/sandisk-drop-as-8-for-1-stock-split-overshadowed-by-fears-of-nand-market-downturn/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-20T21:02:52Z",
+  "summary": "Sandisk shares fell roughly 14% on November 20 as a new forecast for declining NAND flash prices in 2027 raised concerns about the sustainability of the memory manufacturer's record profitability. The decline coincided with the company's eight-for-one stock split, but the split…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/sandisk-milpitas-headquarters-760x428.jpg",
+  "section": "tech",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
   "id": "9d2113e72469",
   "title": "Global Atlantic touts lifetime income, flexibility, with new fixed index annuity",
   "link": "https://www.investmentnews.com/life-insurance-and-annuities/global-atlantic-touts-lifetime-income-flexibility-with-new-fixed-index-annuity/269118",
@@ -34,6 +150,23 @@
   "regions": [
    "Americas"
   ]
+ },
+ {
+  "id": "c3aae25f617e",
+  "title": "BCBS 239 in the age of AI agents",
+  "link": "https://www.finextra.com/blogposting/33531/bcbs-239-in-the-age-of-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-20T20:55:00Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
  },
  {
   "id": "da651800d8d7",
@@ -232,6 +365,62 @@
   ]
  },
  {
+  "id": "3b5214dcf60a",
+  "title": "RIAs flag AI risk in Form ADV more often than they admit using AI",
+  "link": "https://www.investmentnews.com/transformation/rias-flag-ai-risk-in-form-adv-more-often-than-they-admit-using-ai/269115",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-20T19:08:44Z",
+  "summary": "",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/deni_639308000353990859.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "658df7a06f92",
+  "title": "RIA annuity growth hinges on planning software integration",
+  "link": "https://www.investmentnews.com/life-insurance-and-annuities/ria-annuity-growth-hinges-on-planning-software-integration/269114",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-20T19:01:38Z",
+  "summary": "Insurers now rank independent broker-dealers ahead of RIAs for annuity growth. Goldman's Marci Green says platform integration sets the RIA runway",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/deni_639307999494849664.jpg",
+  "section": "wealth",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "41c9ebb3a68f",
+  "title": "Human Judgment and Inclusion Are the Real Drivers of Financial AI",
+  "link": "https://www.finextra.com/blogposting/33530/human-judgment-and-inclusion-are-the-real-drivers-of-financial-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-20T18:56:09Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "18bbcfe46aab",
   "title": "Anthropic Shares Fall 12% as Apple AI Agent Report Adds to…",
   "link": "https://financefeeds.com/anthropic-shares-fall-12-as-apple-ai-agent-report-adds-to-global-selloff/",
@@ -373,6 +562,44 @@
   "regions": [
    "Global"
   ]
+ },
+ {
+  "id": "44f10ca16bf3",
+  "title": "Mitek Systems appoints Laura Apel as chief marketing officer",
+  "link": "https://www.finextra.com/pressarticle/111756/mitek-systems-appoints-laura-apel-as-chief-marketing-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-20T18:19:00Z",
+  "summary": "Mitek Systems, Inc. (NASDAQ: MITK), a global leader in digital identity verification and fraud prevention, today announced the appointment of Laura Apel as Chief Marketing Officer, effective November 16, 2026. Reporting directly to Chief Executive Officer Edward H. West, Apel…",
+  "image": "",
+  "section": "people",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "cd259bf1f360",
+  "title": "PayPal names Claire Bramley CFO",
+  "link": "https://www.finextra.com/pressarticle/111755/paypal-names-claire-bramley-cfo?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-20T18:17:00Z",
+  "summary": "PayPal Holdings, Inc. (NASDAQ: PYPL) today announced several executive leadership appointments. This follows several months of strategic planning to establish clear strategies across PayPal's core businesses, simplify its operating model and align leadership accountability with…",
+  "image": "",
+  "section": "people",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
  },
  {
   "id": "aad7a42aff53",
