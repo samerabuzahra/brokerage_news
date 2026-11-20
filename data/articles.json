@@ -1,12 +1,324 @@
 [
  {
+  "id": "c58c2b551fc9",
+  "title": "CFTC Chair Says Onchain Platforms Like Hyperliquid Must…",
+  "link": "https://financefeeds.com/cftc-chair-says-onchain-platforms-like-hyperliquid-must-register-or-partner-with-licensed-exchanges-to-enter-us-market/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-20T09:04:41Z",
+  "summary": "Commodity Futures Trading Commission (CFTC) Chairman Michael Selig has clarified that decentralized derivatives platforms such as Hyperliquid must obtain federal exchange registration or partner with an existing regulated exchange before offering leveraged trading services to…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/Perpl-vs.-Hyperliquid-760x428.webp",
+  "section": "regulation",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "93f73bcc23de",
+  "title": "Anthropic Begins Nasdaq Trading After Record $81 Billion…",
+  "link": "https://financefeeds.com/anthropic-begins-nasdaq-trading-after-record-81-billion-ipo-at-1-5-trillion-valuation/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-20T08:52:23Z",
+  "summary": "Artificial intelligence developer Anthropic officially began trading on the Nasdaq on November 19, 2026, following a record-breaking initial public offering that valued the company at approximately $1.5 trillion on a fully diluted basis. The developer of the Claude AI assistant…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Anthropic-Pulls-IPO-Pricing-Details-Hours-After-Banks-Get-Them-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "138ea49f3183",
+  "title": "UBS, Chainlink Develop Blockchain for Structured Products",
+  "link": "https://www.marketsmedia.com/ubs-chainlink-develop-blockchain-for-global-structured-products-market/",
+  "source": "Markets Media",
+  "feed": "Markets Media",
+  "published": "2026-11-20T08:47:36Z",
+  "summary": "The bank will also benefit from future automation of settlement, through integration with digital money.",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2017/07/iStock-528903376-150x150.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "15c7d5dad271",
+  "title": "US Crypto ETFs Record $714.6 Million in Outflows as…",
+  "link": "https://financefeeds.com/us-crypto-etfs-record-714-6-million-in-outflows-as-blackrock-leads-bitcoin-and-ethereum-redemptions/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-20T08:38:22Z",
+  "summary": "US spot cryptocurrency exchange-traded funds recorded approximately $714.6 million in combined net outflows on Thursday, November 19, 2026, as withdrawals from Bitcoin and Ethereum investment products accelerated for another consecutive session. According to data compiled by…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/Bitcoin-ETFs-Streak-Four-Inflow-Days-Into-the-Binance-Hack.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "06a8c87e123c",
+  "title": "LSEG Workspace Integrates Kalshi Prediction Markets",
+  "link": "https://www.marketsmedia.com/lseg-workspace-integrates-kalshi-prediction-markets/",
+  "source": "Markets Media",
+  "feed": "Markets Media",
+  "published": "2026-11-20T08:29:17Z",
+  "summary": "Notional volumes from institutions on Kalshi are up more than 5,000% between May and October 2026.",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2021/08/Depositphotos_73974821_l-2015-150x150.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "b9bae90b57b4",
+  "title": "Ledger CTO Charles Guillemet to Leave Company at End of…",
+  "link": "https://financefeeds.com/ledger-cto-charles-guillemet-to-leave-company-at-end-of-2026-after-nine-years/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-20T08:21:15Z",
+  "summary": "Ledger Chief Technology Officer Charles Guillemet has announced that he will leave the cryptocurrency hardware wallet manufacturer at the end of 2026, concluding nearly nine years with the French digital asset security company. Guillemet confirmed his departure in a social media…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/03/ledger-760x428.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "083a15ce2d4c",
+  "title": "Morgan Stanley IM Launches Active ETF Platform in Europe",
+  "link": "https://www.marketsmedia.com/morgan-stanley-im-launches-active-etf-platform-in-europe/",
+  "source": "Markets Media",
+  "feed": "Markets Media",
+  "published": "2026-11-20T08:17:18Z",
+  "summary": "The European ETF market is evolving rapidly with growing demand for active strategies.",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2020/05/Depositphotos_274731908_l-2015-573x379-150x150.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "fecd387a1fb6",
+  "title": "State Street Joins Equilend’s 1Source",
+  "link": "https://www.marketsmedia.com/state-street-joins-equilends-1source/",
+  "source": "Markets Media",
+  "feed": "Markets Media",
+  "published": "2026-11-20T08:07:29Z",
+  "summary": "Distributed ledger technology creates a single source of truth for securities finance transactions.",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2018/05/iStock-846175284-150x150.jpg",
+  "section": "people",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "95e05c29adda",
+  "title": "A Feeling of Déjà Vu As Crypto Exchanges Fall Short in Anthropic’s IPO Tokenization",
+  "link": "https://www.financemagnates.com/cryptocurrency/a-feeling-of-dj-vu-as-crypto-exchanges-fall-short-in-anthropics-ipo-tokenization/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Crypto",
+  "published": "2026-11-20T08:05:34Z",
+  "summary": "This year produced the two largest IPOs in history, SpaceX in June and Anthropic on Thursday. In both cases, crypto’s attempt to give retail investors tokenized access to hot IPOs ran into the same immovable constraint. Someone still has to secure the shares. Major crypto…",
+  "image": "https://images.financemagnates.com/images/Dario%20Amodei%2C%20Anthropic%20CEO_id_ab8b68fa-4361-40e5-91fc-3e2c658c3b16_size900.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "6bca86d1188b",
+  "title": "Bitcoin Falls Below $62,000 as ETF Outflows and Fed Rate…",
+  "link": "https://financefeeds.com/bitcoin-falls-below-62000-as-etf-outflows-and-fed-rate-concerns-deepen-crypto-market-selloff/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-20T08:01:45Z",
+  "summary": "Bitcoin fell below $62,000 on Friday, November 20, 2026, extending its November decline as institutional fund withdrawals, tighter financial conditions and weakening investor sentiment continued to weigh on cryptocurrency markets. The world's largest cryptocurrency traded around…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/06/bitcoin-price-prediction-95000-year-end-2026-760x428.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "9c9612eab5ea",
+  "title": "Forex Has Always Outsourced Its Tech. That’s Why It’s Adopting Crypto So Fast",
+  "link": "https://www.financemagnates.com/forex/forex-has-always-outsourced-its-tech-thats-why-its-adopting-crypto-so-fast/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-20T08:00:00Z",
+  "summary": "We are used to hearing that digital asset integration is a slow, lengthy process, but forex brokers have demonstrated that it doesn’t have to be the case. Many already accept stablecoin deposits, and a growing number are rethinking how money moves through the entire business…",
+  "image": "https://images.financemagnates.com/images/Forex%20and%20crypto_id_07257cd1-a869-42d9-a1f4-6ed6fae1b22b_size900.jpeg",
+  "section": "tech",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "16615220d784",
+  "title": "AEO in Financial Services: Acquisition Without the Click",
+  "link": "https://www.financemagnates.com/fm-events/aeo-in-financial-services-acquisition-without-the-click/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-20T07:57:00Z",
+  "summary": "A customer can now ask an AI assistant for a broker recommendation without ever clicking through to a comparison website. For firms that have invested heavily in search visibility and affiliate acquisition, that shift changes how discovery and conversion need to be measured. As…",
+  "image": "https://images.financemagnates.com/images/CMC%20AT%2035%3A%20Lord%20Peter%20Cruddas%20in%20Conversation_id_865b8212-d75c-4de3-9669-93d26ca35a7a_size900.jpeg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "557d240668e4",
+  "title": "LuxCSD Brings Real-Time STP to Primary Issuance",
+  "link": "https://www.marketsmedia.com/luxcsd-brings-real-time-straight-through-processing-to-primary-issuance/",
+  "source": "Markets Media",
+  "feed": "Markets Media",
+  "published": "2026-11-20T07:56:45Z",
+  "summary": "Full straight-through processing compresses pre-issuance workflows from days to minutes.",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2017/06/iStock-625781114-150x150.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "2dfce20f31f0",
+  "title": "Binance.US Moves Closer to Launching Crypto Perpetual…",
+  "link": "https://financefeeds.com/binance-us-moves-closer-to-launching-crypto-perpetual-futures-as-cftc-advances-derivatives-applications/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-20T07:45:54Z",
+  "summary": "Binance .US has moved closer to offering cryptocurrency perpetual futures to American customers after the Commodity Futures Trading Commission (CFTC) determined that its applications for derivatives exchange and clearinghouse registration were materially complete. The exchange…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Binance-Hackers-Drained-192-Tokens-Across-11-Networks-760x428.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "883a61c98f12",
+  "title": "Coinbase Plans to Launch Its Own US Prediction Market…",
+  "link": "https://financefeeds.com/coinbase-plans-to-launch-its-own-us-prediction-market-contracts-in-first-half-of-2027/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-20T07:34:41Z",
+  "summary": "Coinbase Global is reportedly preparing to launch its own prediction market contracts in the United States during the first half of 2027, expanding its presence in the rapidly growing event derivatives industry. According to Bloomberg reporting published on November 19, 2026…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/07/Coinbase-Will-Now-List-Base-and-Solana-Tokens-the-Moment-They-Go-Live.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "21da58d49cc0",
+  "title": "BaFin orders State Street Bank International to take measures to remedy shortcomings in its AML arrangements",
+  "link": "https://fxnewsgroup.com/forex-news/regulatory/bafin-orders-state-street-bank-international-to-take-measures-to-remedy-shortcomings-in-its-aml-arrangements/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-20T07:33:16Z",
+  "summary": "BaFin has ordered State Street Bank International GmbH to take appropriate and suitable measures to remedy shortcomings in its anti-money laundering arrangements.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2020/10/glasses_desk-1.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
   "id": "6bc2445fdd6e",
   "title": "California Launches Investigation Into Nvidia Over…",
   "link": "https://financefeeds.com/california-launches-investigation-into-nvidia-over-suspected-china-links-and-misleading-investor-disclosures/",
   "source": "FinanceFeeds",
   "feed": "FinanceFeeds",
   "published": "2026-11-20T07:29:47Z",
-  "summary": "California Attorney General Rob Bonta has launched a formal investigation into Nvidia, examining whether the semiconductor company or former Chief Executive Jensen Huang enabled China to obtain advanced artificial intelligence chips or confidential information while potentially…",
+  "summary": "California Attorney General Rob Bonta has launched a formal investigation into Nvidia , examining whether the semiconductor company or former Chief Executive Jensen Huang enabled China to obtain advanced artificial intelligence chips or confidential information while potentially…",
   "image": "https://financefeeds.com/wp-content/uploads/2026/11/nvidia-headquarters-santa-clara-voyager-sign-760x428.jpg",
   "section": "regulation",
   "also": [],
