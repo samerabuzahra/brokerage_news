@@ -1,5 +1,106 @@
 [
  {
+  "id": "17837479fa19",
+  "title": "ANT Stock $88.91: Friday Low Came 5 Cents Above IPO Price",
+  "link": "https://financefeeds.com/anthropic-ant-stock-88-91-saturday-week-ahead-after-friday-low-tested-83-ipo-price-bull-97-bear-80/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-21T06:51:22Z",
+  "summary": "Updated 21 November 2026, 07:00 GMT. Anthropic (NASDAQ: ANT) closed its first full week as a public company at $88.91 on Friday, down 8.50 percent from Thursday's $97.17 debut close (Nasdaq.com; Yahoo Finance). Friday's low was $83.05 , five cents above the $83 IPO price, before…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/Anthropic-Hits-16.8-Billion-but-IPO-Buzz-Starts-to-Cool-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "30c193c2dfc3",
+  "title": "Micron (MU) Stock $594.51 After a 24% Weekly Drop",
+  "link": "https://financefeeds.com/micron-mu-stock-594-saturday-week-ahead-after-24-percent-weekly-drop-bull-669-bear-553/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-21T06:51:05Z",
+  "summary": "Updated 21 November 2026, 07:00 GMT. Micron Technology (NASDAQ: MU) closed Friday at $594.51 , down 13.89 percent from Thursday's $690.44 (StockAnalysis; Yahoo Finance). That left the stock down 23.6 percent for the week, from $778.31 on 13 November. Friday's fall came as…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/micron-earnings-hiroshima-fab-0921-760x428.jpg",
+  "section": "regulation",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "104fb5dd941b",
+  "title": "Brent Crude Price $92.57: 8 Days to OPEC+ 2027 Quota Call",
+  "link": "https://financefeeds.com/brent-crude-oil-price-92-57-saturday-week-ahead-opec-plus-29-november-bull-96-bear-89/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-21T06:50:49Z",
+  "summary": "Updated 21 November 2026, 07:00 GMT. Brent crude for January delivery settled Friday at $92.57 a barrel, up 0.64 percent on the day but down 3.41 percent for the week, its third weekly loss in a row (EnergyNow). Friday's bounce followed reports of a tanker fire near the Strait…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/08/offshore-oil-rig-brent-crude-price-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "996eaa9618db",
+  "title": "Sandisk Stock $79.24: 16% Split-Day Drop on NAND Warning",
+  "link": "https://financefeeds.com/sandisk-sndk-stock-79-saturday-week-ahead-after-16-percent-split-day-drop-bull-91-bear-72/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-21T06:50:32Z",
+  "summary": "Updated 21 November 2026, 07:00 GMT. Sandisk (NASDAQ: SNDK) closed Friday at $79.24 , down 16.05 percent on its first split-adjusted session (StockAnalysis; Yahoo Finance). The stock fell from a split-adjusted $94.40 on Thursday after TrendForce said NAND contract prices could…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/sandisk-milpitas-headquarters-760x428.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "59cd1d5801d0",
+  "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+  "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-21T05:59:19Z",
+  "summary": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/e801fab0ba43b1fac7d53b2dde06f85232d5e766-1506x830.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
   "id": "cc36b117b754",
   "title": "Bitcoin ETFs Shed $582 Million as November Outflows Reach…",
   "link": "https://financefeeds.com/bitcoin-etfs-shed-582-million-as-november-outflows-reach-3-47-billion/",
