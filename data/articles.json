@@ -1,5 +1,63 @@
 [
  {
+  "id": "6082857bd291",
+  "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+  "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-21T12:30:00Z",
+  "summary": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/a0b9c77ef2096d8c4905fefac8edbe280eb49ff3-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "cb9fb83c1fa2",
+  "title": "US Lawmakers Propose 30% Whistleblower Rewards for…",
+  "link": "https://financefeeds.com/us-lawmakers-propose-30-whistleblower-rewards-for-prediction-market-fraud/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-21T12:17:23Z",
+  "summary": "Two US Democratic lawmakers have introduced legislation offering whistleblowers rewards of 10% to 30% of monetary sanctions in qualifying prediction market fraud cases, creating a financial incentive to report suspected insider trading involving platforms such as Kalshi and…",
+  "image": "https://financefeeds.com/wp-content/uploads/2016/04/CFTC-awards-whistleblower-10-million.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "019f856a9d5a",
+  "title": "What Is a Dark Pool in Crypto? How Large Orders Trade…",
+  "link": "https://financefeeds.com/what-is-a-dark-pool-in-crypto-how-it-works/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-21T11:30:58Z",
+  "summary": "Large cryptocurrency transactions can create problems for traders who need to move substantial amounts of capital without affecting market prices. When an investor places a large buy or sell order on a public exchange, other market participants can see the order and react before…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Gemini_Generated_Image_mpitobmpitobmpit-760x428.jpg",
+  "section": "digital",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
   "id": "98341727285e",
   "title": "Weekly Review: Why Brokers Pursue Client Book Deals; IG Closes European Offices",
   "link": "https://www.financemagnates.com/forex/weekly-review-why-brokers-pursue-client-book-deals-ig-closes-european-offices/",
