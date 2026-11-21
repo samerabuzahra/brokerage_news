@@ -1,5 +1,28 @@
 [
  {
+  "id": "d0351967ec9c",
+  "title": "Hong Kong Publishes Bill to Expand Crypto Licensing Beyond…",
+  "link": "https://financefeeds.com/hong-kong-publishes-bill-to-expand-crypto-licensing-beyond-trading-platforms/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-21T15:02:24Z",
+  "summary": "Hong Kong has published legislation that would require cryptocurrency custodians, dealers, investment advisers and asset managers to obtain regulatory approval, extending mandatory oversight beyond virtual asset trading platforms and bringing more digital asset businesses under…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/07/Hong-Kong-SFC-640x428.jpg",
+  "section": "regulation",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Equities",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
   "id": "41318fa8f57b",
   "title": "ECB Invites Financial Firms to Test Tokenized Deposits and…",
   "link": "https://financefeeds.com/ecb-invites-financial-firms-to-test-tokenized-deposits-and-securities-under-appia/",
@@ -30437,24 +30460,6 @@
   "feed": "SEC",
   "published": "2026-09-23T16:00:00Z",
   "summary": "The Securities and Exchange Commission today charged CMI Capital LLC and its founder and manager, Michael D. Williams, for an alleged fraudulent investment scheme that raised approximately $860,000 from at least 18 investors, many of whom are current or…",
-  "image": "",
-  "section": "regulation",
-  "also": [],
-  "assets": [
-   "Equities"
-  ],
-  "regions": [
-   "Americas"
-  ]
- },
- {
-  "id": "f28625e43149",
-  "title": "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
-  "link": "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci",
-  "source": "SEC",
-  "feed": "SEC",
-  "published": "2026-09-22T16:41:11Z",
-  "summary": "The Securities and Exchange Commission today censured New York-based broker dealer OTC Link LLC and ordered it to pay a $575,000 civil penalty for longstanding violations of Regulation Systems Compliance and Integrity (SCI).According to the SEC’s settled…",
   "image": "",
   "section": "regulation",
   "also": [],
