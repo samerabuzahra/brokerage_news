@@ -1,6 +1,6 @@
 {
  "Finance Magnates": "ok (20 items, 0 with pictures)",
- "LeapRate": "ok (10 items, 2 with pictures)",
+ "LeapRate": "error: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f",
  "FX News Group": "ok (10 items, 10 with pictures)",
  "Markets Media": "ok (10 items, 10 with pictures)",
  "Traders Magazine": "ok (10 items, 9 with pictures)",
