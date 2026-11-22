@@ -1,12 +1,70 @@
 [
  {
+  "id": "5e5d825d839b",
+  "title": "Cyber Investigates $1 Million Bridge Exploit as Upbit and…",
+  "link": "https://financefeeds.com/cyber-investigates-1-million-bridge-exploit-as-upbit-and-bithumb-freeze-transfers/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-22T12:15:16Z",
+  "summary": "Cyber, the Ethereum Layer 2 network formerly known as CyberConnect, is investigating a suspected cross-chain bridge exploit after 5.21 million CYBER tokens were unexpectedly minted on Solana and an equivalent amount was released from its Ethereum bridge reserves on November 21…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-125207-760x428.png",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "0d9fe24ea3d5",
+  "title": "Chainflip Confirms $12 Million Hack, Offers Attacker 10%…",
+  "link": "https://financefeeds.com/chainflip-confirms-12-million-hack-offers-attacker-10-bounty/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-22T11:08:46Z",
+  "summary": "Cross-chain cryptocurrency exchange Chainflip has confirmed that approximately $12 million in Bitcoin, Ether and stablecoins was stolen from its vaults on November 21, 2026, expanding an initial $4.86 million loss estimate and offering the attacker a 10% bounty to return the…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/11/phone-hackers-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "6f296ac0ef62",
+  "title": "Start the Conversations Early: Opening Networking Blitz at The Folly",
+  "link": "https://www.financemagnates.com/fm-events/start-the-conversations-early-opening-networking-blitz-at-the-folly/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-22T10:55:00Z",
+  "summary": "The business conversations do not have to wait until the conference doors open. Tomorrow, on 23 November, the Opening Networking Blitz at The Folly brings confirmed Finance Magnates Summit London 2026 attendees together ahead of the main event. The evening is an opportunity to…",
+  "image": "https://images.financemagnates.com/images/FMLS%3A25_id_24cf937c-1dc9-43b6-93e6-4b9ad7add64c_size900.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "466f15ab86f7",
   "title": "Federal Judge Rejects CFTC’s Second Bid to Block New…",
   "link": "https://financefeeds.com/federal-judge-rejects-cftcs-second-bid-to-block-new-yorks-kalshi-lawsuit/",
   "source": "FinanceFeeds",
   "feed": "FinanceFeeds",
   "published": "2026-11-22T10:11:47Z",
-  "summary": "A federal judge has rejected the Commodity Futures Trading Commission's second emergency attempt to block New York's enforcement action against Kalshi, leaving the prediction market operator facing a November 23 hearing over a proposed restraining order that the company warns…",
+  "summary": "A federal judge has rejected the Commodity Futures Trading Commission's second emergency attempt to block New York's enforcement action against Kalshi , leaving the prediction market operator facing a November 23 hearing over a proposed restraining order that the company warns…",
   "image": "https://financefeeds.com/wp-content/uploads/2026/10/Kalshi-Goes-Live-With-a-Product-US-Brokers-Wont-Ignore-760x428.jpg",
   "section": "regulation",
   "also": [],
