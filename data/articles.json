@@ -1,5 +1,83 @@
 [
  {
+  "id": "8d15dc0340cd",
+  "title": "AMD Faces Allegations of Supplying Firmware to…",
+  "link": "https://financefeeds.com/amd-faces-allegations-of-supplying-firmware-to-u-s-blacklisted-chinese-firm/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-22T14:02:24Z",
+  "summary": "AMD Faces Investor Investigations Over China Firmware Allegations Advanced Micro Devices (NASDAQ: AMD) is facing shareholder-law-firm investigations after a short-seller report alleged that updated AMD server firmware continued reaching a Chinese manufacturer subject to US…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/amd-stock-openai-meta-warrants-dilution-760x428.jpg",
+  "section": "regulation",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "ffae009bc0b1",
+  "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+  "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-22T14:00:00Z",
+  "summary": "Quantum computers can’t break Bitcoin network’s security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/aeeabe28669425a95b4918b55a4680c3e968c1c7-6002x4001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "1cb559626b9c",
+  "title": "Gold Price Today $3,538: 60% of Wall Street Sees Lower",
+  "link": "https://financefeeds.com/gold-price-today-3538-sunday-week-ahead-thanksgiving-december-fed-hike-odds-bull-3700-bear-3430/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-22T13:14:56Z",
+  "summary": "Updated 22 November 2026, 13:30 GMT. Spot gold last traded near $3,537.90 an ounce at 5 p.m. ET on Friday 20 November, down 2.38 percent on the day after a low of $3,502.93, its weakest since September 2025 (Kitco). Spot trading reopens on Sunday evening, US time. In Kitco's…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/gold-price-4286-bull-4750-bear-3850-bullion-0926-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "8fd0df31d461",
+  "title": "Intel Stock $51: HP and Dell Results Test PC Demand Tuesday",
+  "link": "https://financefeeds.com/intel-intc-stock-51-sunday-week-ahead-hp-dell-results-thanksgiving-bull-56-bear-48/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-22T13:14:33Z",
+  "summary": "Updated 22 November 2026, 13:30 GMT. Intel (NASDAQ: INTC) last closed at $51.28 on Friday 20 November, down 7.97 percent on the day and about 14 percent on the week, then traded at $53.00 after hours (StockAnalysis). The first company-specific test of the new week lands on…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/intel-headquarters-santa-clara-2023-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "5e5d825d839b",
   "title": "Cyber Investigates $1 Million Bridge Exploit as Upbit and…",
   "link": "https://financefeeds.com/cyber-investigates-1-million-bridge-exploit-as-upbit-and-bithumb-freeze-transfers/",
