@@ -1,5 +1,85 @@
 [
  {
+  "id": "947430daaa3e",
+  "title": "ADGM’s FSRA Warns Nour Partners Is Neither Licensed…",
+  "link": "https://financefeeds.com/adgms-fsra-warns-nour-partners-is-neither-licensed-nor-incorporated/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-22T18:30:25Z",
+  "summary": "ADGM Warns Nour Partners Never Held Financial Services Authorization Abu Dhabi Global Market's Financial Services Regulatory Authority (FSRA) has warned that Nour Partners, a website promoting institutional investment and fund-management infrastructure, has never been authorized…",
+  "image": "https://financefeeds.com/wp-content/uploads/2021/08/Abu-Dhabi-760x428.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Middle East & Africa"
+  ]
+ },
+ {
+  "id": "fbc13e999f6a",
+  "title": "AI research tools company BridgeWise files for TASE IPO",
+  "link": "https://fxnewsgroup.com/forex-news/platforms/ai-research-tools-company-bridgewise-files-for-tase-ipo/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-22T18:29:32Z",
+  "summary": "Brokers offering BridgeWise AI tools include etoro, Rakuten Securities, E*Trade, Interactive Brokers, and AvaTrade.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/BridgeWise-AI-research-platform.png",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "548b7ba0f38e",
+  "title": "BridgeWise Files for a Tel Aviv IPO Instead of Crossing the Atlantic: Report",
+  "link": "https://www.financemagnates.com/forex/bridgewise-files-for-a-tel-aviv-ipo-instead-of-crossing-the-atlantic-report/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-22T18:12:40Z",
+  "summary": "Israeli fintech BridgeWise has filed a prospectus for an initial public offering on the Tel Aviv Stock Exchange, Globes reported today (Sunday). The move came after the company, which develops artificial intelligence tools for investment analysis, has raised $46.6 million from…",
+  "image": "https://images.financemagnates.com/images/A%20screenshot%20of%20BridgeWise%27s%20website_id_303e20b2-af84-441a-97d7-e5939a778045_size900.jpeg",
+  "section": "deals",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "1408adbbd35a",
+  "title": "Bank of Russia Restricts Cifra Broker Client Trades in…",
+  "link": "https://financefeeds.com/bank-of-russia-restricts-cifra-broker-client-trades-in-wider-market-action/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-22T17:35:17Z",
+  "summary": "The Bank of Russia has ordered Cifra Broker LLC to suspend submitting orders and executing transactions on organized markets for certain customers, as part of a wider set of trading restrictions issued to Russian securities intermediaries and exchanges on November 20, 2026. The…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/08/Bank-of-Russia.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
   "id": "0a38d5314c77",
   "title": "Backward Hat Capital Accused of Raising $560 Million…",
   "link": "https://financefeeds.com/backward-hat-capital-accused-of-raising-560-million-through-fake-fx-returns/",
@@ -30964,24 +31044,6 @@
   "assets": [
    "Equities",
    "Wealth"
-  ],
-  "regions": [
-   "Americas"
-  ]
- },
- {
-  "id": "39a27e3d1e76",
-  "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
-  "link": "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
-  "source": "SEC",
-  "feed": "SEC",
-  "published": "2026-09-23T18:27:00Z",
-  "summary": "The Securities and Exchange Commission’s Division of Economic and Risk Analysis (DERA) published updated statistics and data visualizations covering key segments of the U.S. capital markets, including a notable increase in the number of initial public…",
-  "image": "",
-  "section": "regulation",
-  "also": [],
-  "assets": [
-   "Equities"
   ],
   "regions": [
    "Americas"
