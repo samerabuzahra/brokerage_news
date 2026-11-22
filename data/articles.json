@@ -1,5 +1,48 @@
 [
  {
+  "id": "0a38d5314c77",
+  "title": "Backward Hat Capital Accused of Raising $560 Million…",
+  "link": "https://financefeeds.com/backward-hat-capital-accused-of-raising-560-million-through-fake-fx-returns/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-22T16:27:24Z",
+  "summary": "SEC and CFTC Freeze Assets in $560 Million Forex Fraud Case US securities and derivatives regulators have secured an emergency asset freeze against Indiana-based Backward Hat Capital and its co-founders, Phillip Williams and Devin Johnson, over an alleged foreign-exchange…",
+  "image": "https://financefeeds.com/wp-content/uploads/2016/04/Charles_Ponzi.jpg",
+  "section": "regulation",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "c77093edc63b",
+  "title": "Payoneer Wins Conditional OCC Approval to Establish PAYO…",
+  "link": "https://financefeeds.com/payoneer-wins-conditional-occ-approval-to-establish-payo-digital-bank/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-22T15:35:53Z",
+  "summary": "Payoneer has received preliminary conditional approval from the Office of the Comptroller of the Currency (OCC) to establish PAYO Digital Bank, N.A., advancing its plans to issue a dollar-backed stablecoin and bring custody and cross-border payment services under federal banking…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/02/Payoneer-Enters-Growing-List-of-Fintech-Firms-Pursuing-US-Banking-Licenses-760x428.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "8d15dc0340cd",
   "title": "AMD Faces Allegations of Supplying Firmware to…",
   "link": "https://financefeeds.com/amd-faces-allegations-of-supplying-firmware-to-u-s-blacklisted-chinese-firm/",
@@ -30934,24 +30977,6 @@
   "feed": "SEC",
   "published": "2026-09-23T18:27:00Z",
   "summary": "The Securities and Exchange Commission’s Division of Economic and Risk Analysis (DERA) published updated statistics and data visualizations covering key segments of the U.S. capital markets, including a notable increase in the number of initial public…",
-  "image": "",
-  "section": "regulation",
-  "also": [],
-  "assets": [
-   "Equities"
-  ],
-  "regions": [
-   "Americas"
-  ]
- },
- {
-  "id": "35a013716383",
-  "title": "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
-  "link": "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement",
-  "source": "SEC",
-  "feed": "SEC",
-  "published": "2026-09-23T16:00:00Z",
-  "summary": "The Securities and Exchange Commission today charged CMI Capital LLC and its founder and manager, Michael D. Williams, for an alleged fraudulent investment scheme that raised approximately $860,000 from at least 18 investors, many of whom are current or…",
   "image": "",
   "section": "regulation",
   "also": [],
