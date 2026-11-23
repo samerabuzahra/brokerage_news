@@ -1,5 +1,435 @@
 [
  {
+  "id": "f5c01c1acd17",
+  "title": "Dutch Regulator Finds AI Chatbots Tend to Agree With Users on Money Questions",
+  "link": "https://www.financemagnates.com/forex/analysis/dutch-regulator-finds-ai-chatbots-tend-to-agree-with-users-on-money-questions/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-23T11:07:24Z",
+  "summary": "About one in seven Dutch adults used generative AI for help with money matters over the past year, the Dutch Authority for the Financial Markets (AFM) said today (Monday). The regulator said chatbots tend to agree with their users, which can reinforce mistaken beliefs. The 14%…",
+  "image": "https://images.financemagnates.com/images/ChatGPT%20%28shutterstock%29_id_cfe4ce78-db97-4424-852e-e7af0d60cb9f_size900.jpg",
+  "section": "regulation",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "fac71361699d",
+  "title": "Franklin Templeton names Nicolas Gomez to lead Latin American business",
+  "link": "https://www.privatebankerinternational.com/news/franklin-templeton-latin-american-lead/",
+  "source": "Private Banker International",
+  "feed": "Private Banker International",
+  "published": "2026-11-23T11:00:39Z",
+  "summary": "Gomez will lead regional commercial expansion, and delivering public, private, and ETF solutions to institutional and wealth clients.",
+  "image": "https://www.privatebankerinternational.com/wp-content/uploads/sites/5/2026/11/ft-shutterstock_2559300161-3.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "629e937091a8",
+  "title": "Salesforce Vets Launch Traversive to Connect Advisors' Front, Back Offices",
+  "link": "https://www.wealthmanagement.com/artificial-intelligence/two-fintech-veterans-launch-traversive-to-unify-wealth-data",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-23T11:00:00Z",
+  "summary": "Ilan Davidovici and Jeff To are building a multi-custodial, AI-native platform designed to streamline operations and give advisors a unified view across custodians.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt81a6052b10d0b01c/6b0098706a4857da3e1282b5/traversive-ilan-jeff.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "364dee19cdb6",
+  "title": "FINMA to streamline supervision of portfolio managers and trustees",
+  "link": "https://www.privatebankerinternational.com/news/finma-portfolio-managers-supervision/",
+  "source": "Private Banker International",
+  "feed": "Private Banker International",
+  "published": "2026-11-23T10:58:43Z",
+  "summary": "From 2027, FINMA will consider applications for changes subject to licensing without a preliminary review by supervisory organisations (SOs).",
+  "image": "https://www.privatebankerinternational.com/wp-content/uploads/sites/5/2026/11/finma-shutterstock_2590102275.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "24b5cbce686d",
+  "title": "Who Else Pays Your People? A Look Inside DEVIATIC",
+  "link": "https://financefeeds.com/deviatic-review-who-else-pays-your-people/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T10:51:02Z",
+  "summary": "A new on-chain tool for Forex and CFD brokers answers a question most compliance teams have never been asked: who, apart from the broker, is paying its staff, partners and clients. Picture an introducing broker on an exclusive deal. A higher CPA, a better rebate tier, a…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/deviatic-exclusive-on-paper-760x428.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "08ad537a1f10",
+  "title": "Wei Sheng's Modus Group Partners Bursa-Listed FSBM on AI",
+  "link": "https://www.financemagnates.com/thought-leadership/wei-shengs-modus-group-partners-bursa-listed-fsbm-on-ai/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-23T10:50:25Z",
+  "summary": "Malaysian entrepreneur Soh Wei Sheng's Modus Group has partnered with Bursa Malaysia-listed FSBM Holdings Berhad to launch FSBM Academy, an AI education platform for small and medium-sized enterprises (SMEs). FSBM and Modus AI Sdn Bhd signed the strategic partnership agreement…",
+  "image": "https://images.financemagnates.com/images/TL%3BDR%3A%20Modus%20Group%20%26%20FSBM%20partner%20to%20launch%20FSBM%20Academy%20for%20Malaysian%20SME%20AI%20education._id_b3fe28a2-45e8-4de0-845e-0888fed3730e_size900.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "e73fa8c7496c",
+  "title": "Julius Baer ten-month adjusted pre-tax profit rises 17% on AuM growth",
+  "link": "https://www.privatebankerinternational.com/news/julius-baer-ten-month-profit-aum/",
+  "source": "Private Banker International",
+  "feed": "Private Banker International",
+  "published": "2026-11-23T10:43:44Z",
+  "summary": "The asset base expanded 6% from the end of 2025, buoyed by net new money of SFr8.5bn, despite ongoing portfolio de-risking.",
+  "image": "https://www.privatebankerinternational.com/wp-content/uploads/sites/5/2026/11/jb-shutterstock_2725885167.jpg",
+  "section": "deals",
+  "also": [
+   "wealth"
+  ],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "2daf786773f8",
+  "title": "Why ‘unusual’ trust conditions can fail, and how advisors can help",
+  "link": "https://www.financial-planning.com/news/why-unusual-trust-conditions-can-fail-and-how-advisors-can-help",
+  "source": "Financial Planning",
+  "feed": "Financial Planning",
+  "published": "2026-11-23T10:30:00Z",
+  "summary": "Some clients want to add conditions to their trust distributions, such as work or marriage rules. Experts discussed how advisors can help clients safeguard their intent.",
+  "image": "https://www.financial-planning.com/wp-content/uploads/sites/8/2026/11/Trust-expert-trio.png?resize=1200,675",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "82bd8206cf2a",
+  "title": "US Crypto ETFs Extend Weekly Selloff as Bitcoin and…",
+  "link": "https://financefeeds.com/us-crypto-etfs-extend-weekly-selloff-as-bitcoin-and-ethereum-funds-face-continued-withdrawals/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T10:29:34Z",
+  "summary": "US spot cryptocurrency exchange-traded funds continued to experience selling pressure on Friday, November 20, 2026, as Bitcoin, Ethereum and Solana investment products recorded further withdrawals amid a broader digital asset market downturn. According to Farside Investors…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/Bitcoin-ETFs-Streak-Four-Inflow-Days-Into-the-Binance-Hack.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "7e31d0f56692",
+  "title": "Italy’s CONSOB blocks 11 websites of unauthorized investment firms",
+  "link": "https://fxnewsgroup.com/forex-news/regulatory/italys-consob-blocks-11-websites-of-unauthorized-investment-firms/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-23T10:24:23Z",
+  "summary": "Italy’s Companies and Exchange Commission (CONSOB) announced today it has issued orders for the blocking of access to 11 websites belonging to unauthorized investment firms.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2020/05/CONSOB-Italy.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "1289dd5b6dd4",
+  "title": "Elev8 broker receives the ‘Best Trading…",
+  "link": "https://financefeeds.com/elev8-broker-receives-leaprate-best-trading-platform-award/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T10:20:09Z",
+  "summary": "Elev8, a global CFD broker, has won the 'Best Trading Platform' award at the LeapRate Awards 2026. Elev8Trader is LeapRate's Best Trading Platform 2026 LeapRate, an online publication on trading, has recently announced the winners of its 2026 broker awards. Elev8 broker earned…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/elev8-leaprate-best-trading-platform-award-2026-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Middle East & Africa"
+  ]
+ },
+ {
+  "id": "d717e32ddb97",
+  "title": "HK regulator issues restriction notice to DA YUE Financial Group Limited",
+  "link": "https://fxnewsgroup.com/forex-news/regulatory/hk-regulator-issues-restriction-notice-to-da-yue-financial-group-limited/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-23T10:15:37Z",
+  "summary": "The Hong Kong Securities and Futures Commission (SFC) has issued a restriction notice to DA YUE Financial Group Limited (DYFGL).",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2020/06/hong-kong-forex.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "f590a026a1c6",
+  "title": "Trump Meme Coin Organizers Offer 18-Karat Gold Watches to…",
+  "link": "https://financefeeds.com/trump-meme-coin-organizers-offer-18-karat-gold-watches-to-top-four-holders-as-token-falls-below-1/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T10:14:23Z",
+  "summary": "Organizers of President Donald Trump's official meme coin have offered 18-karat gold watches to the four highest-ranked qualifying holders of the TRUMP token, as part of an exclusive investor rewards program tied to a November 22, 2026, gala in Virginia. According to the…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Trump-Denies-Role-in-World-Liberty-Financial-760x428.webp",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "4b0b74c47e48",
+  "title": "South Korea Tightens Oversight of Crypto Transfers to…",
+  "link": "https://financefeeds.com/south-korea-tightens-oversight-of-crypto-transfers-to-high-risk-overseas-exchanges-and-personal-wallets/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T10:14:19Z",
+  "summary": "South Korea's financial authorities have announced plans to strengthen oversight of cryptocurrency transfers from domestic exchanges to high-risk overseas trading platforms and personal wallets, expanding efforts to prevent money laundering and the movement of illicit funds…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/South-Koreas-Crypto-Exchanges-See-Profits-Collapse-78-760x428.jpg",
+  "section": "digital",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "3d9c2d1679fd",
+  "title": "Payoneer wins OCC conditional approval for stablecoin bank",
+  "link": "https://www.leaprate.com/regulation/payoneer-wins-occ-conditional-approval-for-stablecoin-bank/",
+  "source": "LeapRate",
+  "feed": "LeapRate",
+  "published": "2026-11-23T09:59:23Z",
+  "summary": "The OCC has granted Payoneer preliminary conditional approval for PAYO Digital Bank, a New York trust bank that would issue the PAYO-USD stablecoin, with an $8.0m capital floor and no opening until final approval. The post Payoneer wins OCC conditional approval for stablecoin…",
+  "image": "",
+  "section": "digital",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "1420f46b897c",
+  "title": "Share the name, keep your history: AmericanFortress™ comes…",
+  "link": "https://financefeeds.com/americanfortress-fortressnames-arbitrum/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T09:57:34Z",
+  "summary": "FortressNames open in a dedicated Arbitrum namespace this week. The idea: a payment name anyone can share, with nothing behind it for a stranger to read. Anyone who has been paid on Arbitrum knows the ritual. You copy a long string of letters and numbers, paste it into a chat…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/americanfortress-fortressnames-arbitrum-760x428.png",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "5e42bfcc5ca3",
+  "title": "Marex Starts Cross-Border Payments Business After FCA Approval",
+  "link": "https://www.financemagnates.com/fintech/payments/marex-starts-cross-border-payments-business-after-fca-approval/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Fintech",
+  "published": "2026-11-23T09:52:00Z",
+  "summary": "Marex launched a cross-border payments business today (Monday) after the UK Financial Conduct Authority (FCA) authorized its London unit to provide payment services. The service is designed to send money in more than 150 currencies, the company said. It targets banks, corporates…",
+  "image": "https://images.financemagnates.com/images/Marex%20revenue%202021_id_36fd8dfb-bc87-42f7-96ce-fa44eac47340_size900.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "5a1cea16de9f",
+  "title": "Elev8 broker receives the 'Best Trading Platform' award from LeapRate",
+  "link": "https://www.financemagnates.com/thought-leadership/elev8-broker-receives-the-best-trading-platform-award-from-leaprate/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-23T09:49:34Z",
+  "summary": "Elev8Trader is LeapRate's Best Trading Platform 2026 LeapRate, an online publication on trading, has recently announced the winners of its 2026 broker awards. Elev8 broker earned the 'Best Trading Platform' accolade. According to Elev8 broker, its platform, Elev8Trader, is a…",
+  "image": "https://images.financemagnates.com/images/LeapRate%20Awards%202026_id_e9750507-8ff2-43e8-b760-21c57cef4294_size900.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Middle East & Africa"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "314fc052bd62",
+  "title": "U.S. inflation, Thanksgiving trading: Crypto Week Ahead",
+  "link": "https://www.coindesk.com/markets/2026/11/23/u-s-inflation-thanksgiving-trading-crypto-week-ahead",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-23T09:40:25Z",
+  "summary": "Your look at what’s coming in the week starting Nov. 23.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/c77d41c0d74604ff4a44aa8ef2e69a7d40822c15-4000x2250.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "ff68a8648b07",
+  "title": "Ashton Kutcher’s Sound Ventures Holds $7 Billion…",
+  "link": "https://financefeeds.com/ashton-kutchers-sound-ventures-holds-7-billion-anthropic-stake-but-how-much-belongs-to-him/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T09:38:44Z",
+  "summary": "Ashton Kutcher 's early investment in artificial intelligence developer Anthropic has become one of the most prominent venture capital success stories surrounding the company's record-breaking initial public offering. However, the approximately $7 billion holding associated with…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Anthropics-Day-One-Valuation-Splits-Three-Ways-Past-1-Trillion-760x428.jpeg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "eaec3b14759a",
+  "title": "Tom Lee’s Market Bottom Call Faces 8.6% S&P 500…",
+  "link": "https://financefeeds.com/tom-lees-market-bottom-call-faces-8-6-sp-500-weekly-decline-as-8200-target-requires-18-7-rebound/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T09:38:38Z",
+  "summary": "Fundstrat co-founder Tom Lee's bullish outlook for US equities faces renewed scrutiny after the S&P 500 plunged 8.6% during the week ended November 20, 2026, entering correction territory despite his earlier assessment that the technology sector was approaching a market bottom…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/SP-500-Surges-2.35-in-Broad-Rally-But-Nvidia-Sits-Out-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "d402d49fdc20",
+  "title": "Inside JAFX: the broker that built its own AI terminal",
+  "link": "https://financefeeds.com/inside-jafx-broker-built-own-ai-terminal/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T09:37:29Z",
+  "summary": "The usual way to stand up a retail CFD brokerage is well worn: rent a white-label trading platform, put a logo on it, and compete on marketing. The platform decides what clients see, when features arrive and what any AI layer can touch. JAFX took the other road. It describes…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/jafx-ai-native-broker-terminal-760x428.jpg",
+  "section": "tech",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Middle East & Africa"
+  ]
+ },
+ {
   "id": "c21be113dc51",
   "title": "Brokers Can Now Add Fractional Bonds to MetaTrader 5 via FXCubic",
   "link": "https://www.financemagnates.com/forex/technology/brokers-can-now-add-fractional-bonds-to-metatrader-5-via-fxcubic/",
