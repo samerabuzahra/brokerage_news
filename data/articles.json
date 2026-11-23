@@ -1,5 +1,134 @@
 [
  {
+  "id": "e2ada324783b",
+  "title": "As 'era of scarcity' unfolds, real assets increasingly important: Cohen & Steers",
+  "link": "https://www.investmentnews.com/alternatives/as-era-of-scarcity-unfolds-real-assets-increasingly-important-cohen-steers/269140",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-23T23:01:00Z",
+  "summary": "“It's creating a very different opportunity today for real assets,” said Alex Berg of Cohen & Steers.",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/jame_639310681529889284.png",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "fb49d7aa657f",
+  "title": "To save time and money, brokerages can plead their cases to an AI arbitrator",
+  "link": "https://www.financial-planning.com/news/to-save-time-and-money-brokerages-can-plead-their-cases-to-an-ai-arbitrator",
+  "source": "Financial Planning",
+  "feed": "Financial Planning",
+  "published": "2026-11-23T22:21:07Z",
+  "summary": "The American Arbitration Association is offering its AI arbitrator for use in the financial services industry. Will firms embrace a nonhuman decision-maker if it’s faster and cheaper?",
+  "image": "https://www.financial-planning.com/wp-content/uploads/sites/8/2026/11/flourish-visualisation-31014445-5c8b34d939f601d7.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "b38a62a3f1f7",
+  "title": "CFTC Staff Issues Advisory Concerning the Use of Crypto Assets to Satisfy Financial Resources Requirements",
+  "link": "https://www.cftc.gov/PressRoom/PressReleases/9331-26",
+  "source": "CFTC",
+  "feed": "CFTC",
+  "published": "2026-11-23T22:00:00Z",
+  "summary": "",
+  "image": "",
+  "section": "regulation",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "e603940081b6",
+  "title": "Waters Wavelength Ep. 361: Who keeps the lights on?",
+  "link": "https://www.waterstechnology.com/emerging-technologies/7953363/waters-wavelength-ep-361-who-keeps-the-lights-on",
+  "source": "WatersTechnology",
+  "feed": "WatersTechnology",
+  "published": "2026-11-23T21:31:22Z",
+  "summary": "",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "94d74366e5c4",
+  "title": "Athlete family office RISE taps RIA led by ex-NFLer Winston Justice",
+  "link": "https://www.investmentnews.com/ria-news/athlete-family-office-rise-taps-ria-led-by-ex-nfler-winston-justice/269138",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-23T21:17:30Z",
+  "summary": "Former NFL offensive tackle Winston Justice's $2 billion RIA will advise RISE Family Office's football-heavy athlete roster, which includes Jacksonville Jaguars safety Jessie Bates III",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/andr_639310622869858304.png",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "2f45111411bb",
+  "title": "Bitcoin at $17K: How Kraken Avoided Saxo’s 2015 Repricing Trap",
+  "link": "https://www.financemagnates.com/cryptocurrency/exchange/bitcoin-at-17k-why-krakens-flash-crash-avoided-saxos-2015-repricing-trap/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Crypto",
+  "published": "2026-11-23T21:12:54Z",
+  "summary": "Kraken let deeply discounted BTC/CAD trades stand, leaving buyers and sellers with the prices at which their orders matched. After the 2015 Swiss franc shock, Saxo Capital Markets UK made a different choice: it changed prices already confirmed to clients. The disputes that…",
+  "image": "https://images.financemagnates.com/images/Kraken%20%28shutterstock%29_id_76a436ed-c215-4675-98cf-9f73b721f795_size900.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "6db8d9a75ae3",
+  "title": "CFTC Publishes Final Rule Concerning Data Reporting Requirements for Certain Event Contracts",
+  "link": "https://www.cftc.gov/PressRoom/PressReleases/9330-26",
+  "source": "CFTC",
+  "feed": "CFTC",
+  "published": "2026-11-23T21:00:00Z",
+  "summary": "",
+  "image": "",
+  "section": "regulation",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "40effcd10196",
   "title": "Why the next fight in a top-heavy RIA channel will be around the service menu",
   "link": "https://www.financial-planning.com/news/why-the-next-fight-in-a-top-heavy-ria-channel-will-be-around-the-service-menu",
@@ -33,6 +162,24 @@
   ],
   "regions": [
    "Global"
+  ]
+ },
+ {
+  "id": "0195bcdc0de4",
+  "title": "Advisor moves: LPL lands $605M El Paso team as Merrill adds three",
+  "link": "https://www.investmentnews.com/independent-broker-dealers/advisor-moves-lpl-lands-605m-el-paso-team-as-merrill-adds-three/269139",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-23T20:54:24Z",
+  "summary": "Merrill recruits from Morgan Stanley and Janney as Janney adds an RBC veteran to a Maryland wealth management team now overseeing more than $800M",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/leoa_639310647342580214.png",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
   ]
  },
  {
@@ -192,6 +339,24 @@
   ],
   "regions": [
    "Global"
+  ]
+ },
+ {
+  "id": "9a17bdad3d56",
+  "title": "DOL Revives Effort to Curb ESG in Retirement Plans",
+  "link": "https://www.wealthmanagement.com/regulation-compliance/dol-proposes-rule-to-curb-esg-in-retirement-plans",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-23T19:36:08Z",
+  "summary": "The DOL wants to curb ESG considerations in 401(k) investing by scrapping the tiebreaker and participant-preference provisions.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt49cc52643e677ecc/672b97400dc675f87f8e8591/dol-department-of-labor-sign_0.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
   ]
  },
  {
