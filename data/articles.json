@@ -1,5 +1,631 @@
 [
  {
+  "id": "3c3f6860dc74",
+  "title": "Nvidia Market Cap Returns Above $4 Trillion, Passing…",
+  "link": "https://financefeeds.com/nvidia-market-cap-second-microsoft-alphabet/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T17:13:41Z",
+  "summary": "Nvidia’s market cap reached $4.01 trillion around midday ET on 23 November, ahead of Microsoft at $3.71 trillion and Alphabet at $3.45 trillion, according to TradingView’s ranking of the world’s largest companies . Only Apple, at $5.06 trillion, was worth more. Nvidia shares…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/nvidia-headquarters-santa-clara-voyager-sign-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "3cb1314caa96",
+  "title": "The Hidden Pitfalls of Beneficiary Designations",
+  "link": "https://www.wealthmanagement.com/estate-planning/the-hidden-pitfalls-of-beneficiary-designations",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-23T17:09:34Z",
+  "summary": "Beneficiary designations may be quietly overriding the trust your client just paid for.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/bltcc09abd3345c0bab/6734e223a404f4985105db09/dollars-eyes.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "c40b71b32685",
+  "title": "Senate Democratic Leader Schumer Vows Nvidia Investigation…",
+  "link": "https://financefeeds.com/schumer-nvidia-investigation-huang-trump/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T17:02:35Z",
+  "summary": "Senate Democratic Leader Chuck Schumer said on 23 November that Democrats \"will wield their full power to investigate any wrongdoing by the Trump Administration, Jensen Huang, other NVIDIA executives, and anyone selling out our national security for financial gain.\" He made the…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/10/Top-U.S.-Union-Warns-Senate-Crypto-Bill-760x428.webp",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "f379b1c9ca4c",
+  "title": "Mercer Advisors snags Hightower leaders in bicoastal expansion",
+  "link": "https://www.investmentnews.com/ria-news/mercer-advisors-snags-hightower-leaders-in-bicoastal-expansion/269134",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-23T17:02:13Z",
+  "summary": "The mega-RIA's newest managing partners in Seattle and Boston are coming in to develop family offices in the Pacific Northwest and New England markets",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/leoa_638627849220229704.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "bcdcfd9ddea6",
+  "title": "Cathie Wood’s Ark Builds $146 Million Anthropic…",
+  "link": "https://financefeeds.com/cathie-woods-ark-builds-146-million-anthropic-stake-cuts-crypto-etfs/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T17:01:30Z",
+  "summary": "Cathie Wood's Ark Invest accumulated 1.64 million shares of Anthropic during the artificial intelligence company's first two trading sessions on November 19 and 20, building a position valued at approximately $145.9 million while reducing its exposure to Ethereum and Solana…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Anthropics-Day-One-Valuation-Splits-Three-Ways-Past-1-Trillion-760x428.jpeg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "4e1f6848b27d",
+  "title": "Why Singapore Anchors TokenPulse’s Global AI Inference…",
+  "link": "https://financefeeds.com/tokenpulse-singapore-ai-inference-hub/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T17:00:00Z",
+  "summary": "As artificial intelligence transitions from experimental model training to mass-market commercial deployment, the economic center of gravity in enterprise technology has shifted toward inference. Training foundation models require massive, concentrated compute bursts, but…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/tokenpulse-singapore-hub-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "b4823f499fb7",
+  "title": "Trump Dialed Into Nvidia Board Meeting to Push for Huang’s…",
+  "link": "https://financefeeds.com/trump-nvidia-board-meeting-huang-semafor/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T16:56:38Z",
+  "summary": "President Donald Trump dialed into an Nvidia board meeting to argue for Jensen Huang's return, hours before the company reinstated him as CEO, Semafor reported on 23 November, citing people familiar with the matter. The Nvidia board voted unanimously to bring Huang back as…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Donald-Trump-and-Jensen-Huang-760x428.png",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "4261a62b9df4",
+  "title": "Review of Reviews: “Dynamic Guardianship”",
+  "link": "https://www.wealthmanagement.com/estate-planning/review-of-reviews-dynamic-guardianship-",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-23T16:55:45Z",
+  "summary": "James Toomey, Associate Professor of Law, University of Iowa College of Law",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt733c089856b75504/6b04708c2081e44d6526cc72/legal-books-photogl-iStock-Getty_Images.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "fa954b46136c",
+  "title": "Review of Reviews: “The Per Capita Distribution Disconnect: A Blueprint for Reforming the Law of Life Insurance”",
+  "link": "https://www.wealthmanagement.com/estate-planning/review-of-reviews-the-per-capita-distribution-disconnect-a-blueprint-for-reforming-the-law-of-life-insurance-",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-23T16:50:43Z",
+  "summary": "T. Leigh Anenson, Jill M. Bisco, Suzanne M. Gradisher and Jinjing Wang",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt69befb050fcefac6/6b046f69deb79b165402e304/legal-books-photogl-iStock-Getty_Images.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "37ee075b4d40",
+  "title": "Bernstein Upgrades Nvidia to Outperform After Huang’s…",
+  "link": "https://financefeeds.com/bernstein-upgrades-nvidia-price-target-outperform/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T16:46:09Z",
+  "summary": "Bernstein upgraded Nvidia to Outperform from Market Perform on 23 November and kept its Nvidia price target at $200, TradingView News reported. The move reverses the downgrade Bernstein made 11 days earlier, when Jensen Huang’s exit looked likely, and the firm said his departure…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/NVIDIA-Closes-at-a-Record-While-Yields-Flash-a-2002-Signal-760x428.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "365fc91d4990",
+  "title": "Review of Reviews: \"Trust Litigation\"",
+  "link": "https://www.wealthmanagement.com/estate-planning/review-of-reviews-trust-litigation-",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-23T16:45:15Z",
+  "summary": "David Horton, Reid Kress Weisbord and Christopher J. Ryan, Jr.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt71b5e9b6a5982073/6b046e8890975fd2aaf34fde/legal-books-photogl-iStock-Getty_Images.jpg?width=720&quality=80&disable=upscale",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "f3aee77f0ec8",
+  "title": "State Street joins Equilend 1Source DLT platform",
+  "link": "https://www.finextra.com/pressarticle/111764/state-street-joins-equilend-1source-dlt-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-23T16:41:00Z",
+  "summary": "Equilend, the global financial technology, data and analytics company for the securities finance industry, today announced that State Street Corporation (\"State Street\") (NYSE: STT) has signed on to join Equilend 1Source, the distributed ledger technology (DLT) platform built to…",
+  "image": "",
+  "section": "tech",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "c61155293f00",
+  "title": "Klarna expands Visa partnership",
+  "link": "https://www.finextra.com/pressarticle/111763/klarna-expands-visa-partnership?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-23T16:40:00Z",
+  "summary": "Klarna, the everyday finance network, has expanded its partnership with Visa, a world leader in digital payments, giving the merchants using Visa Acceptance Platform access to Klarna’s latest features.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "6cdea3adebfc",
+  "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
+  "link": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-23T16:39:03Z",
+  "summary": "ProShares' rival CoinDesk 20 Crypto ETF (KRYP) holds $1.81 million in assets nearly 10 months post-launch.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b575e5fb400b044ebb5d3c2d88d2a80846eafb-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "931d0d95c083",
+  "title": "Expensify rolls out AI-powered analytics feature",
+  "link": "https://www.finextra.com/pressarticle/111762/expensify-rolls-out-ai-powered-analytics-feature?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-23T16:37:00Z",
+  "summary": "Expensify, Inc. (Nasdaq: EXFY), your AI platform for expenses, corporate cards, and business travel, today announced the launch of Insights, a new AI-powered analytics feature that turns expense data into actionable findings.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "f0fc852baca0",
+  "title": "Review of Reviews: \"Succession Without Status: Rethinking Testamentary Freedom and Family Provision\"",
+  "link": "https://www.wealthmanagement.com/estate-planning/review-of-reviews-succession-without-status-rethinking-testamentary-freedom-and-family-provision-",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-23T16:25:25Z",
+  "summary": "Bridget J. Crawford, Professor of Law, Pace University School of Law",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt4cec7c5d25a6a5ee/6b0469759a6ec4081a213344/legal-books-photogl-iStock-Getty_Images.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "52765646f08d",
+  "title": "ECB Approves Tokenized Securities as Central Bank Loan…",
+  "link": "https://financefeeds.com/ecb-approves-tokenized-securities-as-central-bank-loan-collateral-from-2027/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T16:20:53Z",
+  "summary": "The European Central Bank (ECB) approved an expansion of its collateral framework on November 23, allowing euro-area banks to pledge securities issued on licensed distributed ledger technology (DLT) platforms when borrowing from the Eurosystem. The change is scheduled to take…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/08/ECB-Exposes-How-Few-European-Businesses-Accept-Crypto-760x428.jpg",
+  "section": "regulation",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "0d2160e59cbb",
+  "title": "Review of Reviews: \"Joint Representation of Spouses and Romantic Partners: Ethical Considerations for Estate Planners\"",
+  "link": "https://www.wealthmanagement.com/estate-planning/review-of-reviews-joint-representation-of-spouses-and-romantic-partners-ethical-considerations-for-estate-planners",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-23T16:18:11Z",
+  "summary": "Elizabeth R. Carter, Professor of Law, Louisiana State University Law School",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt53e4e856ba2d1b3f/6b0467c4187d8b28eaba024c/legal-books-photogl-iStock-Getty_Images.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "6ef077ae8237",
+  "title": "SEC Accuses Barred Broker of Stealing $1.5M From Elderly Clients",
+  "link": "https://www.advisorhub.com/sec-accuses-barred-broker-of-stealing-1-5m-from-elderly-clients/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-23T16:17:20Z",
+  "summary": "Former broker induced four elderly clients to liquidate securities, make cash withdrawals and invest the proceeds into a firm he controlled.",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2026/11/ederly.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "d9bf6ea6a45f",
+  "title": "Anthropic IPO: The case for a trillion-dollar valuation is taking shape",
+  "link": "https://www.leaprate.com/markets-macro/anthropic-ipo-trillion-dollar-valuation-case/",
+  "source": "LeapRate",
+  "feed": "LeapRate",
+  "published": "2026-11-23T16:01:25Z",
+  "summary": "Anthropic's $33.2bn nine-month revenue, 85.5% gross margin and positive operating cash flow underpin the case for its $1.27tn valuation; whether growth can justify that price is the harder question. The post Anthropic IPO: The case for a trillion-dollar valuation is taking shape…",
+  "image": "https://www.leaprate.com/wp-content/uploads/2026/11/Anthropic-gross-margin-and-adjusted-operating-margin-scaled.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "d6bd2cb5219f",
+  "title": "Celebrity Estates: How Memoirs Fit Into Estate and Legacy Planning with Luke Palder",
+  "link": "https://www.wealthmanagement.com/estate-planning/celebrity-estates-how-memoirs-fit-into-estate-and-legacy-planning-with-luke-palder",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-23T15:57:00Z",
+  "summary": "Luke Palder talks about preserving family stories and how legacy planning can involve more than distributing money and possessions.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt7c2b5d75cd14d2ac/6b0462e927635972354f48e0/CE_Luke_Palder_1540x800.png?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "6ab0c648719c",
+  "title": "Kraken Lets Bitcoin Trades at $17K Stand After CAD Flash…",
+  "link": "https://financefeeds.com/kraken-lets-bitcoin-trades-at-17k-stand/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T15:49:19Z",
+  "summary": "Kraken 's Bitcoin/Canadian dollar trading pair fell to C$24,250, equivalent to approximately US$16,900 at the Bank of Canada rate, while the exchange's own BTC/USD pair held near US$57,650. The dislocation began around 20:00 UTC on November 20 and lasted until roughly 10:00 UTC…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Kraken-Lets-Bitcoin-Trades-at-17K-Stand-After-CAD-Flash-Crash-718x428.jpeg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "78e77543ccea",
+  "title": "What Are Liquid Staking Tokens? 6 Examples Explained",
+  "link": "https://financefeeds.com/what-are-liquid-staking-tokens-examples/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T15:47:56Z",
+  "summary": "Staking is a core part of how proof-of-stake blockchains work. It lets crypto holders earn rewards while helping keep their networks secure. But traditional staking has a catch: once your assets are staked, you usually can’t trade, lend, or do anything else with them until you…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/09/Ethereum-Staking.webp",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "d1914ba0b1ef",
+  "title": "Massive Wallet Drainer Network Targets XRP and TRON Users…",
+  "link": "https://financefeeds.com/massive-wallet-drainer-network-targets-xrp/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T15:45:48Z",
+  "summary": "Cybersecurity firm TrustSniffer has traced 178 suspicious websites targeting XRP and TRON users to five shared collection domains and one Cloudflare Worker. The sites send visitor data to this common infrastructure, linking them to the same toolkit, although TrustSniffer did not…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Massive-Wallet-Drainer-Network-Targets-XRP-and-TRON-Users-Across-178-Sites-760x428.webp",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "9b66ce32efdc",
+  "title": "Wealth Management Invest: Evaluating SMAs with Dimensional’s Kacie (Walsh) Jason",
+  "link": "https://www.wealthmanagement.com/smas/wealth-management-invest-evaluating-smas-with-dimensional-s-kacie-walsh-jason",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-23T15:42:20Z",
+  "summary": "Dimensional Fund Advisors Kacie (Walsh) Jason describes the importance of the expanding role of SMAs in client portfolios.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/bltcb0af5effc5866b2/6b045f1a0afab30b2b85a234/WMInvest_Kacie_(Walsh)_Jason_1540x800.png?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "48f763d98798",
+  "title": "Pump.fun Faces Backlash Over Private Key Requirement in…",
+  "link": "https://financefeeds.com/pump-fun-wallet-private-key-security-concerns/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T15:40:45Z",
+  "summary": "Pump.fun will retire external wallet sign-in on its web platform on November 30, requiring users who want to retain their existing accounts to import their wallet private keys. The change has drawn criticism from former Mt. Gox CEO Mark Karpelès, who questioned how the platform…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/03/Pump.fun-Introduces-One-Time-Cap-on-Creator-Fee-Redirects-to-Limit-Post-Launch-Changes-760x420.webp",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "c276b76610dd",
+  "title": "Payoneer scores preliminarily OCC approval for stablecoin bank",
+  "link": "https://www.finextra.com/newsarticle/48798/payoneer-scores-preliminarily-occ-approval-for-stablecoin-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-23T15:39:00Z",
+  "summary": "Cross-border payments firm Payoneer has received preliminary conditional approval from US regulators to form a stablecoin national trust bank.",
+  "image": "",
+  "section": "digital",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "3e8755b992c1",
+  "title": "Japan Uncovers ¥3.9 Billion in Undeclared Crypto Income…",
+  "link": "https://financefeeds.com/japan-uncovers-%c2%a53-9-billion-in-undeclared-crypto-income-across-91-audits/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T15:36:52Z",
+  "summary": "Japan is preparing to intensify cryptocurrency tax audits after the Tokyo Regional Taxation Bureau identified more than ¥3.9 billion ($24.5 million) in undeclared income among 91 crypto users, resulting in approximately ¥1.2 billion ($7.5 million) in additional tax…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/05/Japans-LDP-Tokenization-and-Yen-Stablecoin-760x428.png",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "28960a6729f5",
+  "title": "Nvidia Reinstates Jensen Huang as CEO After 11 Days, Shares Surge 33%",
+  "link": "https://www.financemagnates.com/forex/nvidia-reinstates-jensen-huang-as-ceo-after-11-days-shares-surge-33/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-23T15:36:24Z",
+  "summary": "Nvidia has reinstated Jensen Huang as chief executive officer, effective immediately today (Monday), following calls from US President Donald Trump for his return. Huang resigned on November 12. London's trading industry is coming home! Nvidia shares surged 33% following the…",
+  "image": "https://images.financemagnates.com/images/Jensen%20Huang%20NVIDIA%27s%20Founder%2C%20President%20and%20CEO%2C%20during%20a%20News%20event%20in%20Taipei%20%28shutterstock%29_id_2938bc13-1b8e-459b-8455-40d884923331_size900.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "d1162b170ca7",
+  "title": "Fidelity Q3 data: 401(k) balances dip but savers hold their ground",
+  "link": "https://www.investmentnews.com/retirement-planning/fidelity-q3-data-401k-balances-dip-but-savers-hold-their-ground/269131",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-23T15:30:44Z",
+  "summary": "IRA and 403(b) balances eased too, while SECURE 2.0 data shows sponsors taking a selective approach to optional plan features",
+  "image": "https://cdn-res.keymedia.com/investmentnews/uploads/2021/08/retirement-401k-ira-roth.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "dc4de0d42f28",
+  "title": "Views from 6,230: Can Investors Trust Prediction Markets?",
+  "link": "https://www.wealthmanagement.com/investing-strategies/views-from-6-230-can-investors-trust-prediction-markets-",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-23T15:25:56Z",
+  "summary": "Solidus Labs' Asaf Meir discusses prediction markets, real-time surveillance and how technology is reshaping investing.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt69e08a743f4fc88d/6b045b2b4757ae5398b69fcb/Asaf_Meir_Thumbnail.png?width=720&quality=80&disable=upscale",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "4c96392cd498",
+  "title": "Stablecoin FX platform Codex raises $30m",
+  "link": "https://www.finextra.com/newsarticle/48797/stablecoin-fx-platform-codex-raises-30m?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-23T15:21:00Z",
+  "summary": "Codex has raised $30 million in Series A funding for its platform that enables businesses to convert, receive, and send fiat currencies and stablecoins at institutional FX rates.",
+  "image": "",
+  "section": "digital",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "431842f2debe",
+  "title": "Exclusive: Velocity Trade hires MFP/Scope Prime alum Olivia Mottershead for Prime Sales",
+  "link": "https://fxnewsgroup.com/forex-news/executives/exclusive-velocity-trade-hires-mfp-scope-prime-alum-olivia-mottershead-for-prime-sales/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-23T15:12:41Z",
+  "summary": "Olivia Mottershead joins Velocity Trade after serving as Director of Sales - Prime of Prime at MFP Trading for the past two and a half years.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2024/09/Olivia-Mottershead-MFP-Trading.jpg",
+  "section": "people",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
   "id": "ab950cd14f06",
   "title": "Visa Launches AI Agent Wallets That Earn Stablecoins",
   "link": "https://financefeeds.com/visa-launches-ai-agent-wallets-that-earn/",
@@ -685,7 +1311,7 @@
  },
  {
   "id": "df5c3d4d3830",
-  "title": "Live updates: Bitcoin climbs above $63,000 as Nasdaq soars 6% on Huang return",
+  "title": "Live updates: Bitcoin climbs to $62,000 as Nasdaq soars 6% on Huang return",
   "link": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
   "source": "CoinDesk",
   "feed": "CoinDesk",
@@ -3547,6 +4173,42 @@
   ]
  },
  {
+  "id": "7d700c9ee6f6",
+  "title": "Drafting for Agent Appointments And Fiduciaries",
+  "link": "https://www.wealthmanagement.com/estate-planning/drafting-for-agent-appointments-and-fiduciaries",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-20T21:37:15Z",
+  "summary": "Litigation-focused considerations",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/bltd8d1331b434cb651/6b0466ba5928535aec5ca681/power-of-attorney-designer491-iStock-Getty-Images.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "c55b204d9bb8",
+  "title": "The Liability of the “Innocent” Co-trustee",
+  "link": "https://www.wealthmanagement.com/estate-planning/the-liability-of-the-innocent-co-trustee",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-20T21:23:49Z",
+  "summary": "When dissent isn’t enough",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt81bb01be1e2ad343/6b0466f1f6050a4d88166a96/trustee-designer491-iStock-Getty-Images.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "eefae03f3864",
   "title": "Why referrals are bank-based advisors’ best friends and worst enemies",
   "link": "https://www.financial-planning.com/news/why-referrals-are-bank-based-advisors-best-friends-and-worst-enemies",
@@ -3555,6 +4217,24 @@
   "published": "2026-11-20T21:18:22Z",
   "summary": "Cerulli Associates finds that many advisors still join banks to gain client referrals. But that source of business is starting to dry up, and could lead to costly litigation in time.",
   "image": "https://www.financial-planning.com/wp-content/uploads/sites/8/2026/11/flourish-visualisation-30988117-d7148f01ad2fd952.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "e826461fa1f5",
+  "title": "The Slow, but Steady, Defanging of In Terrorem Clauses",
+  "link": "https://www.wealthmanagement.com/estate-planning/the-slow-but-steady-defanging-of-in-terrorem-clauses",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-20T21:15:43Z",
+  "summary": "New York’s highest court bends over backward to avoid forfeiture",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt79f5a7c1e49a11e3/6b04663390975fbfacf34fbf/new-york-court-of-appeals-Barry-Winiker-The-Image-Bank-Getty-Images.jpg?width=720&quality=80&disable=upscale",
   "section": "wealth",
   "also": [],
   "assets": [
@@ -4381,6 +5061,24 @@
   ]
  },
  {
+  "id": "ccf1e3a12b8f",
+  "title": "Proposed Regulations and the Pro Rata Share Rule for CFCs: Part II",
+  "link": "https://www.wealthmanagement.com/estate-planning/proposed-regulations-and-the-pro-rata-share-rule-for-cfcs-part-ii",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-20T16:47:03Z",
+  "summary": "How the changes can impact post-mortem planning techniques",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/bltd4185f2f1f6e4c12/6b0465dd90975f518af34fb9/international-succession-planning-Hanasaki-iStock-Getty-Images.jpg?width=720&quality=80&disable=upscale",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "303c26cb619c",
   "title": "MoonPay Seeks OCC Bank Charter for Stablecoin and Custody…",
   "link": "https://financefeeds.com/moonpay-seeks-occ-bank-charter-for-stablecoin-and-custody-services/",
@@ -4395,6 +5093,24 @@
    "Equities",
    "FX & CFD",
    "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "13e6cbe3bfb5",
+  "title": "The Reasonable Cause Exception Implications of Estate of Fields",
+  "link": "https://www.wealthmanagement.com/estate-planning/untitled",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-20T16:27:57Z",
+  "summary": "A hastily drawn plan can leave a family worse off than doing nothing.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt206d3163424dcb82/6b0461fb35d248e05b8bb22b/bad-plan-Andrii-Yalanskyi-iStock-Getty-Images.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
   ],
   "regions": [
    "Americas"
@@ -4416,6 +5132,24 @@
   ],
   "regions": [
    "Global"
+  ]
+ },
+ {
+  "id": "e14a8447e2f5",
+  "title": "Rising Generation Readiness",
+  "link": "https://www.wealthmanagement.com/estate-planning/rising-generation-readiness",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-20T16:22:21Z",
+  "summary": "When a goal doesn’t become action",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt2aead1ac806378b9/6b04646d14644f778ca96a75/generational-financial-planning-travelism-E_-Getty-Images.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
   ]
  },
  {
@@ -8275,6 +9009,24 @@
   "img_checked": true
  },
  {
+  "id": "1e3de0686840",
+  "title": "Beware of the Overreaching Spouse When Representing a Married Couple",
+  "link": "https://www.wealthmanagement.com/estate-planning/beware-of-the-overreaching-spouse-when-representing-a-married-couple",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-19T15:26:51Z",
+  "summary": "Don’t turn a joint representation into a one-sided process.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt1214df4fd978754c/6b045e79805d23bb5de79df7/SeizaVisuals-E_-Getty-Images.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "62be5e1c5076",
   "title": "Walmart Reports $188.8 Billion in Q3 Revenue as Online…",
   "link": "https://financefeeds.com/walmart-reports-188-8-billion-in-q3-revenue-as-online-sales-jump-17/",
@@ -8408,6 +9160,24 @@
   "img_checked": true
  },
  {
+  "id": "7d7c75d19350",
+  "title": "IRC Section 7702 Interest Adjustment",
+  "link": "https://www.wealthmanagement.com/estate-planning/irc-section-7702-interest-adjustment",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-19T15:02:19Z",
+  "summary": "Understanding the impact on life insurance policy pricing",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blte3606d518a76968d/6b0464c8805d23351de79e07/rising-interest-rate-herstockart-E_-Getty-Images.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "a5c2ea86ce3c",
   "title": "What Controls Allow for Strong, Governable AI-Assisted Infrastructure Modernisation?",
   "link": "https://www.finextra.com/videoarticle/3645/what-controls-allow-for-strong-governable-ai-assisted-infrastructure-modernisation?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -8438,6 +9208,42 @@
   "assets": [
    "Equities",
    "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "a6ffc9eef2f8",
+  "title": "Rather Sad: Who Will Make Things a Little Bit Better if We Don’t?",
+  "link": "https://www.wealthmanagement.com/estate-planning/rather-sad-who-will-make-things-a-little-bit-better-if-we-don-t-",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-19T14:56:49Z",
+  "summary": "Turney P. Berry gives two examples of when tax law created outside the public’s eye have produced major problems and glitches.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt87ff4d2b26d38095/67feab3575a48f6093bb9494/TE-tips.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "e4ee968723f5",
+  "title": "Tax Law Update: December 2026",
+  "link": "https://www.wealthmanagement.com/estate-planning/tax-law-update-december-2026",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-19T14:54:06Z",
+  "summary": "The most notable tax law developments of the past month.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt5cda9f4c90007f1c/6900db0f523da643921c6821/TE-tax-law.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
   ],
   "regions": [
    "Americas"
