@@ -1,5 +1,421 @@
 [
  {
+  "id": "c21be113dc51",
+  "title": "Brokers Can Now Add Fractional Bonds to MetaTrader 5 via FXCubic",
+  "link": "https://www.financemagnates.com/forex/technology/brokers-can-now-add-fractional-bonds-to-metatrader-5-via-fxcubic/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-23T09:29:51Z",
+  "summary": "Brokers that run MetaTrader 5 (MT5) can now stream fractional bond prices through FXCubic's liquidity bridge, after bond tokenization company DORA completed an integration with the technology provider. The two companies announced the link today (Monday). The connection lets a…",
+  "image": "https://images.financemagnates.com/images/FXCubic_id_9421362e-ff2b-4b0b-815b-659808b2a2de_size900.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "b29cdae4b392",
+  "title": "DORA integrates with FXCubic to stream fractional bond pricing into MT5",
+  "link": "https://fxnewsgroup.com/forex-news/platforms/dora-integrates-with-fxcubic-to-stream-fractional-bond-pricing-into-mt5/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-23T09:12:40Z",
+  "summary": "The integration gives brokers a new route to DORA’s fractional bond instruments through the FXCubic bridge.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/DORA-FXCubic.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "382d00f9f942",
+  "title": "PU Prime Recognises Australia's Fintech Innovators at FinTech & Banking Awards 2026",
+  "link": "https://www.financemagnates.com/thought-leadership/pu-prime-recognises-australias-fintech-innovators-at-fintech-banking-awards-2026/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-23T09:05:39Z",
+  "summary": "SYDNEY, AUSTRALIA, November 23, 2026 - The Australian entity of Global CFD broker PU Prime, PU Prime Trading Pty Ltd (ACN 151 613 839) , took on a judge at the FinTech & Banking Awards 2026 on November 17, recognising businesses that are driving innovation in Australia's…",
+  "image": "https://images.financemagnates.com/images/Feature%20image_Finance%20Magnates_PU%20Prime%20Recognises%20Australia%27s%20Fintech%20Innovators%20at%20FinTech%20%26%20Banki_id_fe81c375-4b31-4414-bf5d-cbc6e1ff2f20_size900.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "5a58f67e52c3",
+  "title": "Bereaved families need support, not a battle with paperwork",
+  "link": "https://www.fca.org.uk/news/press-releases/bereaved-families-need-support-not-battle-paperwork",
+  "source": "FCA",
+  "feed": "FCA",
+  "published": "2026-11-23T09:01:00Z",
+  "summary": "Investment firms must do more to help people dealing with the death of a loved one, after a review found confusing communications, delays and gaps in support. The FCA reviewed how financial advisers, wealth managers and investment platforms support bereaved families and those…",
+  "image": "",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "5b957e5dfe26",
+  "title": "NectraPay launches ORFI to connect businesses with banks…",
+  "link": "https://financefeeds.com/nectrapay-orfi-banks-vasps-one-platform/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T09:00:00Z",
+  "summary": "Neobanks changed how we access banks. ORFI changes how we connect them. One platform. Multiple financial institutions. A new way to connect and manage money. Financial technology firm NectraPay today announced its new product, Orchestrated Financial Infrastructure (ORFI)…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/nectrapay-orfi-financial-infrastructure-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "407b9c2f5a50",
+  "title": "Ex-Monzo scam fighting team raises £1.8m for startup Acorda",
+  "link": "https://www.finextra.com/newsarticle/48794/ex-monzo-scam-fighting-team-raises-18m-for-startup-acorda?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-23T09:00:00Z",
+  "summary": "The former leaders of Monzo's scam detection team have raised £1.8 million in pre-seed funding for Acorda, a fintech that helps payment providers stop fraud.",
+  "image": "",
+  "section": "regulation",
+  "also": [
+   "deals"
+  ],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "057751c91276",
+  "title": "WazirX User Data Reportedly Exposed in MoEngage Security…",
+  "link": "https://financefeeds.com/wazirx-user-data-reportedly-exposed-in-moengage-security-breach-as-crypto-exchanges-face-third-party-risks/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T08:53:41Z",
+  "summary": "Indian cryptocurrency exchange WazirX has reportedly been affected by a cybersecurity breach involving third-party customer engagement provider MoEngage, potentially exposing users' email addresses and other personal information. The development emerged on November 23, 2026…",
+  "image": "https://financefeeds.com/wp-content/uploads/2024/07/WazirX.webp",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "9772b0e7e5d4",
+  "title": "Arthur Hayes Warns Bitcoin Could Retest $55,000 as Nasdaq…",
+  "link": "https://financefeeds.com/arthur-hayes-warns-bitcoin-could-retest-55000-as-nasdaq-volatility-raises-further-downside-risks/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T08:53:21Z",
+  "summary": "BitMEX co-founder Arthur Hayes has warned that Bitcoin could revisit $55,000 as volatility across global equity markets raises concerns about further losses in cryptocurrencies and other risk-sensitive assets. In a social media post on November 23, 2026, Hayes pointed to…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Bitcoin_Crash_1a08da7831-760x428.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "17be72d63575",
+  "title": "SEC Proposes to Restructure Consolidated Audit Trail",
+  "link": "https://www.marketsmedia.com/sec-proposes-to-restructure-consolidated-audit-trail/",
+  "source": "Markets Media",
+  "feed": "Markets Media",
+  "published": "2026-11-23T08:48:10Z",
+  "summary": "The CAT would come under the regulator’s direct control.",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2018/02/iStock-641606666-1-150x150.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "35f552797fd1",
+  "title": "HSBC RedCoin Expands into Wealth with Tokenised Fund Access",
+  "link": "https://www.marketsmedia.com/hsbc-redcoin-expands-into-wealth-with-tokenised-fund-access/",
+  "source": "Markets Media",
+  "feed": "Markets Media",
+  "published": "2026-11-23T08:41:41Z",
+  "summary": "Customers can use the bank's Hong Kong dollar-denominated stablecoin to access tokenised funds.",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2019/01/iStock-860696690-150x150.jpg",
+  "section": "wealth",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "7f3320f59441",
+  "title": "Transfer Agent Fairmint to Launch TSV",
+  "link": "https://www.marketsmedia.com/transfer-agent-fairmint-to-launch-tsv/",
+  "source": "Markets Media",
+  "feed": "Markets Media",
+  "published": "2026-11-23T08:35:41Z",
+  "summary": "Tradecraft will be the first automated market maker on the Fairmint TSV.",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2017/06/iStock-617393968-150x150.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "b7183051368a",
+  "title": "IOSCO Publishes 2026 Monitoring Report on Tokenization",
+  "link": "https://www.marketsmedia.com/iosco-publishes-2026-monitoring-report-on-tokenization/",
+  "source": "Markets Media",
+  "feed": "Markets Media",
+  "published": "2026-11-23T08:29:44Z",
+  "summary": "The emergence of tokenized equities, including so-called stock tokens, raises important questions.",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2018/06/iStock-871491470-150x150.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "ae7ff40380e4",
+  "title": "Elon Musk Warns AI Industry Could Face Hundreds of Billions…",
+  "link": "https://financefeeds.com/elon-musk-warns-ai-industry-could-face-hundreds-of-billions-in-funding-shortages-in-2027/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T08:17:22Z",
+  "summary": "Elon Musk has warned that the artificial intelligence industry could face a severe funding shortage in 2027, as technology companies commit hundreds of billions of dollars to computing infrastructure that may take months to become operational and generate revenue. In a November…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/Musk-Warns-Over-200-AI-Cloud-Firms-Face-Mass-Extinction-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "408f2787b8f7",
+  "title": "Philippines Crypto Exchange Coins.ph Bans Transfers to and…",
+  "link": "https://financefeeds.com/philippines-crypto-exchange-coins-ph-bans-transfers-to-and-from-self-custody-wallets/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T08:17:18Z",
+  "summary": "Coins .ph, one of the Philippines' largest cryptocurrency exchanges, has stopped supporting direct deposits and withdrawals involving self-custody wallets, introducing tighter restrictions on how customers transfer digital assets outside its platform. The changes took effect on…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/08/Phillippines-Bitcoin-Reserve-760x428.png",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "c39833ca2309",
+  "title": "Russian Lawmakers Propose Adding Confiscated Cryptocurrency…",
+  "link": "https://financefeeds.com/russian-lawmakers-propose-adding-confiscated-cryptocurrency-to-national-reserves/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T08:16:35Z",
+  "summary": "Russian lawmakers have proposed incorporating confiscated cryptocurrencies into the country's gold and foreign exchange reserves, potentially creating a new mechanism for managing digital assets recovered through criminal investigations. Five deputies from the Communist Party of…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/08/Bank-of-Russia.jpg",
+  "section": "digital",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "d375bb2d3b34",
+  "title": "ON THE MOVE: Hudson River Trading Hires Michael Dolezal; CME Group Appoints John Grigus",
+  "link": "https://www.tradersmagazine.com/xtra/on-the-move-hudson-river-trading-hires-michael-dolezal-cme-group-appoints-john-grigus/",
+  "source": "Traders Magazine",
+  "feed": "Traders Magazine",
+  "published": "2026-11-23T08:15:00Z",
+  "summary": "The weekly recap of new hires, promotions and job changes in capital markets trading and technology.",
+  "image": "https://www.tradersmagazine.com/wp-content/uploads/2026/11/dolezal.jpeg",
+  "section": "people",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "f9be7ad3e81e",
+  "title": "SIX Offers European Growth Program",
+  "link": "https://www.marketsmedia.com/six-offers-european-growth-program/",
+  "source": "Markets Media",
+  "feed": "Markets Media",
+  "published": "2026-11-23T08:14:36Z",
+  "summary": "The exchange group is launching the SIX European Growth Index.",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2016/09/trading-across-the-pond-150x150.png",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "2c623064abb1",
+  "title": "Comoros Forex License After the MetaQuotes Block: What MISA…",
+  "link": "https://financefeeds.com/comoros-forex-license-misa-aofa-2026/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T08:00:00Z",
+  "summary": "For two years the Comoros was the fastest and cheapest way to launch a forex or CFD brokerage. Licenses from the Mwali International Services Authority (MISA) on the island of Mohéli and the Anjouan Offshore Finance Authority (AOFA) could be obtained in weeks, with no meaningful…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/01/man-sitting-in-front-of-the-computer-760x428.jpg",
+  "section": "tech",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Middle East & Africa"
+  ]
+ },
+ {
+  "id": "2d4583408921",
+  "title": "Webull Opens Korean Stocks to Hong Kong Clients Four Months After Futu",
+  "link": "https://www.financemagnates.com/forex/brokers/webull-opens-korean-stocks-to-hong-kong-clients-four-months-after-futu/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-23T07:56:00Z",
+  "summary": "Webull's Hong Kong clients can trade South Korean stocks from today (Monday), after its local unit added shares listed on the Korea Exchange (KRX). Commissions on KOSPI and KOSDAQ stocks start at 0.08% with no platform fee, the company said. Clients pay from their US dollar…",
+  "image": "https://images.financemagnates.com/images/Webull_id_ea981a8b-2c5d-4626-87b4-1aa7c84cac74_size900.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "e163124148a6",
+  "title": "Tomorrow’s Debate: Prediction Markets Should Be Banned for Retail Investors",
+  "link": "https://www.financemagnates.com/fm-events/tomorrows-debate-prediction-markets-should-be-banned-for-retail-investors/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-23T07:50:00Z",
+  "summary": "Should retail investors be allowed to trade event contracts, or do the products create risks too close to those associated with binary options? The closing London Summit debate will approachthe tension between financial innovation and consumer protection. Supporters point to…",
+  "image": "https://images.financemagnates.com/images/FMLS%202026_id_a774ffb6-e302-4894-a6c8-1111f7a2ed7a_size900.jpeg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "36af84a8da1c",
+  "title": "FYNXT and LMAX Kiosk Partner to Bring Institutional Digital Asset Funding to Brokers and Financial Institutions",
+  "link": "https://www.financemagnates.com/thought-leadership/fynxt-and-lmax-kiosk-partner-to-bring-institutional-digital-asset-funding-to-brokers-and-financial-institutions/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-23T07:49:00Z",
+  "summary": "Singapore, 23 Nov, 2026 - FYNXT, the operating platform for capital markets, and LMAX Group, the global cross-asset marketplace for FX and digital assets, today announced the integration of LMAX Kiosk into the FYNXT ecosystem as a digital asset funding solution. The integration…",
+  "image": "https://images.financemagnates.com/images/FYNXT_id_ee2acc03-fef2-4d2e-98ae-2e62ebf699b5_size900.jpg",
+  "section": "tech",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "064b91de4ecc",
   "title": "SIX launches European Growth Program",
   "link": "https://fxnewsgroup.com/forex-news/exchanges/six-launches-european-growth-program/",
@@ -132,6 +548,26 @@
    "UK & Europe"
   ],
   "img_checked": true
+ },
+ {
+  "id": "7ea753e72c46",
+  "title": "The Risk Beyond the Binance Hack",
+  "link": "https://www.tradersmagazine.com/am/the-risk-beyond-the-binance-hack/",
+  "source": "Traders Magazine",
+  "feed": "Traders Magazine",
+  "published": "2026-11-23T07:00:00Z",
+  "summary": "By Simon Forster, Managing Director and Global Co-Head of Digital Assets at TP ICAP.",
+  "image": "https://www.tradersmagazine.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-10.02.58.png",
+  "section": "digital",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
  },
  {
   "id": "8604c9cf166b",
