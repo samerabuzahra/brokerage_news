@@ -1,5 +1,602 @@
 [
  {
+  "id": "24d398af0d4b",
+  "title": "Munger, Buffett, and The Skeptic’s Case Against Token…",
+  "link": "https://financefeeds.com/munger-buffett-and-the-skeptic-case-against-token/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-24T17:03:31Z",
+  "summary": "KEY TAKEAWAYS Warren Buffett called Bitcoin “probably rat poison squared” at the 2018 Berkshire Hathaway annual meeting on May 5, when BTC traded at approximately $9,769 per coin. Charlie Munger described cryptocurrency as “disgusting and contrary to the interests of…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Munger-Buffett-and-The-Skeptics-Case-Against-Token-Markets-760x428.jpeg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "8e56ff62a623",
+  "title": "Digital Asset Clearing Centre establishes Digital Asset Distribution Alliance",
+  "link": "https://www.finextra.com/pressarticle/111775/digital-asset-clearing-centre-establishes-digital-asset-distribution-alliance?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-24T16:54:00Z",
+  "summary": "Digital Asset Clearing Center \"DACC.HK\", an open FMI (Financial Market Infrastructure) built on permissionless ledger with CIPS and e-CNY settlement capabilities, is announcing the establishment of the Digital Asset Distribution Alliance (DADA).",
+  "image": "",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "897865e30e31",
+  "title": "Visa opens Cameroon office",
+  "link": "https://www.finextra.com/pressarticle/111774/visa-opens-cameroon-office?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-24T16:53:00Z",
+  "summary": "Visa (NYSE: V), a world leader in digital payments, announced the opening of its representative office in Douala during the official launch event for Visa in Cameroon.",
+  "image": "",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "21e6e7574d06",
+  "title": "Seturion Aims to Change Fragmented European Capital Markets Infrastructure",
+  "link": "https://www.marketsmedia.com/seturion-aims-to-change-fragmented-european-capital-markets-infrastructure/",
+  "source": "Markets Media",
+  "feed": "Markets Media",
+  "published": "2026-11-24T16:52:27Z",
+  "summary": "Boerse Stuttgart Group’s European settlement platform for tokenized assets received a DLT TSS license.",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2013/04/Canada_Fragments-150x150.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "d12d04f710a0",
+  "title": "ChatGPT For Market Analysis: What LLMs Can and Cannot Do",
+  "link": "https://financefeeds.com/chatgpt-for-market-analysis/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-24T16:42:39Z",
+  "summary": "KEY TAKEAWAYS Large language model price direction accuracy tested at 52% across 127 crypto market scenarios over 24- to 72-hour windows, statistically indistinguishable from random chance. Sentiment interpretation scored 78% accuracy in controlled testing, making it the…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/ChatGPT-For-Market-Analysis-760x428.webp",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "264f0a48a3ee",
+  "title": "Why AI Could Be the Next Big Growth Driver for RIAs",
+  "link": "https://www.wealthmanagement.com/growth-strategies/why-ai-could-be-the-next-big-growth-driver-for-rias",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-24T16:41:58Z",
+  "summary": "Strong markets can mask weak organic growth, but Charles Schwab's Brad Lawson explains why client acquisition, strategic planning and AI will separate the fastest-growing RIAs from the rest.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt2d5e76b8c63f8d0d/6b05bf7faf911072bb6d6fae/wmtv-brad-losson-schwab-impact.png?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "622c98fc3797",
+  "title": "Cuomo Accuses Rivals of Pressuring 67 Firms to Reject…",
+  "link": "https://financefeeds.com/cuomo-accuses-rivals-of-pressuring-67-firms-to-reject-okxice-tokenized-stocks/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-24T16:37:03Z",
+  "summary": "Former New York Governor Andrew Cuomo has accused competing trading platforms of encouraging companies to block their shares from being tokenized on OKXICE, as the joint venture between OKX and Intercontinental Exchange (ICE) began round-the-clock securities trading on November…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/05/OKX-Eyes-Strategic-Entry-into-South-Korea-Via-Coinone-Stake-760x428.png",
+  "section": "deals",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "36a60d8f81ff",
+  "title": "14 Investment Must Reads for This Week (Nov. 24, 2026)",
+  "link": "https://www.wealthmanagement.com/etfs/14-investment-must-reads-for-this-week-nov-24-2026-",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-24T16:32:48Z",
+  "summary": "The implications of Anthropic’s IPO and the saga surrounding the reinstatement of Nvidia CEO Jensen Huang have dominated market chatter. These are among the investment must reads for financial advisors this week.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt15cd3f81c69965c8/6b05c48fbd7eae81f6b8415c/mustreads-nvidia.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "463c6ff71c20",
+  "title": "tZERO Advances $350m Plan to List on NYSE American",
+  "link": "https://www.leaprate.com/platforms-technology/tzero-advances-350m-plan-to-list-on-nyse-american/",
+  "source": "LeapRate",
+  "feed": "LeapRate",
+  "published": "2026-11-24T16:29:16Z",
+  "summary": "tZERO Group, Inc., which runs regulated infrastructure for tokenised securities and derivatives, has taken the next formal step towards a NYSE American listing through a $350m merger with a listed shell company. The post tZERO Advances $350m Plan to List on NYSE American first…",
+  "image": "https://www.leaprate.com/wp-content/uploads/2026/11/tZERO-on-Wall-Street.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "03809ae6e207",
+  "title": "What Advisors Should Be Thankful For This Year, and What to Watch Next",
+  "link": "https://www.wealthmanagement.com/client-relations/what-advisors-should-be-thankful-for-this-year-and-what-to-watch-next",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-24T16:24:40Z",
+  "summary": "Advisors finally got a full plate of tax certainty this year. Here’s why they shouldn’t wait for seconds.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/bltb7f561a934230df6/6b05bdcf4409b3f03afec8d8/heart-hands.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "30258200380c",
+  "title": "Solana Surpasses Bitcoin in Purchase Count Across 15…",
+  "link": "https://financefeeds.com/solana-overtakes-bitcoin-in-germany/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-24T16:23:53Z",
+  "summary": "Fresh transaction data reveals Solana's growing popularity in Europe, although Bitcoin continues to attract more individual buyers and higher spending. Paybis , a global crypto and fiat infrastructure provider, has published new research revealing that Solana outperformed…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/IMG_6898-760x428.jpeg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "9cfa31fe207b",
+  "title": "The Concentrated Stock Conundrum",
+  "link": "https://www.wealthmanagement.com/investing-strategies/the-concentrated-stock-conundrum",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-24T16:12:15Z",
+  "summary": "What the research says about diversifying a low-basis position.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt4a0b4b70a1eec008/6920c971e7844a44473a7ec1/investing-chart-volatility-arrow.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "2319cfd65e3a",
+  "title": "Brent Crude Price $89.08: 24% Monthly Slide Before OPEC+",
+  "link": "https://financefeeds.com/brent-crude-oil-price-89-08-tuesday-24-percent-monthly-slide-opec-plus-29-november-bull-92-bear-86/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-24T16:10:49Z",
+  "summary": "Updated 24 November 2026, 16:00 GMT. Brent crude for January delivery traded at $89.08 a barrel at 15:58 GMT on Tuesday 24 November, down 0.32 percent from Monday's $89.37 settle, in an $88.11-$90.96 range (Brent futures data via Yahoo Finance). Monday's 3.5 percent fall took…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/03/oil-tanker-760x428.png",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "Middle East & Africa"
+  ]
+ },
+ {
+  "id": "6c40e8b9cd5b",
+  "title": "Dell Stock $295 Before Q3 Results Tonight: HPE Margin Scare",
+  "link": "https://financefeeds.com/dell-technologies-dell-stock-295-before-q3-results-tonight-bull-335-bear-257/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-24T16:10:44Z",
+  "summary": "Updated 24 November 2026, 16:05 GMT. Dell Technologies (NYSE: DELL) traded at $295.22 at 11:04 a.m. ET on Tuesday 24 November, down 11.85 percent from Monday's $334.91 close, in a $290.78-$318.06 range (NYSE data via Yahoo Finance). Dell reports fiscal third-quarter 2027 results…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/08/dell-servers-data-center-ai-infrastructure-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "173fdffa8d46",
+  "title": "South Korea Drafts Over 50% Bank-Ownership Rule for Stablecoin Issuers, Cap on Exchange Stakes",
+  "link": "https://www.financemagnates.com/cryptocurrency/south-korea-drafts-over-50-bank-ownership-rule-for-stablecoin-issuers-cap-on-exchange-stakes/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Crypto",
+  "published": "2026-11-24T16:06:06Z",
+  "summary": "South Korea’s Financial Services Commission has proposed limiting the issuance of won-denominated stablecoins to groups majority-owned by banks. The draft also sets limits on individual shareholders’ stakes in cryptocurrency exchanges. The proposal follows an earlier FSC plan in…",
+  "image": "https://images.financemagnates.com/images/South%20Korea_id_0ac9e2d3-5b30-4310-87fe-448ccc150118_size900.jpg",
+  "section": "digital",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "bb478f7c406f",
+  "title": "Client referrals top bank advisors' reasons for joining, Cerulli finds",
+  "link": "https://www.investmentnews.com/practice-management/client-referrals-top-bank-advisors-reasons-for-joining-cerulli-finds/269150",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-24T16:05:47Z",
+  "summary": "As high-net-worth households control a growing share of U.S. wealth, banks' referral pipelines are a key recruiting tool against RIAs",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/leoa_639231713729977857.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "0c66677c3fab",
+  "title": "CME Group registers new single-day volume record",
+  "link": "https://fxnewsgroup.com/forex-news/exchanges/cme-group-registers-new-single-day-volume-record/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-24T16:02:58Z",
+  "summary": "International derivatives marketplace CME Group today reported it reached a new, single-day volume record of 71,457,000 contracts traded on November 23, 2026.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2025/10/CME-Group-HQ-Fall-2025-Long-View.jpeg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "f26bd324c8c6",
+  "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
+  "link": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-24T16:00:25Z",
+  "summary": "Monday's tech enthusiasm is quickly fading on Tuesday, while bitcoin remains near bear-market lows.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/cfd2092b1db2778aa23e4fb8395ac04ad57dd0fd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "a492eaad82b7",
+  "title": "Osaic Adds $5.2 Billion Michigan RIA",
+  "link": "https://www.advisorhub.com/osaic-adds-5-2-billion-michigan-ria/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-24T15:58:32Z",
+  "summary": "Mainstay Capital Management, led by Chief Executive David P. Kudla, will continue to operate as a stand-alone RIA with Osaic.",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2026/11/3Update-2026-11-24T103710.292-1024x643.png",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "efca835aa05d",
+  "title": "Carson Buys $944M RIA in Massachusetts",
+  "link": "https://www.advisorhub.com/carson-buys-944m-ria-in-massachusetts/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-24T15:52:48Z",
+  "summary": "The RIA’s leaders were paid in part through Carson equity.",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2026/11/3Update-2026-11-24T105130.056.png",
+  "section": "wealth",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "d1ae2964f3cf",
+  "title": "South Korea Proposes Crypto ICOs, Stablecoins and 20%…",
+  "link": "https://financefeeds.com/south-korea-proposes-crypto-icos-stablecoins-and-20-exchange-ownership-cap/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-24T15:52:24Z",
+  "summary": "South Korea's Financial Services Commission (FSC) unveiled a comprehensive digital asset bill on November 24, 2026, proposing to legalize domestic initial coin offerings (ICOs), authorize Korean won-backed stablecoins and impose a 20% shareholder ownership limit on…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/04/ICOs.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "8bb4523f394f",
+  "title": "Upbit Freezes 0G Deposits Over Token Supply Red Flags",
+  "link": "https://financefeeds.com/upbit-freezes-0g-deposits-over-token-supply/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-24T15:50:13Z",
+  "summary": "South Korean exchange Upbit suspended deposits of Zero Gravity (0G) and placed the token under an investment warning on November 24, citing concerns about how the issuer discloses information on total token issuance and circulation schedules. Deposit restrictions took effect at…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Upbit-Freezes-0G-Deposits-Over-Token-Supply-Red-Flags-760x428.webp",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "4e8f78075520",
+  "title": "Options Xchange Group Announces SEC Filings to Launch Two U.S. Listed Options Exchanges",
+  "link": "https://www.tradersmagazine.com/am/options-xchange-group-announces-sec-filings-to-launch-two-u-s-listed-options-exchanges/",
+  "source": "Traders Magazine",
+  "feed": "Traders Magazine",
+  "published": "2026-11-24T15:48:31Z",
+  "summary": "OX Delta will offer a price/time order-allocation model; OX Gamma will take a traditional pro rata approach.",
+  "image": "https://www.tradersmagazine.com/wp-content/uploads/2026/09/Screenshot-2026-09-10-at-16.28.20.png",
+  "section": "markets",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "bfc3d5de31fb",
+  "title": "NAB CEO hits out at Instagram account's salacious claims",
+  "link": "https://www.finextra.com/newsarticle/48806/nab-ceo-hits-out-at-instagram-accounts-salacious-claims?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-24T15:48:00Z",
+  "summary": "The CEO of NAB says the Australian bank will act to protect staff from \"unfair and damaging posts\" on Instagram by a self-described \"customer advocate\" who has made a string of claims concerning drug use, affairs, bullying and corruption at the lender.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "24f96be0de3c",
+  "title": "Kalshi Hires the Litigator Who Beat the CFTC as State Gambling Battles Escalate",
+  "link": "https://www.financemagnates.com/executives/moves/kalshi-hires-the-litigator-who-beat-the-cftc-as-state-gambling-battles-escalate/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Executives",
+  "published": "2026-11-24T15:40:00Z",
+  "summary": "Kalshi has appointed Yaakov Roth as general counsel, the lawyer who helped overturn a US regulator’s attempt to block its election contracts. . The move comes as the prediction-market exchange fights a broader set of disputes over whether its products fall under federal…",
+  "image": "https://images.financemagnates.com/images/Yaakov%20Roth%2C%20General%20Counsel%20at%20Kalshi_id_da0bef6e-09dc-466c-aee2-47e862c05c88_size900.jpeg",
+  "section": "regulation",
+  "also": [
+   "people"
+  ],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "f23f2d1db814",
+  "title": "Nvidia Brings Back Jensen Huang But The Probe Continues",
+  "link": "https://financefeeds.com/nvidia-brings-back-jensen-huang/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-24T15:35:45Z",
+  "summary": "Nvidia 's board voted unanimously on November 22 to reinstate Jensen Huang as president, chief executive officer and board director, effective immediately, the company disclosed in an 8-K filing and a press release on November 23 . The board accepted Huang's resignation on…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Nvidia-Brings-Back-Jensen-Huang-But-The-Probe-Continues-760x428.webp",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "069827a4a245",
+  "title": "JP Morgan, HSBC and StoneX pilot digital gold trades",
+  "link": "https://www.finextra.com/newsarticle/48805/jp-morgan-hsbc-and-stonex-pilot-digital-gold-trades?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-24T15:29:00Z",
+  "summary": "HSBC, JP Morgan and StoneX have carried out the first live trades of fractions of physical gold bars, using it as collateral in legally binding wholesale market transaction.",
+  "image": "",
+  "section": "markets",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "ba1dcd8f6420",
+  "title": "JPMorgan, HSBC and StoneX Complete First Digital Gold Trades",
+  "link": "https://financefeeds.com/jpmorgan-hsbc-stonex-first-digital-gold-trades/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-24T15:24:17Z",
+  "summary": "JPMorgan Chase, HSBC and StoneX have completed the first trades of a new form of digital gold in London, using electronic ownership rights to pooled physical bullion in live wholesale transactions under a pilot from the World Gold Council (WGC). Bloomberg reported that the pilot…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/images-14.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "2bb350f6d6c4",
+  "title": "Google Patents A System To Put You Inside AI Movies",
+  "link": "https://financefeeds.com/google-patents-a-system-to-put-you-inside-ai/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-24T15:22:07Z",
+  "summary": "Google has filed a patent for a system called \"My Channel\" that uses data it holds on a user to create a customized artificial intelligence television channel with shows starring that viewer as the protagonist. The United States Patent and Trademark Office (USPTO) published the…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Google-Patents-A-System-To-Put-You-Inside-AI-Movies-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "d4dc37e93f61",
+  "title": "Curi Capital Sets Sights on Acquisitions, Aims to Nearly Triple Client Base",
+  "link": "https://www.wealthmanagement.com/ria-news/curi-capital-takes-on-vistria-wealth-partners-as-investors",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-24T15:13:17Z",
+  "summary": "CEO Dimitri Eliopoulos plans to grow the firm from 3,400 to 10,000-plus families over the next five to seven years, with new capital partners supporting M&A and expansion.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/bltd60ba30f70a2a898/6b05a99e0a150402c34f3cdc/RMB_ChicagoEliopoulos_promo.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "c4685a70cdae",
+  "title": "Cboe launches KPI binary options",
+  "link": "https://fxnewsgroup.com/forex-news/exchanges/cboe-launches-kpi-binary-options/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-24T15:07:24Z",
+  "summary": "Cboe Global Markets, Inc today launched KPI binary options, a new class of listed options tied to company-specific, key performance indicators (KPIs).",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2021/10/cboe_new_trading_floor.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "fdc6ff04b636",
   "title": "Anchorage Digital to unveil new asset-management subsidiary",
   "link": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
@@ -975,23 +1572,25 @@
  },
  {
   "id": "64f82320c604",
-  "title": "FM Summit London 2026 Live from Old Billingsgate: How does 'AI Slop' Compare to Plato’s 370 BC Warning Against Writing?",
+  "title": "FM Summit London 2026 Live from Old Billingsgate: Manipulation Risks Meet Consumer Duty in Prediction Markets Debate",
   "link": "https://www.financemagnates.com/forex/fm-summit-london-2026-live-from-old-billingsgate-ai-opens-the-floor/",
   "source": "Finance Magnates",
   "feed": "Finance Magnates · Forex",
   "published": "2026-11-24T10:51:52Z",
   "summary": "The 15th edition of the Finance Magnates London Summit (FMLS) is officially underway today, November 24, 2026, returning to its historic riverside venue at Old Billingsgate, London. After last night’s Opening Networking Blitz at The Folly, the summit packs executive keynotes…",
   "image": "https://images.financemagnates.com/images/Finance%20Magnates%20Summits%20London_id_b5d6eda9-fc62-4f69-b18f-b7670abae133_size900.jpg",
-  "section": "tech",
+  "section": "regulation",
   "also": [
-   "regulation"
+   "tech"
   ],
   "assets": [
    "Equities",
    "FX & CFD",
+   "Wealth",
    "Crypto"
   ],
   "regions": [
+   "Americas",
    "UK & Europe"
   ],
   "img_checked": true
@@ -2980,6 +3579,24 @@
   "regions": [
    "UK & Europe",
    "Middle East & Africa"
+  ]
+ },
+ {
+  "id": "ea76d07da862",
+  "title": "People Moves: FinServ Appoints Five Board Members for 2027-28",
+  "link": "https://www.wealthmanagement.com/career-moves/people-moves-finserv-appoints-five-board-members-for-coming-year",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-23T18:41:46Z",
+  "summary": "Also, NewEdge taps a former BlackRock executive to lead strategy push, Advisor360° continues leadership moves, and Focus partner firm Crestwood adds a CIO.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/blt5016c830be5a53dd/6b05adedc4ed1a6c53ccd56e/jessica-perez-finserv.jpg?width=720&quality=80&disable=upscale",
+  "section": "people",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
   ]
  },
  {
