@@ -1,5 +1,59 @@
 [
  {
+  "id": "3deb6d38d153",
+  "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+  "link": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-24T00:25:04Z",
+  "summary": "The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "a161b7dff1b4",
+  "title": "Full recourse: Why AI accountability never leaves your balance sheet",
+  "link": "https://www.waterstechnology.com/emerging-technologies/7953377/full-recourse-why-ai-accountability-never-leaves-your-balance-sheet",
+  "source": "WatersTechnology",
+  "feed": "WatersTechnology",
+  "published": "2026-11-24T00:19:34Z",
+  "summary": "",
+  "image": "",
+  "section": "tech",
+  "also": [
+   "people"
+  ],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "afee2d64f355",
+  "title": "Lloyds publishes guide on scaling AI responsibly",
+  "link": "https://www.finextra.com/newsarticle/48800/lloyds-publishes-guide-on-scaling-ai-responsibly?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-24T00:01:00Z",
+  "summary": "Lloyds Banking Group has provided some insight into its approach to rolling out AI in a responsible way, publishing a guide sharing practical lessons from its experience of scaling the technology.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "e2ada324783b",
   "title": "As 'era of scarcity' unfolds, real assets increasingly important: Cohen & Steers",
   "link": "https://www.investmentnews.com/alternatives/as-era-of-scarcity-unfolds-real-assets-increasingly-important-cohen-steers/269140",
@@ -15,6 +69,25 @@
   ],
   "regions": [
    "Americas"
+  ]
+ },
+ {
+  "id": "8c626e645e69",
+  "title": "5 DeSci Tooling Platforms to Watch",
+  "link": "https://financefeeds.com/5-desci-tooling-platforms-to-watch/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T22:48:19Z",
+  "summary": "Scientific research often depends on institutional funding, academic publishers, and centralized data infrastructure. These systems can make it difficult for independent researchers to secure funding, share findings, manage intellectual property, and access research resources…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/5-DeSci-Tooling-Platforms-to-Watch.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
   ]
  },
  {
@@ -56,6 +129,46 @@
   ]
  },
  {
+  "id": "c1dcc8a42d22",
+  "title": "Stock Market Today: Nasdaq Jumps 6.5% as Huang Returns",
+  "link": "https://financefeeds.com/stock-market-today-nasdaq-jumps-6-5-percent-as-huang-returns/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T21:48:59Z",
+  "summary": "Updated 23 November 2026, after the 4:00 p.m. ET close. The Nasdaq Composite closed at 24,089.56 , up 1,471.82 points or 6.51 percent , and the S&P 500 closed at 7,237.17 , up 4.73 percent (AP; CNBC quote data). Nvidia closed at $165.05 , up 31.48 percent, after its board…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/nyse-broad-street-facade-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "5d735f7d8653",
+  "title": "OKX and ICE Launch 24/7 Tokenized Stock Trading Under SEC…",
+  "link": "https://financefeeds.com/okx-and-ice-launch-24-7-tokenized-stock-trading-under-sec-exemption/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-23T21:47:23Z",
+  "summary": "OKX and Intercontinental Exchange (ICE), the parent company of the New York Stock Exchange, launched their joint tokenized securities trading venue on November 23, opening round-the-clock access to U.S. stocks and exchange-traded products through the OKX mobile app.The venture…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/05/OKX-Eyes-Strategic-Entry-into-South-Korea-Via-Coinone-Stake-760x428.png",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "e603940081b6",
   "title": "Waters Wavelength Ep. 361: Who keeps the lights on?",
   "link": "https://www.waterstechnology.com/emerging-technologies/7953363/waters-wavelength-ep-361-who-keeps-the-lights-on",
@@ -69,6 +182,27 @@
   "assets": [],
   "regions": [
    "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "bd33c7b018b3",
+  "title": "Edward Jones Agrees to $22.75 Million Settlement in Gender Pay Suit",
+  "link": "https://www.advisorhub.com/edward-jones-agrees-to-22-75-million-settlement-in-gender-pay-suit/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-23T21:21:18Z",
+  "summary": "The proposed deal would cover about 5,100 women who currently or formerly worked in the firm’s home office.",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2025/05/Settlement_1.jpg",
+  "section": "wealth",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
   ],
   "img_checked": true
  },
@@ -89,6 +223,25 @@
   "regions": [
    "Americas"
   ]
+ },
+ {
+  "id": "cf6593b118d3",
+  "title": "Edward Jones Seeks to Freeze LPL Accounts in Recruiting Dispute",
+  "link": "https://www.advisorhub.com/edward-jones-seeks-to-freeze-lpl-accounts-in-recruiting-dispute/",
+  "source": "AdvisorHub",
+  "feed": "AdvisorHub",
+  "published": "2026-11-23T21:15:18Z",
+  "summary": "The St. Louis-based brokerage alleged LPL and a Kitty Hawk, North Carolina broker engaged in deceptive practices and violated trade secret protection laws.",
+  "image": "https://www.advisorhub.com/wp-content/uploads/2026/07/tro.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
  },
  {
   "id": "2f45111411bb",
@@ -200,6 +353,23 @@
    "Americas",
    "Asia Pacific"
   ]
+ },
+ {
+  "id": "cc9fb728c6c9",
+  "title": "Adyen co-CEO van der Does retires",
+  "link": "https://www.finextra.com/newsarticle/48801/adyen-co-ceo-van-der-does-retires?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-23T20:32:00Z",
+  "summary": "The co-founder and co-CEO of Dutch payments processor Adyen, Pieter van der Does, is retiring, with his co-chief Ingo Uytdehaage taking sole control.",
+  "image": "",
+  "section": "people",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
  },
  {
   "id": "cce3c92d09b0",
@@ -358,6 +528,25 @@
   "regions": [
    "Americas"
   ]
+ },
+ {
+  "id": "eb162307b870",
+  "title": "After a scam wave, bank boards should ask for two loss lines",
+  "link": "https://www.finextra.com/blogposting/33552/after-a-scam-wave-bank-boards-should-ask-for-two-loss-lines?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-23T19:31:31Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "regulation",
+  "also": [
+   "deals"
+  ],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
  },
  {
   "id": "738878dd4199",
@@ -1158,6 +1347,23 @@
   ]
  },
  {
+  "id": "1c31a2b7755e",
+  "title": "Why the first week decides the next thousand taps",
+  "link": "https://www.finextra.com/blogposting/33550/why-the-first-week-decides-the-next-thousand-taps?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-23T16:49:07Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "people",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "37ee075b4d40",
   "title": "Bernstein Upgrades Nvidia to Outperform After Huang’s…",
   "link": "https://financefeeds.com/bernstein-upgrades-nvidia-price-target-outperform/",
@@ -1807,6 +2013,23 @@
   "img_checked": true
  },
  {
+  "id": "023c7f30c4b5",
+  "title": "When AI Goes Wrong",
+  "link": "https://www.finextra.com/blogposting/33549/when-ai-goes-wrong?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-23T14:40:37Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "bdf4af0715f4",
   "title": "Advisor Sentiment Index: Advisor Optimism Rose in October",
   "link": "https://www.wealthmanagement.com/ria-edge/advisor-sentiment-index-advisor-sentiment-rose-in-october",
@@ -1823,6 +2046,23 @@
   "regions": [
    "Americas"
   ]
+ },
+ {
+  "id": "5dfa78eaa260",
+  "title": "What startup founders need to know about cross-border payments",
+  "link": "https://www.finextra.com/blogposting/33548/what-startup-founders-need-to-know-about-cross-border-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-23T14:35:52Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
  },
  {
   "id": "25b9e17403e3",
