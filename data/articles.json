@@ -1,5 +1,60 @@
 [
  {
+  "id": "26f291b5be85",
+  "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
+  "link": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-25T04:57:22Z",
+  "summary": "Derive’s new options on Nvidia, Anthropic, stock indices and oil bring hedging tools to onchain RWA markets.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "aee304b6b072",
+  "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+  "link": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-25T04:50:08Z",
+  "summary": "The Czech National Bank bought bitcoin a year ago as an experiment. The coin has fallen at least 40% since, and the bank's audited accounts carry it at cost rather than market value. The CNB told CoinDesk an outside custodian holds the coins.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/3343bd5e049a9fa2bb623680733a41f6c44169f7-2048x1330.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "adc7421c0f74",
+  "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+  "link": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-25T03:35:20Z",
+  "summary": "President Donald Trump said in an interview with the New York Post that he's fine clearing Nvidia's CEO from legal trouble in his affair scandal.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/1d2e34daee89ee05f5d2eb9b96b2bba1f8c8b370-3799x2633.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "15c3c22abf8b",
   "title": "Private credit’s newest analyst works nights, not deals",
   "link": "https://www.waterstechnology.com/emerging-technologies/7953374/private-credits-newest-analyst-works-nights-not-deals",
