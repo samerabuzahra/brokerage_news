@@ -1,5 +1,285 @@
 [
  {
+  "id": "2e21a926f0ba",
+  "title": "SBI Solana Global begins operations",
+  "link": "https://fxnewsgroup.com/forex-news/institutional/sbi-solana-global-begins-operations/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-25T07:29:22Z",
+  "summary": "SBI Holdings, Inc, Sumitomo Mitsui Financial Group, Inc., and Solana Foundation today announced they have completed a series of agreements for the transition to a new JV structure.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2020/10/tokyo_japan.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "7317e0b888e1",
+  "title": "UAE Traders Can Now Fund Equiti Accounts Through the Botim App",
+  "link": "https://www.financemagnates.com/forex/brokers/uae-traders-can-now-fund-equiti-accounts-through-the-botim-app/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-25T07:03:06Z",
+  "summary": "Equiti Group added Botim as a way to fund trading accounts in the UAE today (Wednesday). Clients can now send deposits and receive withdrawals through Aani, the country's instant payment system, without leaving the Botim app, the broker said. The deal brings Equiti Pay, the…",
+  "image": "https://images.financemagnates.com/images/Equiti_id_36a1b1b1-3584-47d1-82c8-0822a6883d03_size900.jpg",
+  "section": "tech",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Middle East & Africa"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "7854ccbc99bb",
+  "title": "TradingView enables its users to ask AI Copilot about any part of the chart",
+  "link": "https://fxnewsgroup.com/forex-news/platforms/tradingview-enables-its-users-to-ask-ai-copilot-about-any-part-of-the-chart/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-25T07:02:43Z",
+  "summary": "With the new AI range tool in Supercharts, TradingView users can select a date range directly on the chart.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/ai-range-in-ai-copilot-cover.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "482b6ba48b12",
+  "title": "Oracle Stock $109.50: AI Selloff Undoes a Third of Rebound",
+  "link": "https://financefeeds.com/oracle-orcl-stock-109-wednesday-ai-selloff-undoes-third-of-rebound-bull-119-bear-100/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-25T06:52:33Z",
+  "summary": "Updated 25 November 2026, 07:30 GMT. Oracle (NYSE: ORCL) closed at $109.50 on Tuesday 24 November, down $4.18 or 3.68 percent, and traded at $108.76 after hours at 7:59 p.m. ET (StockAnalysis). Verdict: Tuesday's AI selloff took back about a third of Monday's 12.34 percent jump…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/oracle-orcl-stock-price-prediction-austin-campus-0926-760x428.jpg",
+  "section": "tech",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "0db28764727e",
+  "title": "Gold Price Today $3,559: PCE Test After a 2% Slide",
+  "link": "https://financefeeds.com/gold-price-today-3559-wednesday-pce-test-after-2-percent-slide-bull-3680-bear-3500/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-25T06:52:13Z",
+  "summary": "Updated 25 November 2026, 07:30 GMT. Spot gold was $3,558.85 an ounce at 03:12 GMT on Wednesday 25 November, little changed after a fall of more than 2 percent on Tuesday; US gold futures for December were down 0.1 percent at $3,557.80 (CNBC). Verdict: gold is holding just above…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/gold-price-4286-bull-4750-bear-3850-bullion-0926-760x428.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "6bba19d2aeae",
+  "title": "MU Stock $629.79: 11% Fall After BNP Paribas Downgrade",
+  "link": "https://financefeeds.com/micron-mu-stock-629-wednesday-after-bnp-paribas-downgrade-11-percent-fall-bull-708-bear-594/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-25T06:51:54Z",
+  "summary": "Updated 25 November 2026, 07:30 GMT. Micron Technology (NASDAQ: MU) closed at $629.79 on Tuesday 24 November, down $77.91 or 11.01 percent, and traded at $620.01 after hours at 7:59 p.m. ET (StockAnalysis). TipRanks reported the stock down about another 3 percent in overnight…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/micron-earnings-hiroshima-fab-0921-760x428.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "9d600d3fffb5",
+  "title": "Sandisk Stock $77.95: 11% Drop Erases Monday’s Rally",
+  "link": "https://financefeeds.com/sandisk-sndk-stock-77-wednesday-after-11-percent-drop-erases-monday-rally-bull-88-bear-70/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-25T06:51:35Z",
+  "summary": "Updated 25 November 2026, 07:30 GMT. Sandisk (NASDAQ: SNDK) closed at $77.95 on Tuesday 24 November, down $9.76 or 11.13 percent, and traded at $76.47 after hours at 7:59 p.m. ET (StockAnalysis). TipRanks reported the stock down about another 4 percent in overnight trade early…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/sandisk-milpitas-headquarters-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "08e18eda73c3",
+  "title": "CME Group imposes $100k fine on J.P. Morgan Securities for alleged COMEX rule violations",
+  "link": "https://fxnewsgroup.com/forex-news/exchanges/cme-group-imposes-100k-fine-on-j-p-morgan-securities-for-alleged-comex-rule-violations/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-25T06:37:50Z",
+  "summary": "International derivatives marketplace CME Group has posted a notice of disciplinary action against J.P. Morgan Securities LLC.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2025/10/CME-Group-HQ-Fall-2025-Close-View.jpeg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "a7959a18e1cc",
+  "title": "Retail Brokers Want More Trading. What If They Went After Customers’ Wealth Instead?",
+  "link": "https://www.financemagnates.com/forex/retail-brokers-want-more-trading-what-if-they-went-after-customers-wealth-instead/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-25T06:26:51Z",
+  "summary": "There has long been an assumption in retail brokerage that the best way to grow is to offer customers more ways to trade volatile assets. However, brokers who have become very good at monetising customers’ desire to trade should not ignore demand for preserving capital and…",
+  "image": "https://images.financemagnates.com/images/A%20screenshot%20of%20IG%20Group%20offering%20bond%20CFDs_id_e639902b-1190-43bb-8276-1fed918cb3ed_size900.jpeg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "de51aa15ec45",
+  "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+  "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-25T06:15:08Z",
+  "summary": "Data shows that the ten busiest accounts accounted for more than all of the exchange's quarterly growth, while trading by everyone else declined.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/2422f4cb8addf51ff9749bd06180d8af713edf6b-3000x2001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "1a85a7915bb6",
+  "title": "Ant International, BNY to explore next-generation treasury, 24/7 FX and global payments innovation",
+  "link": "https://fxnewsgroup.com/forex-news/payments/ant-international-bny-to-explore-next-generation-treasury-24-7-fx-and-global-payments-innovation/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-25T06:07:03Z",
+  "summary": "Ant International and BNY today announced a strategic collaboration aimed at exploring next-generation treasury, 24/7 FX and interoperable global payments solutions.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/MOU_Signing_Ceremony.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "c0ba6ea6424a",
+  "title": "Exclusive: TMGM partnerships exec Christiana Lazaridou moves to GenesisFX",
+  "link": "https://fxnewsgroup.com/forex-news/executives/exclusive-tmgm-partnerships-exec-christiana-lazaridou-moves-to-genesisfx/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-25T06:05:55Z",
+  "summary": "Christiana Lazaridou was previously Global Head of Partnerships at Scope Markets, and Chief Business Development Officer for Zarvista.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2025/04/Christiana-Lazaridou-EC-Markets.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "6858595c2d33",
+  "title": "Equiti partners with Botim to expand trading account funding access in the UAE",
+  "link": "https://fxnewsgroup.com/forex-news/payments/equiti-partners-with-botim-to-expand-trading-account-funding-access-in-the-uae/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-25T05:47:47Z",
+  "summary": "Botim serves more than 8.5 million users in the UAE and provides access to payments, remittances, cards, credit and investments.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/Equiti-Pay-Botim.png",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Middle East & Africa"
+  ]
+ },
+ {
+  "id": "8e274a7ca5fe",
+  "title": "Anthropic IPO deepens US retail investors’ tilt toward equities and funds",
+  "link": "https://www.privatebankerinternational.com/analyst-comment/anthropic-ipo-deepens-us-retail-investors-tilt-to-equities/",
+  "source": "Private Banker International",
+  "feed": "Private Banker International",
+  "published": "2026-11-25T05:35:33Z",
+  "summary": "Kristian Jackson explains why wealth managers, especially in the US, need to review client risk appetite sooner rather than later to ensure they are not caught out should an AI market correction come about in 2027",
+  "image": "https://www.privatebankerinternational.com/wp-content/uploads/sites/5/2026/11/jackson-fi.jpg",
+  "section": "wealth",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "26f291b5be85",
   "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
   "link": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
