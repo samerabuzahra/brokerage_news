@@ -14,7 +14,7 @@
  "Global Trading": "ok (10 items, 1 with pictures)",
  "Finextra": "ok (50 items, 0 with pictures)",
  "InvestmentNews": "ok (95 items, 95 with pictures)",
- "AdvisorHub": "ok (10 items, 0 with pictures)",
+ "AdvisorHub": "error: HTTPError: HTTP Error 403: Forbidden",
  "WatersTechnology": "ok (50 items, 0 with pictures)",
  "Financial Planning": "ok (10 items, 10 with pictures)",
  "Private Banker International": "ok (10 items, 0 with pictures)",
