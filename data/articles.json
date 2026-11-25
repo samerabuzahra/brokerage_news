@@ -1,5 +1,58 @@
 [
  {
+  "id": "15c3c22abf8b",
+  "title": "Private credit’s newest analyst works nights, not deals",
+  "link": "https://www.waterstechnology.com/emerging-technologies/7953374/private-credits-newest-analyst-works-nights-not-deals",
+  "source": "WatersTechnology",
+  "feed": "WatersTechnology",
+  "published": "2026-11-25T00:23:46Z",
+  "summary": "",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "efe7fc8f4241",
+  "title": "UK APP fraud losses continue to rise",
+  "link": "https://www.finextra.com/newsarticle/48799/uk-app-fraud-losses-continue-to-rise?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-25T00:01:00Z",
+  "summary": "Losses to authorised push payment (APP) fraud in the UK rose 22% to £316 million in the first half of 2026, according to figures from UK Finance.",
+  "image": "",
+  "section": "regulation",
+  "also": [
+   "tech"
+  ],
+  "assets": [],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "d82984221ff7",
+  "title": "Brits wary about letting AI agents make payments for them",
+  "link": "https://www.finextra.com/newsarticle/48808/brits-wary-about-letting-ai-agents-make-payments-for-them?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-25T00:01:00Z",
+  "summary": "Brits are increasingly turning to AI to research purchases but scepticism remains when it comes to the checkout, with just 13% saying that they are likely to let an agent make a payment for them in the next year.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "3e4b5aca79dd",
   "title": "Dell Stock Rises After Q3 Revenue of $54.94B Beats $50.6B…",
   "link": "https://financefeeds.com/dell-stock-rises-after-q3-revenue-of-54-94b-beats-50-6b-estimate/",
@@ -2186,6 +2239,24 @@
   ]
  },
  {
+  "id": "0d37370b8478",
+  "title": "Macquarie Asset Management consortium makes telecoms tower buy in five Asian markets",
+  "link": "https://www.financeasia.com/article/macquarie-asset-management-consortium-makes-telecoms-tower-buy-in-five-asian-mark/508764",
+  "source": "FinanceAsia",
+  "feed": "FinanceAsia",
+  "published": "2026-11-24T11:39:00Z",
+  "summary": "EDOTCO Group has sold businesses in the Philippines, Bangladesh, Pakistan, Cambodia and Indonesia; there has also been a change in ownership in Malaysia.",
+  "image": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_2632781973.jpg&h=684&w=1216&q=100&v=09ba3de2c5&c=1",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
   "id": "c6627aeb6687",
   "title": "Carson Group adds $944M Boston-area firm in integrated channel deal",
   "link": "https://www.investmentnews.com/ria-news/carson-group-adds-944m-boston-area-firm-in-integrated-channel-deal/269142",
@@ -3374,6 +3445,24 @@
   ]
  },
  {
+  "id": "8e312ffec4dc",
+  "title": "Beijing radiopharma firm stock falls after first Hong Kong paperless IPO",
+  "link": "https://www.financeasia.com/article/beijing-radiopharma-firm-stock-falls-after-first-hong-kong-paperless-ipo/508760",
+  "source": "FinanceAsia",
+  "feed": "FinanceAsia",
+  "published": "2026-11-24T07:20:00Z",
+  "summary": "Sinotau is Hong Kong’s first Chapter 18A listing in its field and the first to debut under the city’s new Uncertificated Securities Market regime.",
+  "image": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fshutterstock_2431463195.jpg&h=684&w=1216&q=100&v=09ba3de2c5&c=1",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
   "id": "2dfe3e8203f0",
   "title": "Mitrade Says It Added 1.7 Million Users This Year, Taking Its Count to 8 Million",
   "link": "https://www.financemagnates.com/forex/brokers/mitrade-says-it-added-17-million-users-this-year-taking-its-count-to-8-million/",
@@ -3675,6 +3764,24 @@
    "Americas"
   ],
   "img_checked": true
+ },
+ {
+  "id": "481b8f3b5b9b",
+  "title": "StarHub and M1 agree up to S$1.36bn all-share merger",
+  "link": "https://www.financeasia.com/article/starhub-and-m1-agree-up-to-s1-36bn-all-share-merger/508758",
+  "source": "FinanceAsia",
+  "feed": "FinanceAsia",
+  "published": "2026-11-24T04:18:00Z",
+  "summary": "The telecoms' combination will serve 4.1 million customers, while giving Keppel a 23% stake that it plans to monetise after a lock-up period, amid a wider asset-light strategy.",
+  "image": "https://cdn.i.haymarketmedia.asia/?n=finance-asia%2fcontent%2fFA+CT+CMS+Images+(4).png&h=684&w=1216&q=100&v=09ba3de2c5&c=1",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
  },
  {
   "id": "3deb6d38d153",
