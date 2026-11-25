@@ -1,5 +1,176 @@
 [
  {
+  "id": "58f4d8ee1642",
+  "title": "Polymarket Turns GPU Price Bets into a Compute Forward Curve",
+  "link": "https://www.financemagnates.com/fintech/polymarket-turns-gpu-price-bets-into-a-compute-forward-curve/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Fintech",
+  "published": "2026-11-25T20:37:00Z",
+  "summary": "Through 2028 Polymarket has launched a page for betting on the cost of AI computing capacity. It uses separate binary markets to build a forward-style curve of rental prices for three Nvidia chips. The compute page covers the H100, B200 and B300 with a selection of settlement…",
+  "image": "https://images.financemagnates.com/images/Polymarket_id_69dcfcf7-f61f-41e5-b5ce-b948e8637ada_size900.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "d59432dea230",
+  "title": "BNY and Ant International Explore 24/7 FX and Tokenized…",
+  "link": "https://financefeeds.com/bny-and-ant-international-explore-24-7-fx-and-tokenized-funds/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-25T20:13:03Z",
+  "summary": "BNY and Ant International announced on November 25, 2026, that they have signed a memorandum of understanding to explore round-the-clock foreign exchange, tokenized deposits, money market funds and cross-border payment solutions, extending their collaboration in institutional…",
+  "image": "https://financefeeds.com/wp-content/uploads/2025/04/BNY-760x428.webp",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "28586ebec18d",
+  "title": "Fastest Transaction Networks Ranked: Finality Beyond Raw…",
+  "link": "https://financefeeds.com/fastest-transaction-networks-ranked/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-25T20:05:44Z",
+  "summary": "KEY TAKEAWAYS Aptos measured a 0.62-second average hard finality across 30 benchmark transactions in NEAR Protocol's December 2025 finality study, against its theoretical 650-millisecond target. Solana achieved 0.94-second optimistic confirmation but required 12.97 seconds for…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Fastest-Transaction-Networks-720x428.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "478920e53946",
+  "title": "Demystifying Paid Media Marketing",
+  "link": "https://www.wealthmanagement.com/marketing/why-marketing-attribution-fails-wealth-managers-today",
+  "source": "WealthManagement.com",
+  "feed": "WealthManagement.com",
+  "published": "2026-11-25T20:01:17Z",
+  "summary": "Capital rarely moves because of a single touchpoint.",
+  "image": "https://eu-images.contentstack.com/v3/assets/bltabaa95ef14172c61/bltce7d3f93623fcbec/6734c009b6a7fa4e262f4139/digital-marketing-arrow-bullseye.jpg?width=720&quality=80&disable=upscale",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "b7a516bd7a9d",
+  "title": "Financial Planning’s November CE quiz now available for advisors to earn credit",
+  "link": "https://www.financial-planning.com/news/financial-planning-s-november-ce-quiz-now-available-for-advisors-to-earn-credit",
+  "source": "Financial Planning",
+  "feed": "Financial Planning",
+  "published": "2026-11-25T19:58:39Z",
+  "summary": "The monthly continuing education quiz keeps planners up to date on important industry topics and provides a way to earn credit toward maintaining professional certifications.",
+  "image": "https://www.financial-planning.com/wp-content/uploads/sites/8/2026/11/AdobeStock_523974306.jpeg?resize=1200,675",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "b661a6b0e883",
+  "title": "People moves: Osaic hires HR chief, Hightower's Oros joins Praxis board",
+  "link": "https://www.investmentnews.com/fintech/people-moves-osaic-hires-hr-chief-hightowers-oros-joins-praxis-board/269185",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-25T19:50:24Z",
+  "summary": "Former Hightower CEO Bob Oros takes a seat at the board of Praxis Solutions as Nuveen taps a private credit distribution lead and FinServ Foundation adds advisory board members",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/deni_639064917669034980.jpg",
+  "section": "people",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "ba55b749bf33",
+  "title": "Sanctuary Wealth lands $250 million as Azimut pitches its own package",
+  "link": "https://www.investmentnews.com/independent-broker-dealers/sanctuary-wealth-lands-250-million-as-azimut-pitches-its-own-package/269184",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-25T19:26:14Z",
+  "summary": "Majority owner Azimut follows Kennedy Lewis with a matching $250 million offer as the $71 billion hybrid RIA platform weighs its financing",
+  "image": "https://cdn-res.keymedia.com/investmentnews/uploads/2023/02/AdamMalamed900x600.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "865036d1b4a9",
+  "title": "NovaTech Founders Ordered to Pay $1.37 Billion in Crypto…",
+  "link": "https://financefeeds.com/novatech-founders-ordered-to-pay-1-37-billion-in-crypto-fraud-case/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-25T19:12:15Z",
+  "summary": "A New York court has ordered NovaTech founders Cynthia and Eddy Petion to pay $1.367 billion over a cryptocurrency Ponzi scheme that collected more than $1.16 billion from investors, including at least 11,000 New Yorkers, after the defendants failed to contest the state's fraud…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/Crypto-Fraud-Prosecution-760x428.jpg",
+  "section": "digital",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "12e4ebba4365",
+  "title": "Osaic's Shannon Reid warns against sharing bank data with ChatGPT",
+  "link": "https://www.investmentnews.com/transformation/osaics-shannon-reid-warns-against-sharing-bank-data-with-chatgpt/269182",
+  "source": "InvestmentNews",
+  "feed": "InvestmentNews",
+  "published": "2026-11-25T19:10:22Z",
+  "summary": "As ChatGPT, Claude and Muse push into personal finance, the Osaic president says there's \"no way\" she'd give an \"unregulated AI tool\" her bank account info.",
+  "image": "https://cdn-res.keymedia.com/cms/images/in/andr_639312258695572737.jpeg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
   "id": "8471becc804a",
   "title": "Advisors keep buying buffer ETFs after three strong years: Allianz",
   "link": "https://www.investmentnews.com/goria/practice-management/advisors-keep-buying-buffer-etfs-after-three-strong-years-allianz/269181",
@@ -297,6 +468,23 @@
   ],
   "regions": [
    "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "58f065fccec5",
+  "title": "What the RBI's Draft Model Risk Guidance Means for AI Agents in Banks",
+  "link": "https://www.finextra.com/blogposting/33573/what-the-rbis-draft-model-risk-guidance-means-for-ai-agents-in-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-25T16:41:19Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
   ],
   "img_checked": true
  },
