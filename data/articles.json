@@ -1,5 +1,209 @@
 [
  {
+  "id": "88d01c5f8b97",
+  "title": "Next-Generation dApp Architecture: Modular Layers and…",
+  "link": "https://financefeeds.com/next-generation-dapp-architecture/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-26T17:11:58Z",
+  "summary": "KEY TAKEAWAYS Modular blockchain architecture separates execution, settlement, and data availability into independent layers, allowing rollups to specialize in specific functions rather than handling all operations on one chain. Shared sequencers provide transaction ordering for…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Next-Generation-dApp-Architecture-760x428.webp",
+  "section": "tech",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "4e07cee3caa3",
+  "title": "Replacing The Dollar With a Decentralized Currency: What…",
+  "link": "https://financefeeds.com/replacing-the-dollar-with-decentralized-currency/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-26T17:06:31Z",
+  "summary": "KEY TAKEAWAYS The US dollar currently represents 58% of global foreign reserve holdings, with the euro holding 20% as the second largest reserve currency in worldwide central bank allocations. China's Cross-Border Interbank Payment System (CIPS) processed about 175 trillion yuan…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Replacing-The-Dollar-760x428.jpeg",
+  "section": "people",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "a98eae57e893",
+  "title": "The America COMPETES Act and Its Emergency Powers Over…",
+  "link": "https://financefeeds.com/the-america-competes-act-and-its-emergency-powers/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-26T16:51:15Z",
+  "summary": "KEY TAKEAWAYS The America COMPETES Act proposed adding a sixth special measure under 31 USC 5318A, allowing the Treasury Secretary to prohibit or condition certain transmittals of funds, as the Secretary defines. The bill proposed removing the 120-day time limit for special…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/The-America-COMPETES-Act-and-Its-Emergency-Powers-Over-Tokens-760x428.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "01a43b84e8bd",
+  "title": "Chase Bank’s Stance on Token Purchases and Card…",
+  "link": "https://financefeeds.com/chase-banks-stance-on-token-purchases-and-card-declines/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-26T16:42:08Z",
+  "summary": "KEY TAKEAWAYS JPMorgan Chase banned credit card cryptocurrency purchases in February 2018, joining Bank of America and Citigroup in declining crypto-related transactions across personal and business credit card products. Chase UK blocked all crypto-related debit card purchases…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/11/Jpmorgan-Chase-Bank-card-760x428.webp",
+  "section": "digital",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "5e3c9818b81f",
+  "title": "TokenPost Hack Exposes Wallet Addresses and Member Data",
+  "link": "https://financefeeds.com/tokenpost-hack-exposes-wallet-addresses-and-member-data/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-26T16:27:05Z",
+  "summary": "South Korean cryptocurrency news platform TokenPost has confirmed a security breach involving a compromised administrator account, exposing member personal information, cryptocurrency wallet addresses and potentially sensitive token transaction records.The attack occurred on…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/03/‘ClickFix-Hackers-Impersonate-VCs-Hijack-QuickLens-in-Latest-Crypto-Attacks-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "8b666d37eacd",
+  "title": "Trump Calls for Investigation Into Q3 GDP After BEA Revises…",
+  "link": "https://financefeeds.com/trump-q3-gdp-investigation-4-3-percent/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-26T16:11:59Z",
+  "summary": "President Donald Trump called on Thursday, 26 November, for an \"immediate investigation\" of the Q3 GDP figures, a day after the Bureau of Economic Analysis (BEA) revised third-quarter growth to a 4.3% annual rate from 3.4%. In a Truth Social post, Trump said the numbers…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/05/Trump-Directs-Federal-Review-of-Fintech-Access-to-Fed-Payment-Infrastructure-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "14e0521e353f",
+  "title": "Spain’s Anti-Laundering Unit Can Now Freeze Crypto…",
+  "link": "https://financefeeds.com/spain-anti-laundering-unit-freeze-crypto-accounts/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-26T15:55:14Z",
+  "summary": "Spain's anti-money laundering unit will be able to suspend crypto-asset accounts and block suspicious transactions without prior judicial approval from Jan. 25, 2027, under a royal decree-law published in the Official State Gazette on Nov. 25. The power comes in Royal Decree-Law…",
+  "image": "https://financefeeds.com/wp-content/uploads/2022/05/Spain-760x428.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "ba064325848d",
+  "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+  "link": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-26T15:42:43Z",
+  "summary": "",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/05d5ef9229d2c55c6d1b5287d9ef9c3175c3093d-1500x785.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "19bf70e91305",
+  "title": "LayerZero Adds Kakao Pay, Samsung Card and ZAN as Zero…",
+  "link": "https://financefeeds.com/layerzero-adds-kakao-pay-samsung-card-and-zan-as-zero-genesis-validators/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-26T15:40:37Z",
+  "summary": "LayerZero has named South Korea's Kakao Pay and Samsung Card, alongside Ant Digital Technologies-backed ZAN, as genesis validators for its Zero blockchain ahead of a November 30, 2026 mainnet launch. The appointments bring established Asian financial and technology companies…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/07/LayerZero-and-Keeta-Target-Banks-With-a-Bold-Crypto-Bridge-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "c2bb4f35936b",
+  "title": "High Court of Ireland declines to sanction scheme for acquisition of Permanent TSB Group Holdings by BAWAG",
+  "link": "https://fxnewsgroup.com/forex-news/payments/high-court-of-ireland-declines-to-sanction-scheme-for-acquisition-of-permanent-tsb-group-holdings-by-bawag/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-26T15:30:10Z",
+  "summary": "Permanent TSB Group Holdings plc is considering the judgment.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2020/12/dublin_ireland.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
   "id": "03845740f7cf",
   "title": "Bitcoin Price Down About 22% in November With Four Days…",
   "link": "https://financefeeds.com/bitcoin-price-november-month-end/",
@@ -314,6 +518,23 @@
   ]
  },
  {
+  "id": "93fcbceab3ba",
+  "title": "Boerse Stuttgart Digital opens second HQ in Frankfurt am Main",
+  "link": "https://www.finextra.com/pressarticle/111799/boerse-stuttgart-digital-opens-second-hq-in-frankfurt-am-main?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-26T13:26:00Z",
+  "summary": "Boerse Stuttgart Digital has opened its second headquarters in Frankfurt am Main.",
+  "image": "",
+  "section": "deals",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "6c1e36231f5f",
   "title": "Brent Crude Price $95.58: Three-Day Rally Into OPEC+ Sunday",
   "link": "https://financefeeds.com/brent-crude-oil-price-95-58-thursday-three-day-rally-before-opec-plus-sunday-bull-100-bear-91/",
@@ -429,6 +650,24 @@
   "id": "5aae494ccc90",
   "title": "Sale Edge and Neumetria offer AI agents and lenders a current, cross-bank view of customers",
   "link": "https://www.finextra.com/pressarticle/111796/sale-edge-and-neumetria-offer-ai-agents-and-lenders-a-current-cross-bank-view-of-customers?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-26T13:15:00Z",
+  "summary": "Neumetria, a behavioural understanding layer for financial platforms and AI agents, has partnered with Salt Edge, a leading open banking solutions provider, to serve clients in Europe and North America.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Americas",
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "dba124d35d37",
+  "title": "Salt Edge and Neumetria offer AI agents and lenders a current, cross-bank view of customers",
+  "link": "https://www.finextra.com/pressarticle/111796/salt-edge-and-neumetria-offer-ai-agents-and-lenders-a-current-cross-bank-view-of-customers?utm_medium=rssfinextra&utm_source=finextrafeed",
   "source": "Finextra",
   "feed": "Finextra",
   "published": "2026-11-26T13:15:00Z",
