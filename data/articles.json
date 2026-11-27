@@ -1,5 +1,48 @@
 [
  {
+  "id": "073540869a6b",
+  "title": "Intermex sues Western Union over merger agreement termination",
+  "link": "https://www.finextra.com/newsarticle/48831/intermex-sues-western-union-over-merger-agreement-termination?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-27T18:10:00Z",
+  "summary": "Intermex is suing Western Union to enforce the terms of a $500 million merger agreement that the latter abandoned in the face of regulatory conditions.",
+  "image": "",
+  "section": "deals",
+  "also": [
+   "regulation"
+  ],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "85e7c6e1f563",
+  "title": "Vantage Markets Raises 24/7 Gold Leverage Tenfold in Less Than Five Months After Launch",
+  "link": "https://www.financemagnates.com/forex/brokers/vantage-markets-raises-247-gold-leverage-tenfold-in-less-than-five-months-after-launch/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-27T17:25:40Z",
+  "summary": "Offshore Forex and CFD broker Vantage Markets raised the maximum leverage for small positions on 24/7 gold CFD to 1:1000. This is the second increase since the contract launch in July 2026. According to the company, the change will enhance the client trading experience and…",
+  "image": "https://images.financemagnates.com/images/Vantage_id_bb90931e-3e85-428a-9e72-ec3ef7d8f72b_size900.jpg",
+  "section": "markets",
+  "also": [
+   "regulation"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "29a644d17f07",
   "title": "DTCC Tokenization Service Considers Adding Functionality",
   "link": "https://www.marketsmedia.com/dtcc-tokenization-service-considers-adding-functionality/",
@@ -48132,27 +48175,6 @@
   "also": [],
   "assets": [
    "Equities"
-  ],
-  "regions": [
-   "Americas"
-  ]
- },
- {
-  "id": "dce9afeee83b",
-  "title": "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
-  "link": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest",
-  "source": "SEC",
-  "feed": "SEC",
-  "published": "2026-09-28T17:46:30Z",
-  "summary": "The Securities and Exchange Commission today announced settled charges against New York-based investment adviser Zoe Financial Inc. for failing to fully and fairly disclose material facts concerning conflicts of interest to its clients and prospective…",
-  "image": "",
-  "section": "regulation",
-  "also": [
-   "wealth"
-  ],
-  "assets": [
-   "Equities",
-   "Wealth"
   ],
   "regions": [
    "Americas"
