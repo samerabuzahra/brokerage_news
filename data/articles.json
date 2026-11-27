@@ -1,5 +1,208 @@
 [
  {
+  "id": "6e52e8de0b1d",
+  "title": "Italy’s CONSOB orders blocking of four unauthorized investment websites",
+  "link": "https://fxnewsgroup.com/forex-news/regulatory/italys-consob-orders-blocking-of-four-unauthorized-investment-websites-3/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-27T10:58:56Z",
+  "summary": "Italy’s Companies and Exchange Commission (CONSOB) today announced it has ordered the blocking of access to four unauthorized investment websites.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2020/05/CONSOB-Italy.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Equities"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "ec46fa9b480f",
+  "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+  "link": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-27T10:51:27Z",
+  "summary": "Banco B3 will issue the token, backed one-to-one by reais, and other financial institutions can join from launch.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b575e5fb400b044ebb5d3c2d88d2a80846eafb-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "17d600f263da",
+  "title": "JM Finn names Dominic May interim CEO as Hugo Bedford retires",
+  "link": "https://www.privatebankerinternational.com/news/jm-finn-names-ceo/",
+  "source": "Private Banker International",
+  "feed": "Private Banker International",
+  "published": "2026-11-27T10:41:41Z",
+  "summary": "Bedford’s retirement brings an end to a three-decade career focused on private client investment management.",
+  "image": "https://www.privatebankerinternational.com/wp-content/uploads/sites/5/2026/11/jm-shutterstock_1935252497.jpg",
+  "section": "people",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "45225847d91c",
+  "title": "Swiss wealth firm NFG Partners launches Dubai advisory entity",
+  "link": "https://www.privatebankerinternational.com/news/nfg-partners-dubai-advisory-entity/",
+  "source": "Private Banker International",
+  "feed": "Private Banker International",
+  "published": "2026-11-27T10:34:46Z",
+  "summary": "The Dubai entity will advise clients on portfolios held across different banks, custodians, and jurisdictions.",
+  "image": "https://www.privatebankerinternational.com/wp-content/uploads/sites/5/2026/11/nfg-shutterstock_2743160617.jpg",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "UK & Europe",
+   "Middle East & Africa"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "4f8f3b720d28",
+  "title": "New charitable tax rules give advisors a Giving Tuesday conversation starter",
+  "link": "https://www.financial-planning.com/news/new-charitable-tax-rules-give-advisors-a-giving-tuesday-conversation-starter",
+  "source": "Financial Planning",
+  "feed": "Financial Planning",
+  "published": "2026-11-27T10:30:00Z",
+  "summary": "Financial advisors can leverage Giving Tuesday to help their clients build long-term, tax-efficient philanthropic plans beyond the single day event.",
+  "image": "https://www.financial-planning.com/wp-content/uploads/sites/8/2026/11/366398527.jpg?resize=1200,675",
+  "section": "wealth",
+  "also": [],
+  "assets": [
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "66634b583d64",
+  "title": "ATFX Connect relocates to new London office",
+  "link": "https://fxnewsgroup.com/forex-news/institutional/atfx-connect-relocates-to-new-london-office/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-27T10:29:32Z",
+  "summary": "The relocation strengthens the company’s existing presence in the UK and supports its continued development of its institutional business.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/ATFX-Connect-London-office-opening.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "1714dd7772aa",
+  "title": "Truelayer and Papa John’s transact AI-powered agentic Pay by Bank payment",
+  "link": "https://www.finextra.com/newsarticle/48825/truelayer-and-papa-johns-transact-ai-powered-agentic-pay-by-bank-payment?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-27T10:28:00Z",
+  "summary": "Truelayer, with Lloyds Bank, yesterday completed an agentic Pay by Bank transaction at Papa John’s in the UK.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "d8203ab93e0a",
+  "title": "Paysafe partners with The5ers to expand presence in prop trading space",
+  "link": "https://www.finextra.com/pressarticle/111800/paysafe-partners-with-the5ers-to-expand-presence-in-prop-trading-space?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-27T10:08:00Z",
+  "summary": "Paysafe, a global payments platform built for the experience economy, today announced its partnership with The5ers, a leading funded trading company serving traders worldwide. The5ers has connected to Paysafe to streamline traders’ credit card and debit card payments and to…",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "d2985e457905",
+  "title": "Cyber resilience: building confidence as threats evolve",
+  "link": "https://www.fca.org.uk/news/speeches/cyber-resilience-building-confidence-threats-evolve",
+  "source": "FCA",
+  "feed": "FCA",
+  "published": "2026-11-27T09:34:00Z",
+  "summary": "Speech by Mark Francis, director of specialists at the Cyber Security in Financial Services Summit. There is no shortage of material for a speech about cyber security at the moment.Recent months have provided some stark reminders of just how interconnected our digital economy…",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "469b385f9d2a",
+  "title": "Euroclear appoints Stephane Bernard CEO of European Markets",
+  "link": "https://www.leaprate.com/executives-moves/euroclear-appoints-stephane-bernard-ceo-of-european-markets/",
+  "source": "LeapRate",
+  "feed": "LeapRate",
+  "published": "2026-11-27T09:25:29Z",
+  "summary": "Euroclear has appointed Stephane Bernard, chief operating officer of Euroclear Bank, to run its European Markets business from 1 January 2027, subject to regulatory approvals, succeeding Bernard Frenay, who leaves at the end of 2026. The post Euroclear appoints Stephane Bernard…",
+  "image": "",
+  "section": "people",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "f5961e89ac12",
+  "title": "Finance Magnates Academy Announces Collaboration with Chrysothemi Valanidou",
+  "link": "https://www.financemagnates.com/thought-leadership/finance-magnates-academy-announces-collaboration-with-chrysothemis-valanidou/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-27T09:23:48Z",
+  "summary": "The collaboration strengthens FM Academy's network of industry experts, bringing legal, regulatory and business expertise to professional education across the betting and gaming sector. Finance Magnates Academy is pleased to announce its collaboration with Chrysothemi Valanidou…",
+  "image": "https://images.financemagnates.com/images/FM%20Academy%20Announces%20Collaboration%20with%20Chrysothemi%20Valanidou_id_44977021-a4af-4d96-a892-5ff1ef08e609_size900.jpg",
+  "section": "regulation",
+  "also": [],
+  "assets": [
+   "Wealth"
+  ],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "f3d99e579124",
   "title": "ATFX Connect Marks New Chapter with London Office Relocation",
   "link": "https://www.financemagnates.com/thought-leadership/atfx-connect-marks-new-chapter-with-london-office-relocation/",
@@ -3075,12 +3278,12 @@
  },
  {
   "id": "7b9cbb0564f1",
-  "title": "Is Tickmill Launching Prediction Markets?",
+  "title": "Tickmill Is Launching Prediction Markets",
   "link": "https://www.financemagnates.com/forex/is-tickmill-launching-prediction-markets/",
   "source": "Finance Magnates",
   "feed": "Finance Magnates · Forex",
   "published": "2026-11-26T08:22:38Z",
-  "summary": "There has been a lot of talk recently about prediction markets becoming the next major product expansion for retail brokers. However, very few brokers have made the leap so far. Tickmill appears to be preparing to join their ranks, having recently posted a job opening for a Head…",
+  "summary": "There has been a lot of talk recently about prediction markets becoming the next major product expansion for retail brokers. However, very few brokers have made the leap so far. Tickmill is preparing to join their ranks, having recently posted a job opening for a Head of…",
   "image": "https://images.financemagnates.com/images/Tickmill_id_e606ac79-2b1b-4c33-8288-ac39becf257a_size900.jpeg",
   "section": "digital",
   "also": [
