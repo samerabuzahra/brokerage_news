@@ -1,5 +1,46 @@
 [
  {
+  "id": "29a644d17f07",
+  "title": "DTCC Tokenization Service Considers Adding Functionality",
+  "link": "https://www.marketsmedia.com/dtcc-tokenization-service-considers-adding-functionality/",
+  "source": "Markets Media",
+  "feed": "Markets Media",
+  "published": "2026-11-27T16:34:43Z",
+  "summary": "The most important firms in the financial industry are starting to use the service.",
+  "image": "https://www.marketsmedia.com/wp-content/uploads/2015/05/digital-transformation-continues-150x150.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "65c1227e63df",
+  "title": "BingX Lets CFD Traders Split Strategies Across Three Accounts",
+  "link": "https://www.financemagnates.com/cryptocurrency/exchange/bingx-lets-cfd-traders-split-strategies-across-three-accounts/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Crypto",
+  "published": "2026-11-27T15:30:00Z",
+  "summary": "BingX now supports multiple CFD standard accounts, allowing eligible users to create up to three separate accounts and use them for different trading strategies. By default, one main CFD account can have up to three sub-accounts, each with its own funds, margin, positions and…",
+  "image": "https://images.financemagnates.com/images/BingX_id_ed8ebd62-4342-4bb1-843e-d48a0a4ae7ff_size900.jpeg",
+  "section": "digital",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "d717a9ec86e5",
   "title": "OIO Group and W Group Outline US$150 Million Equity…",
   "link": "https://financefeeds.com/oio-group-w-group-150-million-equity-partnership-luxury-cars-web3/",
@@ -19,6 +60,23 @@
    "UK & Europe",
    "Asia Pacific"
   ]
+ },
+ {
+  "id": "9def74fac52c",
+  "title": "The Instructions Nobody Gave",
+  "link": "https://www.finextra.com/blogposting/33592/the-instructions-nobody-gave?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-27T14:48:58Z",
+  "summary": "Author: A finextra community member",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
  },
  {
   "id": "2dc18d04d4a8",
@@ -268,6 +326,23 @@
   "regions": [
    "Americas"
   ]
+ },
+ {
+  "id": "9bd7021452de",
+  "title": "Deutsche Börse cleared to complete Allfunds acquistion",
+  "link": "https://www.finextra.com/pressarticle/111802/deutsche-brse-cleared-to-complete-allfunds-acquistion?utm_medium=rssfinextra&utm_source=finextrafeed",
+  "source": "Finextra",
+  "feed": "Finextra",
+  "published": "2026-11-27T13:11:00Z",
+  "summary": "Deutsche Börse Group today received unconditional merger control clearance for its planned acquisition of Allfunds Group from the European Commission following its Phase I review.",
+  "image": "",
+  "section": "tech",
+  "also": [],
+  "assets": [],
+  "regions": [
+   "UK & Europe"
+  ],
+  "img_checked": true
  },
  {
   "id": "e12c4761aac1",
