@@ -1,5 +1,322 @@
 [
  {
+  "id": "36ac48b1fc3d",
+  "title": "Bitcoin Core Contributor Finds $0.35 Attack That Could Link…",
+  "link": "https://financefeeds.com/bitcoin-core-contributor-finds-0-35-attack-that-could-link-wallet-addresses-to-node-ips/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-27T07:34:28Z",
+  "summary": "A Bitcoin Core contributor has identified a privacy vulnerability that could allow attackers to connect Bitcoin wallet addresses to the IP addresses of nodes monitoring them for less than $0.35 per attempt. Abubakar Sadiq Ismail disclosed the findings on November 25, 2026…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/bitcoin-casascius-coin-binance-hack-760x428.jpg",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "723564d5ff1a",
+  "title": "Strategy’s mNAV Hits Record Low of 0.88x as JPMorgan Warns…",
+  "link": "https://financefeeds.com/strategys-mnav-hits-record-low-of-0-88x-as-jpmorgan-warns-of-bitcoin-market-capitulation/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-27T07:34:24Z",
+  "summary": "Strategy's market-to-net-asset-value multiple (mNAV) fell to a reported record low of 0.88x on November 25, 2026, as declining Bitcoin prices and weakening investor sentiment placed additional pressure on the world's largest publicly traded corporate Bitcoin holder. According to…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/08/Strategy-Jumps-11-as-Bitcoin-Sparks-a-Sudden-Rebound-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "06bbb3dc3f60",
+  "title": "CFTC Crypto Market Rules: Public Comments on Proposed…",
+  "link": "https://financefeeds.com/cftc-crypto-market-rules-public-comments-on-proposed-regulatory-framework-close-december-14/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-27T07:34:20Z",
+  "summary": "The US Commodity Futures Trading Commission (CFTC) has set December 14, 2026, as the deadline for public comments on its proposed cryptocurrency market regulatory framework, advancing efforts to establish clearer federal oversight of digital asset trading. The consultation…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/Better-Markets-Fires-at-the-CFTCs-Retail-Crypto-Push-678x428.jpg",
+  "section": "regulation",
+  "also": [
+   "digital"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "ae84be4b9585",
+  "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
+  "link": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+  "source": "CoinDesk",
+  "feed": "CoinDesk",
+  "published": "2026-11-27T07:33:01Z",
+  "summary": "Monero (XMR) crashed over 11% on Thursday, its biggest drop since early June. Back-to-back exchange delistings seem to have catalyzed the price slide.",
+  "image": "https://cdn.sanity.io/images/s3y3vcno/production/f456c8ffc9ab2b603ddbba9f8613cb0a168723e2-1280x853.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+  "section": "digital",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Crypto"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "3354cc3a10ed",
+  "title": "ActivTrades Relaunches ActivPartner: A Partner Programme Built Around Each Partner's Business",
+  "link": "https://www.financemagnates.com/thought-leadership/activtrades-relaunches-activpartner-a-partner-programme-built-around-each-partners-business/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-27T07:29:19Z",
+  "summary": "ActivTrades has relaunched ActivPartner, its partner programme, around a simple philosophy: a partnership should protect both the partner's business and the trust of the audience behind it. The revamped programme pairs tailored commercial terms with the backing of a regulated…",
+  "image": "https://images.financemagnates.com/images/activtrades_id_9fe18ad6-6fff-4a68-896f-ed0d37a0731b_size900.jpeg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Middle East & Africa",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "f2a3a154fbd1",
+  "title": "Euroclear names Stephane Bernard its CEO of European Markets",
+  "link": "https://fxnewsgroup.com/forex-news/executives/euroclear-names-stephane-bernard-its-ceo-of-european-markets/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-27T07:13:51Z",
+  "summary": "Euroclear has announced the appointment of Stephane Bernard as Chief Executive Officer of European Markets, effective from 1 January 2027.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/stephane_bernard.jpeg",
+  "section": "people",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "ee4e7a01b6c5",
+  "title": "Nasdaq Composite 23,586: Futures Up 2.9% Into Half Day",
+  "link": "https://financefeeds.com/nasdaq-composite-23586-black-friday-futures-up-2-9-percent-bull-24430-bear-22948/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-27T06:52:37Z",
+  "summary": "Updated 27 November 2026, 07:00 GMT. The Nasdaq Composite last closed at 23,585.80 on Wednesday 25 November, down 0.62 percent after a 4.6 percent intraday drop (CNBC). US markets were shut on Thursday. Nasdaq-100 futures were at 26,848.25 at 06:35 GMT on Friday, up 2.87 percent…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/Nasdaq-100-Braces-for-Tesla-and-Meta-After-Volatile-Night-760x428.webp",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "fff86a9dd7a4",
+  "title": "MU Stock $601: Micron’s Half Session, 3 Weeks to…",
+  "link": "https://financefeeds.com/micron-mu-stock-601-black-friday-half-session-three-weeks-to-results-bull-672-bear-548/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-27T06:52:20Z",
+  "summary": "Updated 27 November 2026, 07:00 GMT. Micron Technology (NASDAQ: MU) last closed at $601.25 on Wednesday 25 November, down 4.53 percent, and traded at $615.21 after hours at 7:59 p.m. ET (StockAnalysis). US markets were shut on Thursday; Friday is a half session to 1:00 p.m. ET…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/micron-earnings-hiroshima-fab-0921-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "6485a078cde9",
+  "title": "Sandisk Stock $73.61: Half Session After a 75% Slide",
+  "link": "https://financefeeds.com/sandisk-sndk-stock-73-black-friday-half-session-futures-up-3-percent-bull-84-bear-67/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-27T06:52:03Z",
+  "summary": "Updated 27 November 2026, 07:00 GMT. Sandisk (NASDAQ: SNDK) last closed at $73.61 on Wednesday 25 November, down 5.57 percent, and traded at $76.68 after hours at 7:59 p.m. ET (StockAnalysis). US markets were shut on Thursday; Friday is a half session that ends at 1:00 p.m. ET…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/sandisk-milpitas-headquarters-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "c02ea8f066af",
+  "title": "Gold Price Today $3,650: Rebound From 15-Month Low",
+  "link": "https://financefeeds.com/gold-price-today-3650-friday-rebound-from-15-month-low-silver-up-6-percent-bull-3742-bear-3567/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-27T06:51:45Z",
+  "summary": "Updated 27 November 2026, 07:00 GMT. Spot gold was $3,650.08 an ounce at 06:45 GMT on Friday 27 November (Swissquote bid), up about 2.3 percent from Thursday's $3,567.60 (CNBC); Trading Economics had it at $3,647.79, up 2.26 percent. February COMEX futures were $3,678.40 at…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/gold-price-4286-bull-4750-bear-3850-bullion-0926-760x428.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "c21fe25f8582",
+  "title": "XBTFX Expands Partner Programs With Lifetime IB Rebates and CPA Payouts Up to $1,850",
+  "link": "https://www.financemagnates.com/thought-leadership/xbtfx-expands-partner-programs-with-lifetime-ib-rebates-and-cpa-payouts-up-to-1850/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates",
+  "published": "2026-11-27T06:41:09Z",
+  "summary": "Building an audience in financial markets takes time, and building sustainable revenue from that audience can be even more challenging. XBTFX , a multi-asset online broker, has expanded its partner ecosystem to help address that challenge. Approved partners can choose between…",
+  "image": "https://images.financemagnates.com/images/XBTFX_id_5e3bb1cd-ce13-45e9-840e-ba6efdd2f67d_size900.jpeg",
+  "section": "deals",
+  "also": [
+   "tech"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
+  "id": "8467d68fd360",
+  "title": "Standard Chartered expands quantum computing research program",
+  "link": "https://fxnewsgroup.com/forex-news/institutional/standard-chartered-expands-quantum-computing-research-program/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-27T06:22:55Z",
+  "summary": "Standard Chartered is expanding its quantum computing research program, following the successful completion of its first year of research.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2020/07/Standard-Chartered.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ]
+ },
+ {
+  "id": "b953051b5507",
+  "title": "Euronext Athens to merge with Euronext N.V.",
+  "link": "https://fxnewsgroup.com/forex-news/institutional/euronext-athens-to-merge-with-euronext-n-v/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-27T06:12:02Z",
+  "summary": "Euronext N.V. and Euronext Athens Holding S.A. have decided to pursue a cross-border Merger by which Euronext N.V. will absorb Euronext Athens Holding S.A.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2020/10/WM-Euronext-building.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "9cdbfb2953ac",
+  "title": "ASX announces $300M medium term notes issue",
+  "link": "https://fxnewsgroup.com/forex-news/exchanges/asx-announces-300m-medium-term-notes-issue/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-27T06:00:29Z",
+  "summary": "The Notes have a coupon of 3-month BBSW + 105bps, were priced at par and mature on 3 December 2029.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2020/11/Australia-ASX-exchange.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "c6df163e0434",
+  "title": "Exclusive: Deriv Cyprus head-of-office Loukas Priovolos departs",
+  "link": "https://fxnewsgroup.com/forex-news/executives/exclusive-deriv-cyprus-head-of-office-loukas-priovolos-departs/",
+  "source": "FX News Group",
+  "feed": "FX News Group",
+  "published": "2026-11-27T05:58:40Z",
+  "summary": "Alexandre Popoff, Deriv's Head of Dealing Products, has been named Cyprus Head of Office in his place.",
+  "image": "https://fxnewsgroup.com/wp-content/uploads/2026/11/Loukas-Priovolos-Deriv-Cyprus.jpeg",
+  "section": "people",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "UK & Europe"
+  ]
+ },
+ {
+  "id": "b8462799f011",
+  "title": "The Acquisition Trap: Why Brokerage Growth Depends on What Happens After the First Deposit",
+  "link": "https://www.financemagnates.com/forex/the-acquisition-trap-why-brokerage-growth-depends-on-what-happens-after-the-first-deposit/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-27T05:44:46Z",
+  "summary": "Traditionally, the brokerage industry has focused heavily on acquisition. Brokers invest significant resources in advertising, affiliates, IBs, technology, promotions and onboarding, all with the goal of converting prospects into funded accounts. But acquisition is only the…",
+  "image": "https://images.financemagnates.com/images/Retention_id_c906acaa-e300-4f2c-a1e0-f12a74efa676_size900.jpeg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "FX & CFD"
+  ],
+  "regions": [
+   "Global"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "97e0be3fd534",
   "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
   "link": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
