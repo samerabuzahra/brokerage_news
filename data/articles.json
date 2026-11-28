@@ -1,5 +1,109 @@
 [
  {
+  "id": "455d7f0895e8",
+  "title": "GOOG Stock $272.44: Week Ahead After Alphabet’s…",
+  "link": "https://financefeeds.com/alphabet-goog-stock-272-saturday-week-ahead-after-52-week-low-bull-290-bear-260/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-28T08:10:44Z",
+  "summary": "Updated 28 November 2026. Alphabet's Class C shares (NASDAQ: GOOG) closed Friday 27 November at $272.44 at the 1:00 p.m. ET end of the shortened session (Google Finance; Fidelity), up about 0.5 percent from Wednesday's $270.98. After-hours quotes reached $273.51 (StockAnalysis)…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/googleplex-hq-mountain-view-commons-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "fdd8da364a72",
+  "title": "MU Stock $646.95: Micron Up 7.6%, Results on 17 December",
+  "link": "https://financefeeds.com/micron-mu-stock-646-saturday-week-ahead-up-7-6-percent-results-17-december-bull-775-bear-601/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-28T08:10:41Z",
+  "summary": "Updated 28 November 2026. Micron Technology (NASDAQ: MU) closed Friday 27 November at $646.95 , up 7.6 percent from Wednesday's $601.25, in a session that ended at 1:00 p.m. ET (Celsmar; Daily Political). The range was $607.27-$654.44. Verdict: Friday won back about half of…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/micron-earnings-hiroshima-fab-0921-760x428.jpg",
+  "section": "deals",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "186097b62c93",
+  "title": "Sandisk Stock $85.36: SNDK Week Ahead After a 16% Rebound",
+  "link": "https://financefeeds.com/sandisk-sndk-stock-85-saturday-week-ahead-after-16-percent-rebound-bull-94-bear-73/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-28T08:10:38Z",
+  "summary": "Updated 28 November 2026. Sandisk (NASDAQ: SNDK) closed Friday 27 November at $85.36 , up $11.75 or 15.96 percent, at the 1:00 p.m. ET end of the holiday-shortened session (Yahoo Finance; The Motley Fool). The day's range was $77.10-$85.44, so the stock finished near its high…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/10/sandisk-milpitas-headquarters-760x428.jpg",
+  "section": "tech",
+  "also": [],
+  "assets": [
+   "Equities",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas"
+  ]
+ },
+ {
+  "id": "75573d626fe6",
+  "title": "Gold Price Today $3,653: First Weekly Gain in Three Weeks",
+  "link": "https://financefeeds.com/gold-price-today-3653-saturday-week-ahead-first-weekly-gain-in-three-weeks-bull-3742-bear-3567/",
+  "source": "FinanceFeeds",
+  "feed": "FinanceFeeds",
+  "published": "2026-11-28T08:10:34Z",
+  "summary": "Updated 28 November 2026. Spot gold ended Friday 27 November at about $3,653 an ounce ($3,653.43 at 4:50 p.m. New York time, up about 2.4 percent, per Jiji Press; Kitco had $3,653.00 at 5:21 p.m. ET). February COMEX futures settled at $3,668.50, up 2.91 percent. Spot gold gained…",
+  "image": "https://financefeeds.com/wp-content/uploads/2026/09/gold-price-4286-bull-4750-bear-3850-bullion-0926-760x428.jpg",
+  "section": "markets",
+  "also": [],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth"
+  ],
+  "regions": [
+   "Americas",
+   "Asia Pacific"
+  ]
+ },
+ {
+  "id": "13cd890de7c3",
+  "title": "Weekly Recap: CMC Markets Profit More Than Doubles, Revenue Rises 54%; MetaQuotes Warns of DDoS Attacks",
+  "link": "https://www.financemagnates.com/forex/weekly-recap-cmc-markets-profit-more-than-doubles-revenue-rises-54-metaquotes-warns-of-ddos-attacks/",
+  "source": "Finance Magnates",
+  "feed": "Finance Magnates · Forex",
+  "published": "2026-11-28T08:00:00Z",
+  "summary": "This week's developments covered financial results, regulatory changes and shifts in the retail trading industry. CMC Markets reported a sharp increase in profit while securing UK crypto registration, although its shares came under pressure. Meanwhile, IG Group faced a possible…",
+  "image": "https://images.financemagnates.com/images/CMC%20Markets_id_0c64c326-c4fa-4aa1-b8d3-6203d842575d_size900.jpeg",
+  "section": "tech",
+  "also": [
+   "deals"
+  ],
+  "assets": [
+   "Equities",
+   "FX & CFD",
+   "Wealth",
+   "Crypto"
+  ],
+  "regions": [
+   "Americas",
+   "UK & Europe",
+   "Asia Pacific"
+  ],
+  "img_checked": true
+ },
+ {
   "id": "bfa6056e0e9a",
   "title": "Over $600 Million in Stolen Binance Crypto Moves Through…",
   "link": "https://financefeeds.com/over-600-million-in-stolen-binance-crypto-moves-through-thorchain/",
